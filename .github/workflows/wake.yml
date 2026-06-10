@@ -1,0 +1,29 @@
+name: wake
+on:
+  schedule:
+    - cron: '0 0 * * *'
+    - cron: '48 4 * * *'
+    - cron: '36 9 * * *'
+    - cron: '24 14 * * *'
+    - cron: '12 19 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  wake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check STOP.md and wake
+        run: |
+          if [ -f STOP.md ]; then
+            echo "STOP.md present - not waking."
+            exit 0
+          fi
+          git config user.name "scheduler"
+          git config user.email "scheduler@users.noreply.github.com"
+          git checkout -B wake
+          git commit --allow-empty -m "wake $(date -u +%FT%TZ)"
+          git push -f origin wake
