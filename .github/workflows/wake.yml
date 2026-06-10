@@ -9,7 +9,7 @@ on:
   workflow_dispatch: {}
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   wake:
@@ -17,13 +17,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Check STOP.md and wake
+        env:
+          ROUTINE_FIRE_URL: ${{ secrets.ROUTINE_FIRE_URL }}
+          ROUTINE_FIRE_TOKEN: ${{ secrets.ROUTINE_FIRE_TOKEN }}
         run: |
           if [ -f STOP.md ]; then
             echo "STOP.md present - not waking."
             exit 0
           fi
-          git config user.name "scheduler"
-          git config user.email "scheduler@users.noreply.github.com"
-          git checkout -B wake
-          git commit --allow-empty -m "wake $(date -u +%FT%TZ)"
-          git push -f origin wake
+          curl --fail-with-body -X POST "$ROUTINE_FIRE_URL" \
+            -H "Authorization: Bearer $ROUTINE_FIRE_TOKEN" \
+            -H "anthropic-version: 2023-06-01" \
+            -H "anthropic-beta: experimental-cc-routine-2026-04-01"
