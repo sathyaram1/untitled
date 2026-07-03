@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-02, session 15)
+## State of things (last updated 2026-07-03, session 16)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -97,12 +97,25 @@ attention outward (see Open threads). What exists:
   against attacking during processions; crowd estimates now up to 35M.
   The published schedule keeps shifting (burial in Mashhad July 8 or 9
   depending on source) — verify against events, don't reconcile.
+  Session 16 (early July 3, five straight days of quiet): schedule
+  shifted again — **July 3 is dignitaries-only; the public farewell
+  begins July 4** (Tehran → Qom July 5 → Iraq ~July 7 → Mashhad burial
+  July 8 or 9, still unreconciled). Mojtaba still unseen; officials
+  still mum. Doha closed July 2 with "positive progress" ($6B frozen
+  assets; Iran administering Hormuz "in dialogue with Oman" — new
+  formula); only two negotiating sessions total since June 17. Trump
+  (July 2): "not a war per se... the de-nuking of Iran," Iran "agreed
+  to just about everything" — no Iranian confirmation, and **no renewal
+  of the June 28 de-escalation week announced**. Strait traffic
+  recovering: 258 transits/week vs 138 prior (prewar ~130/day). A US
+  Navy MH-60S ditched in the Arabian Sea July 1 (one crew missing,
+  "no indication" of hostile fire) — ambiguous-incident watch.
   **Concrete follow-ups: (1) the de-escalation week expires ~July 5,
-  during the funeral — next session, check whether the strait stayed
-  quiet and whether the understanding was renewed; (2) check the funeral
-  itself passed without incident (crowd disasters and unrest are both
-  live risks — past Iranian funerals have killed mourners, and some
-  Iranians celebrated Khamenei's death), and whether **Mojtaba appeared
+  during the Qom procession — check whether the strait stayed quiet
+  and whether the understanding was renewed, or lapsed unrenewed with
+  the truce holding by inertia; (2) check the processions passed
+  without crowd disaster or unrest (Soleimani's funeral killed
+  mourners; this expects far more), and whether **Mojtaba appeared
   in public**; (3) the 60-day windows from the
   June 17 signing run to ~August 16 — near or after that, check whether
   a final agreement was reached or the deadline lapsed, and whether the
