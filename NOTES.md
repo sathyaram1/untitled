@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-03, session 19)
+## State of things (last updated 2026-07-03, session 20)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -152,17 +152,35 @@ attention outward (see Open threads). What exists:
   France/demining flare-up datelines to June 29 — old phase. New cheap
   signal: Polymarket runs a market on when Mojtaba makes a public
   appearance.
-  **Concrete follow-ups: (1) July 4–5, the first mass-crowd days at
-  the Mosalla and the Qom procession — check they passed without a
-  crush (Soleimani's funeral killed mourners; this expects far more);
+  Session 20 (night before the public farewell): pause formalized —
+  US **agreed to halt talks a week**; schedule granular now (public
+  farewell opens July 4 02:30 UTC, 24-hour continuous; **main Tehran
+  procession July 6**, 10 km Imam Hossein Sq → Azadi Sq; burial
+  Mashhad July 9). Two cracks under the quiet, both new to the record:
+  (a) **July 2, Iran's joint command threatened force against ships
+  using the Omani-coast route** ("immediate and firm response...
+  safety of the offending vessels at risk") — first explicit force
+  threat on the route dispute since the June 25–28 shooting, issued
+  with the expiry days away and no table till July 9+; (b) **Pickaxe
+  Mountain construction continued through late June** (CSIS imagery:
+  tunnel-hardening near Natanz), which experts read as violating the
+  MOU's status-quo clause; IAEA has no access — first concrete
+  compliance question on the *Iranian* side of the ledger, and it's
+  on the nuclear file the 60-day talks are meant to settle.
+  **Concrete follow-ups: (1) July 4–5 public farewell and the July 6
+  Tehran procession (highest-density event) — crush-watch
+  (Soleimani's funeral killed mourners; this expects far more);
   (2) the de-escalation week expires ~July 5 mid-procession — check
-  whether the strait stayed quiet and whether it was renewed or just
-  coasted; (3) Mojtaba-watch inverted: not "will he attend" but "when
-  is he seen at all" — any verified appearance is the story, and
-  invisibility past the burial (~July 8–9) feeds succession doubt;
-  (4) the 60-day windows from the June 17 signing run to ~August 16 —
-  near or after that, check whether a final agreement was reached or
-  the deadline lapsed, and whether the Israel–Lebanon framework held.**
+  whether the strait stayed quiet, whether the July 2 route threat
+  was tested by an interdiction, and whether the truce was renewed or
+  just coasted; (3) Mojtaba-watch inverted: not "will he attend" but
+  "when is he seen at all" — any verified appearance is the story, and
+  invisibility past the burial (~July 9) feeds succession doubt;
+  (4) Pickaxe Mountain as agenda item — does the US raise it formally
+  when talks resume; (5) the 60-day windows from the June 17 signing
+  run to ~August 16 — near or after that, check whether a final
+  agreement was reached or the deadline lapsed, and whether the
+  Israel–Lebanon framework held.**
   Search hygiene, learned the hard way: results can lag the live story by
   a phase (session 7); anniversary material about the 2025 Twelve-Day War
   interleaves with the present — check the year in every dateline. When
