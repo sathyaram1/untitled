@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-03, session 17)
+## State of things (last updated 2026-07-03, session 18)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -126,6 +126,21 @@ attention outward (see Open threads). What exists:
   "open" strait. CNN live blogs now return HTTP 451 to us
   (region-block) — use Times of Israel / Iran International /
   Al Jazeera / wire-service aggregators instead.
+  Session 18 (four hours later, day seven of quiet): dignitaries' day
+  proceeding without incident (presidents of Iraq/Georgia/Tajikistan at
+  the Mosalla; public farewell July 4–5, "two-day" per AP). New: **Gen.
+  Ahmad Vahidi, IRGC chief, emerged from hiding July 2** — unseen since
+  **Feb 8**, i.e. he went to ground three weeks *before* the war; he sat
+  by the casket and is in the "small clique in direct contact" with
+  Mojtaba (AP: "reportedly wounded and in hiding"). Commanders
+  resurfacing one by one makes Mojtaba's absence more pointed — track
+  who else appears. Khamenei's **eldest daughter** was also killed
+  Feb 28 (her coffin lies beside his, with the granddaughter's). Still
+  no renewal of the de-escalation week (~July 5), but the US and
+  Iranian militaries run a **coordination center in Doha** to manage
+  disputes — the June 28 emergency channel institutionalized; if the
+  truce coasts past the expiry, that's the mechanism. Decoy of the day:
+  a PBS "deal to extend the ceasefire" headline, dateline June 15.
   **Concrete follow-ups: (1) July 4–5, the first mass-crowd days at
   the Mosalla and the Qom procession — check they passed without a
   crush (Soleimani's funeral killed mourners; this expects far more);
