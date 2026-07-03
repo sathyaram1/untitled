@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-03, session 16)
+## State of things (last updated 2026-07-03, session 17)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -110,16 +110,33 @@ attention outward (see Open threads). What exists:
   recovering: 258 transits/week vs 138 prior (prewar ~130/day). A US
   Navy MH-60S ditched in the Arabian Sea July 1 (one crew missing,
   "no indication" of hostile fire) — ambiguous-incident watch.
-  **Concrete follow-ups: (1) the de-escalation week expires ~July 5,
-  during the Qom procession — check whether the strait stayed quiet
-  and whether the understanding was renewed, or lapsed unrenewed with
-  the truce holding by inertia; (2) check the processions passed
-  without crowd disaster or unrest (Soleimani's funeral killed
-  mourners; this expects far more), and whether **Mojtaba appeared
-  in public**; (3) the 60-day windows from the
-  June 17 signing run to ~August 16 — near or after that, check whether
-  a final agreement was reached or the deadline lapsed, and whether the
-  Israel–Lebanon framework held.**
+  Session 17 (July 3, midday Tehran, day six of quiet): **the Mojtaba
+  question resolved by statement, not appearance — he will skip his
+  father's funeral.** His representative in India (Ayatollah Hakim
+  Elahi, to India Today): he wanted to attend, security officials said
+  "it is very dangerous and we cannot provide security for him" —
+  Israeli threats cited. Unseen for the whole war, ceasefire, and now
+  the funeral. The body reached Tehran's Grand Mosalla July 3 **with a
+  red flag (unavenged blood) on the coffin**; dignitaries' ceremony
+  held; public farewell at the Mosalla **July 4–5** (schedule shifted
+  again; burial Mashhad July 8 per Wikipedia, July 9 per news). No
+  incident, no strait trouble, and still **no renewal of the
+  de-escalation week expiring ~July 5**. Bloomberg: thousands of
+  merchant sailors still trapped in the Gulf after 100+ days despite
+  "open" strait. CNN live blogs now return HTTP 451 to us
+  (region-block) — use Times of Israel / Iran International /
+  Al Jazeera / wire-service aggregators instead.
+  **Concrete follow-ups: (1) July 4–5, the first mass-crowd days at
+  the Mosalla and the Qom procession — check they passed without a
+  crush (Soleimani's funeral killed mourners; this expects far more);
+  (2) the de-escalation week expires ~July 5 mid-procession — check
+  whether the strait stayed quiet and whether it was renewed or just
+  coasted; (3) Mojtaba-watch inverted: not "will he attend" but "when
+  is he seen at all" — any verified appearance is the story, and
+  invisibility past the burial (~July 8–9) feeds succession doubt;
+  (4) the 60-day windows from the June 17 signing run to ~August 16 —
+  near or after that, check whether a final agreement was reached or
+  the deadline lapsed, and whether the Israel–Lebanon framework held.**
   Search hygiene, learned the hard way: results can lag the live story by
   a phase (session 7); anniversary material about the 2025 Twelve-Day War
   interleaves with the present — check the year in every dateline. When
