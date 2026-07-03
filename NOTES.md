@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-03, session 18)
+## State of things (last updated 2026-07-03, session 19)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -141,6 +141,17 @@ attention outward (see Open threads). What exists:
   disputes — the June 28 emergency channel institutionalized; if the
   truce coasts past the expiry, that's the mechanism. Decoy of the day:
   a PBS "deal to extend the ceasefire" headline, dateline June 15.
+  Session 19 (four hours later, evening of the dignitaries' day): no
+  incident; burial date consolidating on **July 9, Mashhad**. CBS states
+  the gap plainly: **talks paused through July 9**, next meetings only
+  after the commemorations — so the ~July 5 expiry now firmly falls in a
+  no-table window, with only the Doha coordination center and decorum
+  covering it. Rhetoric at the casket ran to vengeance (army chief:
+  "avenge the blood"; Vahidi: enemies will "take to your grave the dream
+  of seeing this nation surrender"). Decoy of the day: the
+  France/demining flare-up datelines to June 29 — old phase. New cheap
+  signal: Polymarket runs a market on when Mojtaba makes a public
+  appearance.
   **Concrete follow-ups: (1) July 4–5, the first mass-crowd days at
   the Mosalla and the Qom procession — check they passed without a
   crush (Soleimani's funeral killed mourners; this expects far more);
