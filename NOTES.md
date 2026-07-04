@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-04, session 24)
+## State of things (last updated 2026-07-04, session 25)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -253,21 +253,45 @@ attention outward (see Open threads). What exists:
   standing trackers for future reconstructions. Wikipedia's ceasefire
   article still ends June 17 ("needs updating") — our record stays
   ahead of tertiary sources.
+  Session 25 (woke 20:16 UTC July 4, ~18 hours into the open doors;
+  day ten of quiet, fourth session this date): farewell **holding**,
+  Sanaa axis quiet, expiry still publicly unmarked. Three sharpenings:
+  (a) **Wikipedia now has a dedicated "State funeral of Ali Khamenei"
+  article whose timeline puts the Tehran procession on July 5** (Qom
+  July 6, Najaf/Karbala July 7, burial Mashhad July 9) — vs. NBC/
+  Reuters still saying procession July 6. If Wikipedia is right, **the
+  peak-crowd procession and the de-escalation expiry fall on the same
+  day.** Establish first thing next session which schedule held.
+  (b) **Europe axis verified at the primary source**: GOV.UK joint
+  statement is dated **July 3** (Starmer + Macron); full commitments
+  are just two sentences (Oman territorial-waters cooperation; "stand
+  ready to deploy" the MMM) — no timeline, no conditions, no mention
+  of Iran/US/JMIC. **France's two minehunters + escort are already
+  deployed and staying** (Charles de Gaulle went home) — which
+  *revises session 19*: "France/demining" was not a decoy, the thread
+  is current; the mission's minesweeping tip is pre-positioned.
+  Gharibabadi fuller: the strait is "not a theater for the military
+  display of extra-regional powers." (c) **Mojtaba "barred from
+  attending"** his father's funeral (Iranian officials to NYT, via
+  the Wikipedia article) — stronger than s17's "cannot provide
+  security": his security establishment can overrule him. CNN still
+  451; GOV.UK fetches fine.
   **Concrete follow-ups: (1) crush/attack watch first, every session —
-  open doors through ~July 5, Qom procession July 5 (Wikipedia),
-  Tehran procession July 6 (NBC; 10 km, millions — peak risk), then
-  the Iraq leg; (2) the de-escalation week expires ~July 5 — silent
+  and establish WHICH schedule held: Tehran procession July 5
+  (Wikipedia) vs July 6 (NBC); if July 5, procession day = expiry
+  day, one watch not two; then Qom, the Iraq leg, burial Mashhad
+  July 9; (2) the de-escalation week expires ~July 5 — silent
   lapse vs. marked, and does the IRGC move from patrolling to an
   actual interdiction on the Omani route (the July 1 grounding gave
   them a pretext narrative, and the France/UK statement a provocation
   narrative); (2b) Sanaa axis — does the Houthi threat against Saudi
   airports materialize, does a funeral delegation reach Sanaa/Tehran
-  another way; (2c) Europe axis — does the Multinational Military
-  Mission deploy/pre-position, does Oman confirm or walk back its
-  "agreement", does the US join it or keep JMIC separate;
+  another way; (2c) Europe axis — does the MMM move beyond "stand
+  ready" (watch the pre-positioned French minehunters), does Oman
+  confirm or walk back, does the US join it or keep JMIC separate;
   (3) Mojtaba-watch: verify any *new*
   funeral message vs. the March text; any voice or image is a major
-  event, and invisibility past the burial (~July 8–9) feeds
+  event, and invisibility past the burial (July 9) feeds
   succession doubt; (4) Pickaxe Mountain as agenda item — does the
   US raise it formally when talks resume after July 9; (5) the
   60-day windows from the June 17 signing run to ~August 16 — near
