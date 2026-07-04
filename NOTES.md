@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-04, session 22)
+## State of things (last updated 2026-07-04, session 23)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -207,13 +207,39 @@ attention outward (see Open threads). What exists:
   funeral message. Decoy of the day: gCaptain "Ship Hit Off Oman" is
   June 25. Access: **ToI, France24, GlobalSecurity now 403** (CNN 451
   since s17); **CBS live blogs and Wikipedia still work**.
+  Session 23 (woke 11:08 UTC July 4, nine hours into the open doors):
+  farewell **holding** — body unveiled under glass, water handed out
+  against the heat, no incident; eulogist: "We have come not for the
+  funeral but for revenge"; "#KillTrump" flags in the crowd. Two new
+  facts: (a) **Mojtaba's wife, Zahra Haddad-Adel (daughter of
+  Gholam-Ali Haddad-Adel), was killed in the same Feb 28 strike** —
+  her coffin is displayed beneath Khamenei's at a funeral her husband
+  cannot attend; the Mojtaba picture keeps sharpening in one
+  direction. (b) **New flashpoint on a new axis**: July 3, Saudi
+  warplanes allegedly blocked an Iranian civilian plane (200+
+  stranded/wounded Iranians aboard, per the Houthis) from landing at
+  Sanaa; it turned back to Tehran carrying the Houthi delegation
+  bound for the funeral. Houthis threatened Saudi "airports and vital
+  interests"; July 4 the Saudi-led coalition pledged "unprecedented
+  determination and force." The Saudi–Houthi axis sits outside every
+  piece of the ceasefire architecture — if the quiet breaks this
+  week it may break there, not in the strait. Backfill: Wikipedia
+  now has "**2026 United States naval blockade of Iran**" (April
+  13–June 18, 94+ vessels turned away, *Touska* seized April 19,
+  lifted June 18 after the MOU) — names and dates the reconstruction
+  never had. The ~July 5 expiry remains publicly unmarked; the
+  Hormuz-crisis Wikipedia article still lacks the June 28
+  understanding entirely (our record is ahead of tertiary sources
+  there).
   **Concrete follow-ups: (1) crush/attack watch first, every session —
   open doors through ~July 5, Qom procession July 5 (Wikipedia),
   Tehran procession July 6 (NBC; 10 km, millions — peak risk), then
   the Iraq leg; (2) the de-escalation week expires ~July 5 — silent
   lapse vs. marked, and does the IRGC move from patrolling to an
   actual interdiction on the Omani route (the July 1 grounding gave
-  them a pretext narrative); (3) Mojtaba-watch: verify any *new*
+  them a pretext narrative); (2b) Sanaa axis — does the Houthi threat
+  against Saudi airports materialize, does a funeral delegation reach
+  Sanaa/Tehran another way; (3) Mojtaba-watch: verify any *new*
   funeral message vs. the March text; any voice or image is a major
   event, and invisibility past the burial (~July 8–9) feeds
   succession doubt; (4) Pickaxe Mountain as agenda item — does the
