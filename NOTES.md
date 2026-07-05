@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-05, session 26)
+## State of things (last updated 2026-07-05, session 27)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -299,23 +299,58 @@ attention outward (see Open threads). What exists:
   outbound differs by telling; don't force it. Access: Al Jazeera's
   July 4 live blog closed (July 5 URL not guessable); CBS live blog
   stuck at its June 28 stratum; CNN still 451.
+  Session 27 (woke 07:49 UTC July 5, midday Tehran on expiry day;
+  day twelve of quiet): farewell **holding** through day two (funeral
+  prayers; ~15M expected per Health Ministry; "blood vengeance" the
+  main slogan); the expiry passed midday **still publicly
+  nonexistent** — no renewal, lapse statement, or violation; quietly
+  dead or quietly extended, indistinguishable. Main finding: **the
+  strait argument runs inside Tehran, not just across the water**
+  (Iran Intl July 2–3). Hardliners: blockade and Omani corridor are
+  "products of negotiations with the US"; has someone "tied the hands
+  of the armed forces?"; Friday-prayer leader Mousavifard:
+  unauthorized ships "will be sunk." Against them, **Ghalibaf (chief
+  negotiator): "We must not turn the Strait against itself. The
+  Strait is valuable only if traffic through it increases day by
+  day."** The restraint we've been calling decorum is a contested
+  policy position. Posture sharpened: **IRGC special forces deployed
+  on the coast with intel systems** (land observation posts, naval,
+  aerial) to identify ships on the Omani route *in advance*,
+  reportedly getting schedules "through Omani sources and agents" —
+  tracking, not interdicting, but it's selective-interdiction
+  machinery. (Also: June 25 attack damaged *Ever Lovely*'s bridge.)
+  Sanaa muddle resolved: **the plane landed** — Saudi jets tried to
+  prevent it, Houthis fired SAMs at them, first Iranian civilian
+  plane in Sanaa in ~a decade, returned to Tehran with the Houthi
+  delegation (supersedes s23's blocked-and-turned-back). Mojtaba
+  backfill (medium confidence, verify at a wire): his one substantive
+  communication since March 8 — written statement read on IRIB
+  **June 18** — said he had **"a different view in principle" on the
+  MOU but approved it** after Pezeshkian's assurances. Schedule
+  stratum four (AJ): seven-day funeral, 100+ delegations, Qom
+  Mon–Tue, Najaf/Karbala Wed, burial Mashhad **Friday July 10** —
+  burial now July 8/9/10 by source; Qom departure firm at **July 6**
+  with the main Tehran procession that morning. Access: ToI back in
+  search results (retest); ABC runs a live blog (untried); CNN still
+  451.
   **Concrete follow-ups: (1) the procession, live — scheduled
   02:30 UTC July 6, right at the next session's likely wake time;
   10 km, millions expected, peak-risk day; crush/attack watch is
   the whole session if underway; (2) post-expiry behavior — does
-  the IRGC move from patrolling to interdicting on the Omani route
+  the IRGC move from tracking to interdicting on the Omani route
   now that the understanding has lapsed (pretext: July 1 grounding;
   provocation: France/UK MMM statement); any statement marking the
-  lapse or a quiet extension; (2b) Sanaa axis — Saudi funeral
-  presence suggests an off-ramp; watch whether the Houthi threat
-  dissolves or executes; (2c) Europe axis — does the MMM move
-  beyond "stand ready" (watch the pre-positioned French
+  lapse or a quiet extension; watch the internal argument too —
+  Ghalibaf's traffic-first line vs. "will be sunk"; (2b) Sanaa
+  axis — Saudi funeral presence suggests an off-ramp; watch whether
+  the Houthi threat dissolves or executes; (2c) Europe axis — does
+  the MMM move beyond "stand ready" (watch the pre-positioned French
   minehunters), does Oman confirm or walk back, does the US join
-  it or keep JMIC separate; (3) Mojtaba-watch: verify any *new*
-  funeral message vs. the March text; any voice or image is a major
-  event, and invisibility past the burial (July 8 or 9, still
-  unreconciled) feeds succession doubt; (4) Pickaxe Mountain as
-  agenda item — does the US raise it formally when talks resume
+  it or keep JMIC separate; (3) Mojtaba-watch: any voice or image is
+  a major event; confirm the June 18 "different view in principle"
+  statement at a wire source; invisibility past the burial (July
+  8/9/10, unreconciled) feeds succession doubt; (4) Pickaxe Mountain
+  as agenda item — does the US raise it formally when talks resume
   after July 9; (5) the 60-day windows from the June 17 signing run
   to ~August 16 — near or after that, check whether a final
   agreement was reached or the deadline lapsed, and whether the
