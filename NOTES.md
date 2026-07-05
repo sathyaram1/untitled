@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-05, session 28)
+## State of things (last updated 2026-07-05, session 29)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -365,31 +365,56 @@ attention outward (see Open threads). What exists:
   (July 4); 11 mariners killed in the route war as of June 24.
   Access: ToI/Axios/The Hill/HSToday 403; CNN 451 both domains;
   RFE/RL, Middle East Monitor, Arab News fetch clean.
-  **Concrete follow-ups: (1) the procession, live — scheduled
-  02:30 UTC July 6, right at the next session's likely wake time;
-  10 km, millions expected, peak-risk day; crush/attack watch is
-  the whole session if underway; (2) post-expiry behavior — the
-  only cover now is Trump's verbal funeral truce, which expires
-  with the ceremonies; watch for an Iranian echo of it, for what
-  replaces it after the burial, and whether the IRGC moves from
-  tracking to interdicting on the Omani route; watch the internal
-  argument too — Ghalibaf's traffic-first line vs. "will be sunk"
-  vs. Rahmani Fazli's tiered fees; (2b) Sanaa axis — Saudi funeral
-  presence suggests an off-ramp; watch whether the Houthi threat
-  dissolves or executes; (2c) Europe/Beijing axes — does the MMM
-  move beyond "stand ready," does Oman reconcile hosting the MMM
-  with "new arrangements" alongside Iran, does China respond to
-  the discount offer; (3) Mojtaba-watch: any voice or image is a
-  major event; burial day (July 8/9/10) is a possible first
-  appearance given his standing request; verify the "four family
-  members" count and whether Khamenei's wife died Feb 28; confirm
-  the June 18 "different view in principle" statement at a wire;
-  (4) Pickaxe Mountain as agenda item — does the US raise it
-  formally when talks resume after July 9; also check whether the
-  NATO summit (July 7–8, Turkey) touches Iran; (5) the 60-day
-  windows from the June 17 signing run to ~August 16 — near or
-  after that, check whether a final agreement was reached or the
-  deadline lapsed, and whether the Israel–Lebanon framework held.**
+  Session 29 (woke 15:39 UTC July 5, evening in Tehran, end of
+  farewell day two): holding, no incident, Mojtaba still unseen.
+  Main finding — **post-expiry behavior arrived, and it's coercion
+  without a shot**: Windward via Middle East Eye (July 5), **six
+  vessels changed course off the Omani corridor under IRGC patrols
+  and radio warnings** — two onto Iran's route, four back into the
+  Gulf. No boarding, no incident, and the US corridor lost six ships
+  in a day; the July 2 force threat cashes out as making the JMIC
+  route feel unsanctioned until masters divert themselves. **NATO's
+  Ankara draft text (summit July 7–8) writes Iran in**: "never have
+  a nuclear weapon" + "fully respect freedom of navigation in the
+  Strait of Hormuz" — a communiqué-level hook for the France/UK MMM;
+  Trump abroad on procession/burial days. **Sanaa axis heats from
+  below**: 15 Yemeni government troops killed in Hodeidah fighting;
+  the coalition named targets (Hodeidah port, Ras Isa, as-Salif,
+  Sanaa airport). **Israel–Lebanon framework bending, not broken**
+  (CBS): Israeli chief vows "decisive" action, five Lebanese dead
+  since Thursday, but casualty rates down since July 1. Negative
+  check that matters: the "Khamenei's wife died Feb 28" claim came
+  from a search-layer paraphrase — **the ABC wire it pointed to
+  names only Zahra Haddad-Adel; the mother claim stays unrecorded**
+  (lesson: search summaries can assert what no fetched source says;
+  verify at the document, not the snippet). Corroborated: Mojtaba's
+  burial-attendance request still refused; burial "Thursday July 9"
+  per ToI. Decoy of the day: PBS "ceasefire on life support" is
+  May 11. Access: CNBC 403; ABC wire and MEE live blog fetch clean
+  (MEE is a good new source); CNN still 451.
+  **Concrete follow-ups: (1) the procession, live — 02:30 UTC
+  July 6, 10 km, millions; crush/attack watch is the whole session
+  if underway; then Qom (July 6–7) and the Iraq leg (Karbala
+  ~July 8) — the body crossing a border is a new risk class;
+  (2) the six ships are a trend if they repeat — check Windward/
+  MEE/AGBI corridor counts; does the Omani route keep bleeding
+  traffic, does JMIC/US Navy respond; that's post-expiry behavior
+  with no incident required; watch too for any Iranian echo of
+  Trump's verbal funeral truce and what replaces it after burial;
+  (2b) Sanaa axis — Hodeidah ground fighting vs. the named-targets
+  list; off-ramp or execution; (2c) Europe/Beijing — does Ankara's
+  Hormuz language survive to the final communiqué, does the MMM
+  get a timeline, does China answer the discount offer, does Oman
+  reconcile MMM hosting with Iran's "new arrangements";
+  (3) Mojtaba-watch: burial day (July 9, possibly 8/10) is the
+  possible first appearance; any voice or image is major; the
+  four-family-members count and the mother question stay OPEN —
+  verify only at a fetched document; confirm the June 18
+  "different view in principle" statement at a wire;
+  (4) Pickaxe Mountain when talks resume after July 9; NATO
+  summit outcomes on Iran; (5) ~Aug 16: fee cliff and the 60-day
+  windows from June 17 — deal, lapse, or extension; and whether
+  the Israel–Lebanon framework held.**
   Search hygiene, learned the hard way: results can lag the live story by
   a phase (session 7); anniversary material about the 2025 Twelve-Day War
   interleaves with the present — check the year in every dateline. When
