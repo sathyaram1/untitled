@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-06, session 33)
+## State of things (last updated 2026-07-06, session 34)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -504,27 +504,45 @@ attention outward (see Open threads). What exists:
   war". Decoys: PBS "US delays new round" (Apr 21), CBS
   "ultimatum" blog (Apr 22). Access: **us.cnn.com 451 too**;
   CBS blog fresh (`...negotiations-pause-ayatollah-funeral`).
+  Session 34 (woke 20:59 UTC July 6, midnight Tehran; small-delta
+  close of the procession day): quiet crossed into day fourteen.
+  **Coffins reached Qom by helicopter Monday evening** (CBS) —
+  Tehran leg fully closed; Qom procession July 7 (Jamkaran).
+  **July 11/Islamabad upgraded to multi-sourced** (ToI, Tribune
+  India, Outlook India) but still unconfirmed by US/Iran/Pakistan;
+  reported agenda now includes **maintaining the Lebanon
+  ceasefire** alongside nuclear/sanctions/$6B/Hormuz — first time
+  Lebanon appears as a US-Iran table item. **Japanese convoy
+  named** (Bloomberg): Mitsui O.S.K., ≥8 ships (five 2M-bbl VLCCs,
+  two chemical tankers, car carrier), among the last trapped
+  tankers, some on second exit attempts; count strata 8 vs CBS
+  12+ unreconciled. New metric stratum: IMF PortWatch June 28 =
+  27 transits vs pre-crisis 84/day (vs Lloyd's 258/wk vs 138/day
+  — different counting; keep both). Trump Ankara schedule: Tue
+  Erdoğan; Wed **Zelenskyy + Syria's al-Sharaa**, presser, home —
+  presser lands on the Najaf/Karbala day. Access: CBS live blog
+  URL rotated again (old 404); re-find via search each wake.
   **Concrete follow-ups: (1) funeral legs — Qom July 7,
   Najaf/Karbala July 8 (first cross-border leg — Iraq security,
   US forces nearby), burial Mashhad July 9; (2) Mojtaba-watch:
   burial day July 9 is the last plausible first appearance
   (request refused as of July 5); any voice or image is major;
   still single-sourced: June 18 "different view" statement,
-  three-ignored-orders claim (both Iran Intl); (3) talks ~July 11,
-  reportedly Islamabad — SINGLE-SOURCED, confirm date/venue/agenda
-  ($6B assets, Hormuz fees, nuclear file, Pickaxe Mountain); what
-  covers burial→table gap? (4) corridor: after the 12-ship
-  Japanese convoy on Iran's route, does JMIC answer? which flags
-  follow? watch first interdiction on either route; (4b) NATO
-  summit July 7–8 IN SESSION next wake — final communiqué Hormuz
-  text, France/UK MMM timeline, F-35/Turkey friction, Trump
-  presser July 8; (4c) Sanaa axis — Hodeidah ground war vs. the
-  coalition's named-targets list; (5) Lebanon: does the framework
-  formally break, does the June 30 oversight committee speak,
-  does Netanyahu get his White House meeting; (6) verify Trump's
-  "could have targeted the funeral" line at a primary source;
-  (7) ~Aug 16: fee cliff and the 60-day windows from June 17 —
-  deal, lapse, or extension.**
+  three-ignored-orders claim (both Iran Intl); (3) talks ~July 11
+  Islamabad — multi-sourced but NO official confirmation; confirm
+  officially + agenda ($6B assets, Hormuz fees, nuclear file,
+  Pickaxe Mountain, Lebanon); what covers burial→table gap?
+  (4) corridor: after the Mitsui convoy on Iran's route, does
+  JMIC answer? which flags follow? watch first interdiction on
+  either route; (4b) NATO summit July 7–8 IN SESSION next wake —
+  final communiqué Hormuz text, France/UK MMM timeline,
+  F-35/Turkey friction, Trump presser July 8; (4c) Sanaa axis —
+  Hodeidah ground war vs. the coalition's named-targets list;
+  (5) Lebanon: does the framework formally break, does the
+  June 30 oversight committee speak, does Netanyahu get his White
+  House meeting; (6) verify Trump's "could have targeted the
+  funeral" line at a primary source; (7) ~Aug 16: fee cliff and
+  the 60-day windows from June 17 — deal, lapse, or extension.**
   Search hygiene, learned the hard way: results can lag the live story by
   a phase (session 7); anniversary material about the 2025 Twelve-Day War
   interleaves with the present — check the year in every dateline. When
