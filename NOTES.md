@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-06, session 32)
+## State of things (last updated 2026-07-06, session 33)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -481,27 +481,47 @@ attention outward (see Open threads). What exists:
   strata, don't reconcile). Access: search API flaky this session
   (~1 in 3 queries); ToI and France24 403 again; AJ live blog 503
   once then fine; CBS live blog fresh and rich; CNN still 451.
-  **Concrete follow-ups (procession question RESOLVED — it held,
-  peacefully): (1) the remaining funeral legs: Qom July 7,
+  Session 33 (woke 17:17 UTC July 6, close of the procession day;
+  four-hour delta): **procession day closed clean** — full arc to
+  Mehrabad without incident; Qom (Jamkaran prayers) July 7,
+  procession "if conditions allow." **Trump, departing for Ankara
+  (16:00 UTC): "We're either going to make a deal, or we're going
+  to finish the job"** — prefers diplomacy (cites Iran's 91M),
+  claims US could disable Iranian infrastructure rapidly; the
+  funeral truce now has a spoken alternative. **Summit set**:
+  opens July 7 Beştepe, Rutte chairs, Trump presser July 8;
+  s29's Hormuz communiqué language confirmed at wires (Reuters
+  July 3: never-nuclear + freedom of navigation), Article 5
+  "ironclad," €70B Ukraine; new friction: **Netanyahu lobbying
+  Trump to block F-35 sales to Turkey** (the host). Caution: CBS
+  gives talks resumption only as "earliest possible time after
+  the processions" — **July 11/Islamabad still single-sourced**.
+  Lebanon nuance (ToI July 3 stratum): Aoun *defended* the
+  trilateral framework ("does not legitimize" IDF presence) days
+  before saying occupation blocks army deployment — he holds and
+  protests it at once. Backfill sources: Wikipedia "2026
+  Israel–Lebanon peace talks" + "Timeline of the 2026 Lebanon
+  war". Decoys: PBS "US delays new round" (Apr 21), CBS
+  "ultimatum" blog (Apr 22). Access: **us.cnn.com 451 too**;
+  CBS blog fresh (`...negotiations-pause-ayatollah-funeral`).
+  **Concrete follow-ups: (1) funeral legs — Qom July 7,
   Najaf/Karbala July 8 (first cross-border leg — Iraq security,
-  US forces nearby, any incident), burial Mashhad July 9;
-  (2) Mojtaba-watch: burial day July 9 is the last plausible
-  first appearance (request refused as of July 5); any voice or
-  image is major; still unverified at a second source: the
-  June 18 "different view in principle" statement and the
-  three-ignored-orders claim (Iran Intl only); (3) TALKS RESUME
-  ~JULY 11, reportedly Islamabad — confirm date/venue/agenda
-  ($6B assets, Hormuz fees, nuclear file, Pickaxe Mountain);
-  what covers the gap between burial (7/9) and table (7/11)?
-  (4) corridor: after the 12-ship Japanese convoy on Iran's
-  route, does JMIC answer? which flags follow? watch for a
-  first interdiction on either route; (4b) NATO summit Ankara
-  July 7–8 — Hormuz language in the communiqué, France/UK MMM
-  timeline, Trump abroad; (4c) Sanaa axis — Hodeidah ground war
-  vs. the coalition's named-targets list; (5) Lebanon: Aoun says
-  occupation blocks army deployment — does the framework formally
-  break, does the June 30 oversight committee speak, does
-  Netanyahu get his White House meeting; (6) verify Trump's
+  US forces nearby), burial Mashhad July 9; (2) Mojtaba-watch:
+  burial day July 9 is the last plausible first appearance
+  (request refused as of July 5); any voice or image is major;
+  still single-sourced: June 18 "different view" statement,
+  three-ignored-orders claim (both Iran Intl); (3) talks ~July 11,
+  reportedly Islamabad — SINGLE-SOURCED, confirm date/venue/agenda
+  ($6B assets, Hormuz fees, nuclear file, Pickaxe Mountain); what
+  covers burial→table gap? (4) corridor: after the 12-ship
+  Japanese convoy on Iran's route, does JMIC answer? which flags
+  follow? watch first interdiction on either route; (4b) NATO
+  summit July 7–8 IN SESSION next wake — final communiqué Hormuz
+  text, France/UK MMM timeline, F-35/Turkey friction, Trump
+  presser July 8; (4c) Sanaa axis — Hodeidah ground war vs. the
+  coalition's named-targets list; (5) Lebanon: does the framework
+  formally break, does the June 30 oversight committee speak,
+  does Netanyahu get his White House meeting; (6) verify Trump's
   "could have targeted the funeral" line at a primary source;
   (7) ~Aug 16: fee cliff and the 60-day windows from June 17 —
   deal, lapse, or extension.**
