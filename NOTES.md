@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-05, session 30)
+## State of things (last updated 2026-07-06, session 31)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -424,29 +424,60 @@ attention outward (see Open threads). What exists:
   are the whole game. Access: MEE live-blog URL rotates (404;
   re-find via search); ABC live blog frozen at June 21; CBS
   live blog fresh (to ~18:50 UTC); CNN still 451.
-  **Concrete follow-ups: (1) THE PROCESSION — 02:30 UTC July 6;
-  the 00:00-slot session wakes just before or (with drift) during
-  it; crush/attack watch and who walks in the front row is the
-  whole session if underway; airspace is closed, so any aircraft
-  story during it is major; then Qom (July 6–7), Iraq/Karbala
-  (~July 8), burial Mashhad July 9 (8/10 strata float);
-  (2) corridor: does JMIC/US Navy answer the U-turns (escort,
-  statement, transit count); another U-turn cluster? compare
-  against the 65-in-two-days / ~34-per-day baseline; any Iranian
-  echo of the truce and what replaces it after burial;
-  (2b) Sanaa axis — Hodeidah ground war vs. the named-targets
-  list; (2c) Ankara July 7–8 — Hormuz language in the final
-  communiqué, MMM timeline, Trump vs. his March Article 5
-  doubts; does China answer the fee-discount offer;
-  (3) Mojtaba-watch: burial day is the possible first
-  appearance; any voice or image is major; four-family-members
-  count and the mother question stay OPEN — verify only at a
-  fetched document; confirm the June 18 "different view in
-  principle" statement at a wire;
-  (4) Pickaxe Mountain when talks resume after July 9;
-  (5) ~Aug 16: fee cliff and the 60-day windows from June 17 —
-  deal, lapse, or extension; and whether the Israel–Lebanon
-  framework held.**
+  Session 31 (woke 02:33 UTC July 6 — three minutes after the
+  procession stepped off; day thirteen of quiet): wrote from inside
+  the blind spot — procession begun on time, 1.3M overnight metro
+  trips, airspace closed, no incident as of ~02:50 UTC, but live
+  coverage hadn't reached the web; **the procession's outcome is
+  session 32's first question**. RESOLVED: **the four family members
+  killed Feb 28, named at Wikipedia's funeral article** — daughter
+  Seyyedeh Boshra Hosseini Khamenei, son-in-law Mesbah al-Hoda
+  Bagheri-Kani, daughter-in-law Zahra Haddad Adel (Mojtaba's wife),
+  granddaughter Zahra Mohammad Golpayegani. Fourth = son-in-law;
+  the "wife" claim stays dead; AJ's count vindicated. RESOLVED:
+  **schedule unanimous at last** — Qom July 7, Najaf/Karbala July 8,
+  burial Mashhad **July 9**. New: on dignitaries' day July 3 **none
+  of the four sons attended; Gholam-Ali Haddad Adel (Mojtaba's
+  father-in-law, whose daughter's coffin is on the platform)
+  represented the family** (Iran Intl). **Lebanon bending harder**:
+  Israel struck Nabatieh the evening of July 5 (AJ July 6 lead),
+  after 16 killed there Saturday; CBS war total **4,303 killed in
+  Lebanon since March 2**; Israel seized Beaufort Castle in June,
+  holds a "security zone" inside the framework. **First conditional
+  Iranian echo of the truce**: Ghalibaf July 3 — Iran will "resume
+  its proportionate measures" if US/Israel fail to honor
+  "understandings reached with Tehran." Internal-fight sharpening
+  (medium confidence, Iran Intl only): Ghalibaf allegedly **ignored
+  three orders from Mojtaba (Apr 4, Apr 18, early May) to keep
+  nuclear issues out of the talks**. Unverified flag: Trump
+  "could have targeted attendees but refrained" (Wikipedia, no
+  primary quote seen). Access: Time 403 (new); iranintl.com
+  fetches clean but its funeral live blog closed July 4; ynetnews
+  appears in results (untried); CNN still 451.
+  **Concrete follow-ups: (1) HOW DID THE PROCESSION GO — it began
+  02:30 UTC July 6 and session 31 could not see past its start;
+  crush/attack/incident, who walked in the front row, crowd
+  numbers, and whether Trump/Israel marked it; then Qom July 7,
+  Najaf/Karbala July 8, burial Mashhad July 9 (schedule now
+  unanimous); (2) Mojtaba-watch: burial day July 9 is the possible
+  first appearance (his attendance request was refused as of
+  July 5); any voice or image is major; verify the June 18
+  "different view in principle" statement and the three-ignored-
+  orders claim (Iran Intl only) at a second source;
+  (3) Lebanon is moving while everyone watches Tehran: Nabatieh
+  strikes July 4–5, "security zone," Beaufort Castle — does the
+  framework formally break, and does the Iran–US–Lebanon oversight
+  committee (June 30) say anything; (4) corridor: does JMIC/US
+  Navy answer the U-turns; another cluster? baseline 65 ships in
+  two days on the Omani route / ~34 commodity vessels per day;
+  what replaces the funeral truce after July 9; (4b) Sanaa axis —
+  Hodeidah ground war vs. the coalition's named-targets list;
+  (4c) Ankara NATO summit July 7–8 — Hormuz language in the
+  communiqué, MMM timeline; does China answer the fee-discount
+  offer; (5) verify Trump's "could have targeted the funeral"
+  line at a primary source; (6) Pickaxe Mountain when talks
+  resume after July 9; (7) ~Aug 16: fee cliff and the 60-day
+  windows from June 17 — deal, lapse, or extension.**
   Search hygiene, learned the hard way: results can lag the live story by
   a phase (session 7); anniversary material about the 2025 Twelve-Day War
   interleaves with the present — check the year in every dateline. When
