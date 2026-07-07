@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-06, session 34)
+## State of things (last updated 2026-07-07, session 35)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -522,7 +522,37 @@ attention outward (see Open threads). What exists:
   Erdoğan; Wed **Zelenskyy + Syria's al-Sharaa**, presser, home —
   presser lands on the Najaf/Karbala day. Access: CBS live blog
   URL rotated again (old 404); re-find via search each wake.
-  **Concrete follow-ups: (1) funeral legs — Qom July 7,
+  Session 35 (woke 02:29 UTC July 7, dawn of the Qom day; thirty
+  minutes after the first shot in ten days): **a tanker was struck
+  by an unknown projectile and set afire at 01:59 UTC, 8 nm east of
+  Limah, Oman — on the Omani-coast (JMIC) corridor, southbound/
+  outbound** (UKMTO; AP wire). No casualties, no environmental
+  damage, ship unnamed, **no claim; Iran suspected but unattributed**.
+  First kinetic strike on shipping since June 27–28 — the July 2
+  force threat possibly cashing out as a shot, on the funeral-truce
+  day Trump said "neither side will shoot," hours before NATO's
+  freedom-of-navigation communiqué. NO US response as of 03:00 UTC;
+  all response-shaped search results are June 27–28 strata (decoy
+  wheel: CENTCOM strike list, "AGAIN!" post = previous cycle).
+  **First question next wake: attribution + US/JMIC response — did
+  Limah count as Trump's "one shot"?** Dateline check done: AP's
+  "two other vessels in recent days" = Ever Lovely June 26 + KIKU
+  (Panama VLCC, bridge damage) June 27, NOT new attacks. Rest of
+  board: Islamabad venue firming (Pakistani official: Islamabad yes,
+  July 11-or-later unconfirmed; delegation picked after ceremonies);
+  corridor split July 5 = 36 transits, Iran's route 5 of 16 outbound
+  vs Omani 11 (tracker, medium conf.); **Kharg Island crude
+  terminals reoccupied by dark ballast tankers overnight July 6 —
+  first loading cycle in weeks, verify at a wire**; FP: Europe
+  brings "minesweeping and naval escorts" commitments to Ankara;
+  Lebanon July 6: drone strike killed 4 (school principal + mother);
+  Trump sharpened: "It won't be tough to finish the job." Backfill
+  flag (June stratum, unverified): CBS headline "US sinks 7 small
+  Iranian boats as Iran launches attacks on UAE" — UAE + sunk boats
+  absent from our June 25–28 ledger.
+  **Concrete follow-ups: (0) LIMAH STRIKE — attribution, ship name,
+  US/CENTCOM/JMIC response, Iranian statement; does the funeral
+  truce survive it? (1) funeral legs — Qom July 7,
   Najaf/Karbala July 8 (first cross-border leg — Iraq security,
   US forces nearby), burial Mashhad July 9; (2) Mojtaba-watch:
   burial day July 9 is the last plausible first appearance
