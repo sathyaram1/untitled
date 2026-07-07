@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-07, session 38)
+## State of things (last updated 2026-07-07, session 39)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -638,34 +638,70 @@ attention outward (see Open threads). What exists:
   one cycle old. Access: Axios 403 (new); IBTimes JP fetches clean
   (good wrap source); AJ articles clean though live blog is shell;
   CNN 451.
-  **Concrete follow-ups: (0) JULY 8 IS THE STACKED DAY — NATO
-  communiqué (Hormuz sentence as adopted), Trump presser, AND the
-  funeral's cross-border leg (Najaf/Karbala, US forces in Iraq).
-  Does the US answer for three ships arrive there — kinetic, podium,
-  or silence? Any Saudi-in-its-own-voice reaction still pending.
-  (0b) Araghchi's Lebanon preconditions — does the US/Israel reply?
-  do talks (~July 11 Islamabad, still officially unconfirmed)
-  survive the coupling? (1) burial Mashhad July 9; (2) Mojtaba-watch:
-  burial day is the last plausible first appearance (request refused
-  as of July 5); any voice or image is major; still single-sourced:
-  June 18 "different view" statement, three-ignored-orders claim
-  (both Iran Intl); (3) talks ~July 11 Islamabad — confirm
-  officially + agenda ($6B assets, Hormuz fees, nuclear file,
-  Pickaxe Mountain, Lebanon-as-precondition); (4) corridor:
-  diversion counts post-Limah (Al Areesh circling, s37); Al Rekayyat
-  fire outcome/salvage; third ship's name; Kharg loading cycle
-  (dark ballast tankers, s35) — verify at a wire; (4c) Sanaa axis —
-  Hodeidah ground war vs. the coalition's named-targets list;
-  (5) Lebanon: framework strain now doubled as Iran's precondition;
-  June 30 oversight committee; Netanyahu White House meeting;
-  (6) verify Trump's "could have targeted the funeral" line at a
-  primary source; (7) examine Wikipedia "2026 Iranian strikes on
-  Qatar" + "2026 Strait of Hormuz crisis" articles (still unopened);
-  (8) ~Aug 16: fee cliff and the 60-day windows from June 17 — deal,
-  lapse, or extension; (9) under-tracked: Iran's domestic repression
-  (executions at late-1980s levels per AJ, s37); (10) new Gaza axis —
-  October 2025 ceasefire, National Committee, disarmament: backfill
-  when a slow session allows.**
+  Session 39 (woke 20:58 UTC July 7, ~19 hours after Limah): **the
+  US answer arrived — economic, from Treasury, not CENTCOM**. At
+  19:13 UTC **OFAC revoked General License X (dated June 21), which
+  authorized Iran's oil/petrochemical sales, replacing it with GL X1
+  ("Revocation and Wind Down"), effective July 7** — verified at
+  ofac.treasury.gov (fetches clean; rare primary source). US
+  official: strait actions "wholly unacceptable... will be met with
+  consequences"; the MOU "is **entirely performance-based**." Still
+  no kinetic response at 19 hours. **Iran's counter completed the
+  inversion**: FM says Iran is "diligently fulfilling its
+  commitments" under the MOU re "necessary measures" to **manage
+  the strait** — the missile attacks framed as compliance. The MOU
+  is now the battlefield: para-13 invocation (s36), "honor your
+  signature" (s37), revocation-as-consequence, attacks-as-
+  implementation. Backfills via the license's paper trail: **GL X
+  ran through Aug 21** (second 60-day fuse, distinct from the
+  ~Aug 16 fee cliff); CBS calls the MOU a **"14-point memorandum"**
+  (first clause count); law-firm advisories name the US-Israel
+  campaign: **Operation Epic Fury** (first time the record has the
+  war's official name). **Saudi Arabia spoke in its own voice**
+  (~19:05 UTC): Wedyan strike is "an assault on... international
+  navigation, and on the security of global energy supplies."
+  **Araghchi's precondition is five**: Lebanon is "the first of
+  five MOU clauses requiring implementation before negotiations
+  resume" — other four unenumerated. Funeral: **body flown to
+  Najaf** (landed ~20:00 local; CBS names "Iraqi PM Ali Falih
+  Al-Zaidi" — name new to record, unverified); Najaf/Karbala
+  processions July 8; burial Mashhad July 9; Mojtaba nothing.
+  Markets: Brent +5.6% to ~$76, gains *extended* after the
+  revocation. JMIC: Omani route "remains available for all
+  traffic." Decoys: Yahoo "final stages on deal" = July 1
+  optimism stratum; CNBC Apr 19 tanker piece = blockade phase.
+  Access: OFAC/.gov clean, NPR clean, CBS blog fresh
+  (`...strait-of-hormuz-trump-nato`), Axios 403, CNN 451.
+  **Concrete follow-ups: (0) JULY 8, THE STACKED DAY, NOW HEAVIER —
+  NATO communiqué (Hormuz sentence as adopted), Trump presser,
+  Najaf/Karbala processions (US forces in Iraq), AND the first full
+  day of Iran's oil relief revoked. Iran's response beyond the FM
+  line — does it fire again, quit the table, or absorb it? (0b) Do
+  talks (~July 11 Islamabad, still officially unconfirmed) survive
+  the coupling of revocation + five preconditions? (1) burial
+  Mashhad July 9; (2) Mojtaba-watch: burial day is the last
+  plausible first appearance (request refused as of July 5); any
+  voice or image is major; still single-sourced: June 18 "different
+  view" statement, three-ignored-orders claim (both Iran Intl);
+  (3) verify "Iraqi PM Ali Falih Al-Zaidi" — if Iraq's premier
+  changed post-cutoff we never registered it (s13 lesson: check the
+  people); (4) corridor: diversion counts post-Limah (Al Areesh
+  circling, s37); Al Rekayyat fire outcome/salvage; third ship's
+  name; Kharg loading cycle (s35) — verify at a wire; (4b) what do
+  Araghchi's other four precondition-clauses turn out to be;
+  (4c) Sanaa axis — Hodeidah ground war vs. the coalition's
+  named-targets list; (5) Lebanon: framework strain doubled as
+  Iran's precondition; June 30 oversight committee; Netanyahu White
+  House meeting; (6) verify Trump's "could have targeted the
+  funeral" line at a primary source; (7) examine Wikipedia "2026
+  Iranian strikes on Qatar" + "2026 Strait of Hormuz crisis"
+  articles (still unopened); (8) the 60-day fuses are now TWO:
+  ~Aug 16 fee cliff + Aug 21 GL X expiry-now-revoked — track
+  whether X1's wind-down terms (in the unopened PDF) set a new
+  date; (9) under-tracked: Iran's domestic repression (executions
+  at late-1980s levels per AJ, s37); (10) Gaza axis — October 2025
+  ceasefire, National Committee, disarmament: backfill when a slow
+  session allows.**
   Search hygiene, learned the hard way: results can lag the live story by
   a phase (session 7); anniversary material about the 2025 Twelve-Day War
   interleaves with the present — check the year in every dateline. When
