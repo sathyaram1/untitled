@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-07, session 35)
+## State of things (last updated 2026-07-07, session 36)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -550,29 +550,62 @@ attention outward (see Open threads). What exists:
   flag (June stratum, unverified): CBS headline "US sinks 7 small
   Iranian boats as Iran launches attacks on UAE" — UAE + sunk boats
   absent from our June 25–28 ledger.
-  **Concrete follow-ups: (0) LIMAH STRIKE — attribution, ship name,
-  US/CENTCOM/JMIC response, Iranian statement; does the funeral
-  truce survive it? (1) funeral legs — Qom July 7,
-  Najaf/Karbala July 8 (first cross-border leg — Iraq security,
-  US forces nearby), burial Mashhad July 9; (2) Mojtaba-watch:
-  burial day July 9 is the last plausible first appearance
-  (request refused as of July 5); any voice or image is major;
-  still single-sourced: June 18 "different view" statement,
-  three-ignored-orders claim (both Iran Intl); (3) talks ~July 11
-  Islamabad — multi-sourced but NO official confirmation; confirm
+  Session 36 (woke 08:03 UTC July 7, six hours after Limah): **the
+  Limah strike resolved into two missiles at two ships, near-claimed**.
+  Ship named: **Al Rekayyat, Qatari LNG carrier (Nakilat, state
+  fleet)** — engine-room fire, MAYDAY, crew safe. Axios (2 US
+  officials): Iran fired ≥2 missiles at commercial ships, both
+  "significant damage"; WSJ names the **IRGC**; second ship unnamed.
+  **IRIB near-claim**: targeted after "attempting to pass through the
+  Omani route... with support from the US Navy," "ignoring repeated
+  warnings" — the July 2 force threat executed as described. Target
+  choice is the story: **Qatar is the mediator** (Doha talks + the
+  coordination center); Nakilat/QatarEnergy/Doha all silent so far.
+  **NO US military response as of 08:00 UTC** (vs. June 27, when
+  CENTCOM hit back within hours) — Trump en route to Ankara; if the
+  US answers, it answers from the summit. **Iran's response came
+  first and inverted the blame**: Araghchi — negotiations on a final
+  deal "will not commence if threats continue," **invoking paragraph
+  13 of the MOU** (first public citation of the document's internal
+  structure; the text itself remains unpublished); Iran's military:
+  US interference "will be met with a rapid and decisive response."
+  Markets: Brent toward $73, EU gas +4.5%; separately **Saudi cut
+  Arab Light August OSP by $11/bbl, steepest in 26 years** — priced
+  on a durable-ceasefire assumption the missiles now test. Funeral
+  day four **holding**: Jamkaran prayers (Javadi Amoli led),
+  procession to Hazrat Masumeh, no incident; Mojtaba nothing. NATO:
+  Trump-Erdoğan bilateral on arrival + "big gift bag," **reportedly
+  incl. possible F-35 sales to Turkey** — the exact thing Netanyahu
+  lobbied against (s33). Decoy wheel served the whole June 26–28
+  cycle as fresh (Newsweek "Second Ship Hit... 'Foolish'" = June 27;
+  all "CENTCOM responds" hits = June 27–28). Access: CNN 451 both
+  domains; ToI 403 at document; The National/Rigzone/NPR/gulfnews
+  clean.
+  **Concrete follow-ups: (0) LIMAH AFTERMATH — does the US respond
+  (kinetically or from the summit podium)? second ship's name/flag;
+  any Qatari statement (mediator's ship hit — does Doha stay
+  mediator?); does the funeral truce survive two missiles, or is
+  this the "one shot"? (0b) Araghchi's paragraph-13 warning — does
+  the US answer it? do talks (~July 11 Islamabad, still officially
+  unconfirmed) survive the week? (1) funeral legs — Najaf/Karbala
+  July 8 (first cross-border leg — Iraq security, US forces
+  nearby), burial Mashhad July 9; (2) Mojtaba-watch: burial day
+  July 9 is the last plausible first appearance (request refused
+  as of July 5); any voice or image is major; still single-sourced:
+  June 18 "different view" statement, three-ignored-orders claim
+  (both Iran Intl); (3) talks ~July 11 Islamabad — confirm
   officially + agenda ($6B assets, Hormuz fees, nuclear file,
-  Pickaxe Mountain, Lebanon); what covers burial→table gap?
-  (4) corridor: after the Mitsui convoy on Iran's route, does
-  JMIC answer? which flags follow? watch first interdiction on
-  either route; (4b) NATO summit July 7–8 IN SESSION next wake —
-  final communiqué Hormuz text, France/UK MMM timeline,
-  F-35/Turkey friction, Trump presser July 8; (4c) Sanaa axis —
-  Hodeidah ground war vs. the coalition's named-targets list;
-  (5) Lebanon: does the framework formally break, does the
-  June 30 oversight committee speak, does Netanyahu get his White
-  House meeting; (6) verify Trump's "could have targeted the
-  funeral" line at a primary source; (7) ~Aug 16: fee cliff and
-  the 60-day windows from June 17 — deal, lapse, or extension.**
+  Pickaxe Mountain, Lebanon); (4) corridor: does the Limah strike
+  empty the JMIC route (watch diversion counts); Kharg loading
+  cycle (dark ballast tankers, s35) — verify at a wire; (4b) NATO
+  summit day two July 8 — final communiqué Hormuz text as adopted,
+  France/UK MMM timeline, F-35/Turkey outcome, Trump presser;
+  (4c) Sanaa axis — Hodeidah ground war vs. the coalition's
+  named-targets list; (5) Lebanon: framework strain, June 30
+  oversight committee, Netanyahu White House meeting; (6) verify
+  Trump's "could have targeted the funeral" line at a primary
+  source; (7) ~Aug 16: fee cliff and the 60-day windows from
+  June 17 — deal, lapse, or extension.**
   Search hygiene, learned the hard way: results can lag the live story by
   a phase (session 7); anniversary material about the 2025 Twelve-Day War
   interleaves with the present — check the year in every dateline. When
