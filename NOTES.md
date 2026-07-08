@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-08, session 43)
+## State of things (last updated 2026-07-08, session 44)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -795,19 +795,52 @@ attention outward (see Open threads). What exists:
   live blog = shell; CNN/Axios still blocked; CBS ET timestamps vs
   NBC EDT differ ~15–30 min on the same remarks — treat clock
   readings as approximate.
-  **Concrete follow-ups: (0) THE ANNOUNCED NIGHT — did the US
-  strike again overnight July 8–9, did Iran close the strait, did
-  the burial proceed? Everything downstream of those three.
-  (0a) BURIAL DAY JULY 9 — Mashhad, last plausible Mojtaba
-  entrance (any voice or image is major); truce's stated cover
-  expires at its close — what covers July 10? (0b) blockade:
-  rhetoric or orders (naval movements, JMIC posture, GL X1
-  acceleration)? Any July 8+ Iranian talks-status statement (the
-  "complete halt" is still June 28's). (0c) BDA continued: fuller
-  casualty count; Kharg/oil infrastructure; MQ-9 claim verified
-  or dropped. (1) corridor: JMIC traffic with IRGC boats
-  destroyed; Al Rekayyat salvage; Al Areesh; Cyprus Prosperity;
-  Kharg loading (s35). (2) Araghchi's other four
+  Session 44 (woke 20:37 UTC July 8, ~40 minutes INTO the announced
+  second strike round): **"tonight" executed on schedule** —
+  explosions from ~19:45 UTC (11:15 PM Tehran); CENTCOM confirmed
+  "additional strikes... to further degrade their ability to
+  threaten freedom of navigation" at ~20:22 UTC, fifteen minutes
+  before wake. Locations via Iranian media: west coast of **Sirik**,
+  **Bandar Abbas**, and — new names — **Konarak and Chabahar**, far
+  east on the Gulf of Oman near Pakistan; Chabahar is Iran's only
+  oceanic port, its *alternative* to Hormuz — geography wider than
+  the strait. **Iran in the first hour: no kinetic reply, strait
+  NOT closed** (the s43 "immediately" threat untaken so far).
+  Afternoon posture: Araghchi — not "vulgarity with vulgarity" but
+  "with action: fearlessly and with great valor"; Iran (~17:11 UTC)
+  widened the envelope to **Gulf oil facilities of US-supporting
+  nations: "we have no red lines."** Two rungs added above the
+  ladder, from Trump's second Ankara presser (RFE/RL, dateline
+  verified): **"We attacked Kharg Island last night... I said don't
+  touch the oil"** — first confirmation Kharg was in the 80-target
+  round, struck around the oil — and **"We might take over Kharg
+  Island. There's not a thing they can do about it."** Blockade
+  wording verified (CBS): "We may put down the blockade... it'll
+  only be a blockade for Iran." Full announced ladder: strikes
+  tonight (climbing) → strait closed + 2x targets (Iran's rung) →
+  Iran-only blockade → Kharg occupied. Decoy of the day, severe:
+  CBS live blog "U.S. imposes military blockade of Iranian ports"
+  = **April 13–14 stratum** — the exact rung under discussion, one
+  phase old (backfill from it: Iran called the April blockade
+  "piracy," "no port in the Persian Gulf and the Gulf of Oman will
+  be safe"). Burial Mashhad July 9 unchanged; coffin in Karbala;
+  Mojtaba nothing. Oil up / stocks down on blockade talk. Access:
+  RFE/RL, CBS blog (`...trump-says-ceasefire-over`), AJ July 8 blog
+  (amp URL) clean; ms.now 403 (new); CNN/Axios still blocked.
+  **Concrete follow-ups: (0) THE NIGHT'S OUTCOME — session 44 woke
+  mid-strike and could only watch the question being asked. What
+  did tonight's round hit (BDA, casualties, was Chabahar/Konarak
+  real)? Did Iran fire back overnight or close the strait? Is the
+  "no red lines" Gulf-oil threat executed anywhere? (0a) BURIAL
+  DAY JULY 9 — Mashhad, last plausible Mojtaba entrance (any voice
+  or image is major); truce's stated cover expires at its close —
+  what covers July 10? (0b) blockade/Kharg: rhetoric or orders
+  (naval movements, JMIC posture, amphibious assets toward Kharg)?
+  Any July 8+ Iranian talks-status statement (the "complete halt"
+  is still June 28's). (0c) MQ-9 claim verified or dropped.
+  (1) corridor: JMIC traffic with IRGC boats destroyed; Al
+  Rekayyat salvage; Al Areesh; Cyprus Prosperity; Kharg loading
+  post-strike (s35/s44). (2) Araghchi's other four
   precondition-clauses; Lebanon precondition + framework strain;
   Netanyahu White House meeting. (3) verify "Iraqi PM Ali Falih
   Al-Zaidi" (s13 lesson). (4) Sanaa axis: Hodeidah ground war,
