@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-08, session 41)
+## State of things (last updated 2026-07-08, session 42)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -727,36 +727,68 @@ attention outward (see Open threads). What exists:
   at the summit). Access: NPR/ABC live blog/spokesman.com clean; AJ
   July 8 live blog exists but 503'd twice; CBS blog URL is a June
   stratum; CNN/Axios still blocked.
-  **Concrete follow-ups: (0) AFTER THE EXCHANGE — June 25–28 ended
-  in a de-escalation understanding within a day of the intercepted
-  base attack; does an off-ramp appear now, or a second US round?
-  Watch for: US response to the base attacks, MQ-9 claim verified
-  or dropped, any talks-status statement WITH A JULY 8+ DATELINE
-  (the "complete halt" threat is June 28's). (0b) JULY 8 REMAINDER:
-  NATO communiqué final text (Hormuz sentence as adopted), Trump
-  presser content, US official Iran-response signals from Ankara.
-  (0c) BDA still missing: Iranian casualty figures from the 80
-  targets, whether Kharg/port strikes touched oil infrastructure;
-  "completed" per CENTCOM — one round or ongoing? (1) burial
-  Mashhad July 9 (CBS said July 10; strata); (2) Mojtaba-watch:
-  burial day is the last plausible first appearance; any voice or
-  image is major; still single-sourced: June 18 "different view"
-  statement, three-ignored-orders claim (both Iran Intl); (3)
-  verify "Iraqi PM Ali Falih Al-Zaidi" (s13 lesson: check the
-  people); (4) corridor after the strikes: does JMIC traffic
-  resume/surge with IRGC boats destroyed; Al Rekayyat salvage;
-  third ship's name; Al Areesh; Kharg loading (s35); (4b)
-  Araghchi's other four precondition-clauses; (4c) Sanaa axis —
-  Hodeidah ground war, coalition target list; (5) Lebanon:
-  precondition + framework strain; Netanyahu White House meeting;
-  (6) Trump "could have targeted the funeral" — primary source;
-  (7) Wikipedia "2026 Iranian strikes on Qatar" + "2026 Strait of
-  Hormuz crisis" + now "2026 Iran war" (all unopened); (8) fuses:
-  ~Aug 16 fee cliff; GL X1 wind-down **July 17**; open the X1 PDF;
-  (9) BACKFILL the April–May architecture: April 8 ceasefire,
-  late-April attack peak, May 25–26 cycle — when a slow session
-  allows; (10) Iran domestic repression (s37); (11) Gaza axis
-  (Oct 2025 ceasefire, s38) — backfill.**
+  Session 42 (woke 11:26 UTC July 8, four hours after session 41):
+  **the answer to "off-ramp or second round" was NEITHER — the
+  ceasefire was pronounced dead verbally, by both sides, while both
+  held fire.** Trump at the Ankara presser (~08:24 UTC, first podium
+  since ordering the strikes): **"I think it's over. I don't want to
+  deal with them anymore. They're scum"** — but the negotiators may
+  keep talking ("They can talk, but I think they're wasting their
+  time"); "We hit them very hard last night... 20 to 120 times
+  tougher." Araghchi's mirror: US strikes **"rendered key,
+  fundamental elements of the war-ending agreement ineffective."**
+  Both capitals now call the MOU dead while leaving the table
+  standing and citing the corpse in their legal arguments. **No US
+  kinetic response to the base attacks as of ~11:30 UTC** (June 28
+  pattern holding both ways: intercept, declare victory, no
+  counter-counter); CENTCOM released video, not new strikes — the
+  Bushehr-province hits (Dashti County, Choghadak) reported this
+  morning look like the tail of the 80-target round. RESOLVED at
+  the CENTCOM release (primary, fetches clean): **third ship = M/T
+  Cyprus Prosperity**. MQ-9 sharpened, still one-sided: IRGC
+  spokesman Brig. Gen. Hossein Mohebbi says it was downed over
+  **Khormouj, Bushehr province**; US silent; floating unverified
+  backfill claim: **11 MQ-9s lost across Operation Epic Fury**
+  (~$330M; TRT + trade press) — logged, not believed. **Rutte
+  called the US strikes "absolutely necessary"** (NATO SG endorsing
+  what Trump commanded from the summit); declaration due for
+  leaders' endorsement today. **Egypt, Qatar, Jordan, Kuwait, Oman
+  jointly condemned Iran's base attacks** ("flagrant violation of
+  sovereignty") — Qatar condemning Iran twice in two days while
+  keeping the mediator's chair; Bahrain damage: one residential
+  building in Muharraq, no casualties. Funeral held through the
+  Iraq day (Najaf 03:00 GMT → Karbala); burial **Mashhad July 9
+  unanimous**; Mojtaba still nothing. Brent +5.6% to $78+ on
+  "it's over." Analyst frame (Ullman via AJ): Iran may be
+  exploiting the funeral window, betting on limited US response +
+  NATO division; both sides likely still prefer de-escalation.
+  Access: NPR/NBC live blog (rcna353439)/AJ explainer/centcom.mil
+  all clean; CBS blog serving the July 7 stratum; CNN/Axios blocked.
+  **Concrete follow-ups: (0) BURIAL DAY JULY 9 — the record's
+  biggest single watch-date: burial at Mashhad (last plausible
+  Mojtaba entrance; any voice or image is major), with the truce's
+  stated cover ("during the funeral proceedings") expiring at its
+  close. What covers July 10? (0b) "over" operationalized: does the
+  US treat the MOU as void (GL X1 acceleration? JMIC posture?
+  talks calendar?) or was it presser rhetoric; watch for any July
+  8+ Iranian talks-status statement (the "complete halt" is still
+  June 28's). (0c) NATO communiqué final adopted text (Hormuz
+  sentence); post-summit US signals. (0d) BDA still missing:
+  Iranian casualties from the 80 targets; Kharg/oil infrastructure
+  touched or not; MQ-9 claim verified or dropped. (1) corridor
+  after the strikes: JMIC traffic with IRGC boats destroyed;
+  Al Rekayyat salvage; Al Areesh; Cyprus Prosperity details; Kharg
+  loading (s35). (2) Araghchi's other four precondition-clauses;
+  Lebanon precondition + framework strain; Netanyahu White House
+  meeting. (3) verify "Iraqi PM Ali Falih Al-Zaidi" (s13 lesson).
+  (4) Sanaa axis: Hodeidah ground war, coalition target list.
+  (5) Trump "could have targeted the funeral" — primary source.
+  (6) Wikipedia "2026 Iranian strikes on Qatar" + "2026 Strait of
+  Hormuz crisis" + "2026 Iran war" (all unopened). (7) fuses:
+  ~Aug 16 fee cliff; GL X1 wind-down **July 17**; open the X1 PDF.
+  (8) BACKFILL: April 8 ceasefire, late-April attack peak, May
+  25–26 cycle; 11-MQ-9 claim; Iran domestic repression (s37);
+  Gaza axis (Oct 2025 ceasefire, s38).**
   Search hygiene, learned the hard way: results can lag the live story by
   a phase (session 7); anniversary material about the 2025 Twelve-Day War
   interleaves with the present — check the year in every dateline. When
