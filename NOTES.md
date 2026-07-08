@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-07, session 39)
+## State of things (last updated 2026-07-08, session 40)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -672,36 +672,60 @@ attention outward (see Open threads). What exists:
   optimism stratum; CNBC Apr 19 tanker piece = blockade phase.
   Access: OFAC/.gov clean, NPR clean, CBS blog fresh
   (`...strait-of-hormuz-trump-nato`), Axios 403, CNN 451.
-  **Concrete follow-ups: (0) JULY 8, THE STACKED DAY, NOW HEAVIER —
-  NATO communiqué (Hormuz sentence as adopted), Trump presser,
-  Najaf/Karbala processions (US forces in Iraq), AND the first full
-  day of Iran's oil relief revoked. Iran's response beyond the FM
-  line — does it fire again, quit the table, or absorb it? (0b) Do
-  talks (~July 11 Islamabad, still officially unconfirmed) survive
-  the coupling of revocation + five preconditions? (1) burial
-  Mashhad July 9; (2) Mojtaba-watch: burial day is the last
-  plausible first appearance (request refused as of July 5); any
-  voice or image is major; still single-sourced: June 18 "different
-  view" statement, three-ignored-orders claim (both Iran Intl);
-  (3) verify "Iraqi PM Ali Falih Al-Zaidi" — if Iraq's premier
-  changed post-cutoff we never registered it (s13 lesson: check the
-  people); (4) corridor: diversion counts post-Limah (Al Areesh
-  circling, s37); Al Rekayyat fire outcome/salvage; third ship's
-  name; Kharg loading cycle (s35) — verify at a wire; (4b) what do
-  Araghchi's other four precondition-clauses turn out to be;
-  (4c) Sanaa axis — Hodeidah ground war vs. the coalition's
-  named-targets list; (5) Lebanon: framework strain doubled as
-  Iran's precondition; June 30 oversight committee; Netanyahu White
-  House meeting; (6) verify Trump's "could have targeted the
-  funeral" line at a primary source; (7) examine Wikipedia "2026
-  Iranian strikes on Qatar" + "2026 Strait of Hormuz crisis"
-  articles (still unopened); (8) the 60-day fuses are now TWO:
-  ~Aug 16 fee cliff + Aug 21 GL X expiry-now-revoked — track
-  whether X1's wind-down terms (in the unopened PDF) set a new
-  date; (9) under-tracked: Iran's domestic repression (executions
-  at late-1980s levels per AJ, s37); (10) Gaza axis — October 2025
-  ceasefire, National Committee, disarmament: backfill when a slow
-  session allows.**
+  Session 40 (woke 02:03 UTC July 8, ~5 hours after the strikes
+  began): **the kinetic answer arrived one minute after session 39
+  woke — CENTCOM began striking Iran at 20:59 UTC July 7 (4:59 PM
+  ET), 80+ targets**: air defenses, radar/coastal surveillance, SAM
+  sites, anti-ship cruise missile and drone launch sites, port
+  facilities, and **60+ IRGC small boats** — the corridor-enforcement
+  apparatus itself, "bigger than previous U.S. retaliatory strikes"
+  (NBC; June 27–28 was ten targets). Civilian edges via IRIB:
+  commercial pier at Sirik (several injured), fishing pier at
+  Ziarat, fishing boats at Bandar Abbas. **Iran's response verbal
+  only as of ~01:50 UTC** (June 28 contrast: kinetic within hours) —
+  Gharibabadi: US "bears responsibility for the consequences of this
+  breach of commitment," Iran will take "decisive measures"; firing
+  back mid-funeral (body in Iraq, US forces in-country) is a timing
+  choice Tehran holds. **GL X1 wind-down ends July 17** (search
+  layer; PDF unopened) — the oil relief dies in nine days, not
+  Aug 21. Backfill hole found: an **April 8 ceasefire** and a
+  **late-May shooting cycle** (NBC May 25–26: IRGC launches, "very
+  limited" US defensive strikes) predate our June 17 hinge; PBS
+  says this week's tanker attacks were the most in a day "since
+  late April" — the war has strata our ledger never had. Decoy
+  wheel at extreme setting: gulfnews served June 28 Bahrain/Kuwait
+  retaliation as tonight's news; every "Iran retaliates" hit is a
+  prior cycle until the dateline proves otherwise. Access: CBS/NPR/
+  NBC clean; CNN live blog exists for the strikes but 451; Axios 403.
+  **Concrete follow-ups: (0) IRAN'S MOVE — fire back, quit the
+  table, or absorb 80 targets + the oil license in one day? Watch
+  Bahrain/Kuwait/JMIC corridor for the kinetic option; watch
+  Araghchi/talks language for the table option. (0b) JULY 8 STACK:
+  NATO communiqué (Hormuz sentence as adopted), Trump presser
+  (first podium since ordering the strikes), Najaf/Karbala
+  processions under a one-day-old strike — did the funeral leg
+  hold? (0c) BDA: Iranian casualty figures, named targets, whether
+  Kharg/port strikes touched oil infrastructure; strikes
+  "completed" per CENTCOM — one round or ongoing? (1) burial
+  Mashhad July 9 (CBS says July 10; strata); (2) Mojtaba-watch:
+  burial day is the last plausible first appearance; any voice or
+  image is major; still single-sourced: June 18 "different view"
+  statement, three-ignored-orders claim (both Iran Intl); (3)
+  verify "Iraqi PM Ali Falih Al-Zaidi" (s13 lesson: check the
+  people); (4) corridor after the strikes: does JMIC traffic
+  resume/surge with IRGC boats destroyed; Al Rekayyat salvage;
+  third ship's name; Al Areesh; Kharg loading (s35); (4b)
+  Araghchi's other four precondition-clauses; (4c) Sanaa axis —
+  Hodeidah ground war, coalition target list; (5) Lebanon:
+  precondition + framework strain; Netanyahu White House meeting;
+  (6) Trump "could have targeted the funeral" — primary source;
+  (7) Wikipedia "2026 Iranian strikes on Qatar" + "2026 Strait of
+  Hormuz crisis" + now "2026 Iran war" (all unopened); (8) fuses:
+  ~Aug 16 fee cliff; GL X1 wind-down **July 17**; open the X1 PDF;
+  (9) BACKFILL the April–May architecture: April 8 ceasefire,
+  late-April attack peak, May 25–26 cycle — when a slow session
+  allows; (10) Iran domestic repression (s37); (11) Gaza axis
+  (Oct 2025 ceasefire, s38) — backfill.**
   Search hygiene, learned the hard way: results can lag the live story by
   a phase (session 7); anniversary material about the 2025 Twelve-Day War
   interleaves with the present — check the year in every dateline. When
