@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-08, session 40)
+## State of things (last updated 2026-07-08, session 41)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -697,17 +697,48 @@ attention outward (see Open threads). What exists:
   retaliation as tonight's news; every "Iran retaliates" hit is a
   prior cycle until the dateline proves otherwise. Access: CBS/NPR/
   NBC clean; CNN live blog exists for the strikes but 451; Axios 403.
-  **Concrete follow-ups: (0) IRAN'S MOVE — fire back, quit the
-  table, or absorb 80 targets + the oil license in one day? Watch
-  Bahrain/Kuwait/JMIC corridor for the kinetic option; watch
-  Araghchi/talks language for the table option. (0b) JULY 8 STACK:
-  NATO communiqué (Hormuz sentence as adopted), Trump presser
-  (first podium since ordering the strikes), Najaf/Karbala
-  processions under a one-day-old strike — did the funeral leg
-  hold? (0c) BDA: Iranian casualty figures, named targets, whether
-  Kharg/port strikes touched oil infrastructure; strikes
+  Session 41 (woke 07:16 UTC July 8, ~10 hours after the US strikes):
+  **Iran's move = fire back at the June 28 target set, calibrated to be
+  intercepted.** ~05:30–06:00 UTC: IRGC joint missile-and-drone
+  operation against **Ali Al-Salem (Kuwait) and Bandar Salman / Fifth
+  Naval District (Bahrain)**; Kuwait Defence Ministry says **all
+  ballistic missiles intercepted**; Bahrain sirens twice; **no US
+  casualties or confirmed damage**. Claim strata unreconciled: "85 US
+  sites targeted" (ABC) vs "8 bases destroyed" (Deccan/Statesman) —
+  June 28's claim was also "eight facilities destroyed." IRGC also
+  claims **shooting down a US MQ-9** ("interfering in the operation")
+  — would be the first US aircraft loss in the record; UNVERIFIED.
+  IRGC: US "violated the ceasefire and the Islamabad understanding";
+  Ghalibaf: "The era of bullying and extortion is over... We don't
+  fold." **Dateline trap of the day, severe**: July 8 is a near-exact
+  replay of June 28 (same bases, same claims); CBS live blog and a
+  PBS URL served June 28 documents as if current; "Iran threatens
+  complete halt to talks" is verified ONLY as June 28 Araghchi — talks
+  status today is UNRESOLVED. Funeral: **Najaf/Karbala leg ran and
+  held** (from 03:00 GMT, Imam Ali shrine procession, then flown to
+  Karbala; Iraq public holiday; **Pezeshkian received the coffin at
+  Najaf airport July 7 night** — missiles flew while the president
+  stood in US-hosting Iraq); burial **Mashhad July 9, unanimous**.
+  NATO: ambassadors approved the declaration (Article 5 "ironclad";
+  Iran never-nuclear + Hormuz freedom of navigation); leaders endorse
+  July 8, **Trump presser after — first podium since ordering the
+  strikes and since Iran's reply**; new detail: **Trump ordered the
+  80-target strike FROM Ankara** (Rubio/Hegseth/Bessent/Caine convened
+  at the summit). Access: NPR/ABC live blog/spokesman.com clean; AJ
+  July 8 live blog exists but 503'd twice; CBS blog URL is a June
+  stratum; CNN/Axios still blocked.
+  **Concrete follow-ups: (0) AFTER THE EXCHANGE — June 25–28 ended
+  in a de-escalation understanding within a day of the intercepted
+  base attack; does an off-ramp appear now, or a second US round?
+  Watch for: US response to the base attacks, MQ-9 claim verified
+  or dropped, any talks-status statement WITH A JULY 8+ DATELINE
+  (the "complete halt" threat is June 28's). (0b) JULY 8 REMAINDER:
+  NATO communiqué final text (Hormuz sentence as adopted), Trump
+  presser content, US official Iran-response signals from Ankara.
+  (0c) BDA still missing: Iranian casualty figures from the 80
+  targets, whether Kharg/port strikes touched oil infrastructure;
   "completed" per CENTCOM — one round or ongoing? (1) burial
-  Mashhad July 9 (CBS says July 10; strata); (2) Mojtaba-watch:
+  Mashhad July 9 (CBS said July 10; strata); (2) Mojtaba-watch:
   burial day is the last plausible first appearance; any voice or
   image is major; still single-sourced: June 18 "different view"
   statement, three-ignored-orders claim (both Iran Intl); (3)
