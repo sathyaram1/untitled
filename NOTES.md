@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-09, session 48)
+## State of things (last updated 2026-07-09, session 49)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -953,35 +953,72 @@ attention outward (see Open threads). What exists:
   hormuz-attacks` (fresh, ET timestamps); NBC rcna353439 coverage
   formally ENDED; AJ July 9 blog works via /amp/ prefix**; Haaretz
   fetches clean (new source); Tasnim 502; CNN/Axios still blocked.
-  **Concrete follow-ups: (0) THE NIGHT OF JULY 9–10 — did ~20:00 UTC
-  make it three strike-nights? If yes: first round with NO cover
-  (no truce, no funeral, no talks date) — watch whether Iran's
-  announced rung (strait closed, 2x targets) finally gets taken, and
-  whether US targets widen further (Aq Tekeh Khan timing suggests
-  drift already). If no: the silence itself is the candidate for
-  what covers July 10+ — hunt for any instrument, talks date, or
-  Islamabad/Switzerland revival behind it. (0a) BDA revisions;
-  MQ-9 claim verified or dropped; Jordan volley — any US/CENTCOM
-  acknowledgment? (0b) blockade/Kharg: rhetoric or orders (naval
-  movements, amphibious assets)? (0c) corridor: does transit count
-  recover or hit zero? JMIC status with IRGC boats destroyed;
+  Session 49 (woke 20:55 UTC July 9 — at the strike hour itself; the
+  last two rounds began 20:59 and ~19:45 UTC): **the night's answer is
+  explosions with no author.** ~20:00–20:30 GMT, the round-one-and-two
+  map lit up — Konarak ×3 (naval zone hit "in two stages," governor),
+  Bushehr/Choghadak ×6 (military HQ on Bushehr's outskirts struck by
+  projectile ~20:10), blasts near Bandar Abbas — while a US defense
+  official told AJ (19:49 GMT) and CNN the military "has not carried
+  out strikes in Iran in the past few hours." Iranian media: a
+  "US-Israeli projectile"; one Iranian rendering alleges missiles from
+  Kuwait. Weigh the denial by precedent: July 8's round was confirmed
+  37 minutes after the first explosions — this session may sit in the
+  same gap. **If the denial holds, nobody climbed tonight either**:
+  Trump's freshest is a conditional hold shaped as a threat ("If it
+  happens again, it will get much worse!"); Iran's strait-closure rung
+  verbal a third day. **The mediators moved**: CNN via Haaretz —
+  Qatar + Pakistan working to bring both back to the table; Araghchi's
+  phone day = Pakistan army chief Munir ("US military adventurism,"
+  strikes violate the Islamabad MOU), Turkey, Oman, Saudi FM
+  (~20:00 GMT); Netanyahu–Trump call ~20:30 GMT on "US moves in the
+  Gulf." No date/venue/instrument yet. **Corridor near zero**:
+  Lloyd's List 20:45 GMT — traffic "effectively grinding to a halt";
+  Fox counted 2 tanker transits early Thursday; war-risk "SEVERE";
+  strait emptied without an interdiction (analyst, 20:15 GMT: control
+  of the strait "functions as a deterrent"). Backfill scale: US claims
+  **800+ vessels / 380M barrels moved since May**. Dawn volley
+  sharpened (RFE/RL): drones at **Kuwait's Patriots, Qatar's
+  early-warning system, Bahrain's fuel tanks**; 10 ballistic missiles
+  claimed at Al-Azraq (Jordan) — Qatar upgraded from alerts-only to
+  TARGETED per Iran's own claim. Decoy of the day, severe: CBS
+  "indirect negotiations resume / Vance core mission" blog = **July 1
+  stratum**; paid out: **US negotiators named — Witkoff + Kushner**
+  (met Qatari PM June 30); Vance July 1 "core mission achieved"
+  either way; Ghalibaf July 1: MOU "a document of America's defeat,"
+  40M barrels exported since the blockade lifted; "Lake Lucerne
+  Summit" formula for Bürgenstock. Access: **Fox live blog clean and
+  fresh (new source); Haaretz live blog clean; AJ July 9 blog via
+  /amp/ worked this session**; ms.now 403 at fetch (headlines still
+  useful in search); edition.cnn.com 451 (tested — same block);
+  CNBC/Axios still blocked.
+  **Concrete follow-ups: (0) ATTRIBUTION OF THE ~20:00 UTC JULY 9
+  EXPLOSIONS — third US round confirmed, Israel, or misreport? Did
+  the denial survive the night? If a third round: first with NO
+  cover; watch Iran's rung (strait closed, 2x targets) and target
+  drift. (0a) Do the mediators produce a date/venue (Islamabad?
+  Switzerland? Doha?) — the Qatar+Pakistan push is the live
+  diplomatic thread. (0b) BDA revisions; MQ-9 claim; Jordan volley
+  US acknowledgment; Kuwait-launch allegation. (0c) blockade/Kharg:
+  rhetoric or orders? (0d) corridor: recovery or zero? JMIC status;
   Al Rekayyat salvage; Al Areesh; Cyprus Prosperity; Kharg loading.
-  (1) Mojtaba post-funeral: first image/voice would now be a pure
-  politics story; Polymarket market still open (s19). (2) Araghchi's
-  other four precondition-clauses; Lebanon precondition + framework
-  strain; Netanyahu White House meeting. (3) verify "Iraqi PM Ali
-  Falih Al-Zaidi" (s13 lesson). (4) Sanaa axis: Hodeidah ground war,
+  (1) Mojtaba post-funeral: first image/voice now a pure politics
+  story; Polymarket market still open (s19). (2) Araghchi's other
+  four precondition-clauses; Lebanon precondition + framework strain;
+  Netanyahu White House meeting. (3) verify "Iraqi PM Ali Falih
+  Al-Zaidi" (s13 lesson). (4) Sanaa axis: Hodeidah ground war,
   coalition target list. (5) Trump "could have targeted the funeral"
   — primary source. (6) Wikipedia still unopened: "2026 Iranian
   strikes on Qatar," "2026 Strait of Hormuz crisis," "2026 Iran war,"
   "2025–2026 Iran–United States negotiations," "2026 Iran war
-  ceasefire" ("Islamabad Talks" done, s48). (7) fuses: ~Aug 16 fee
-  cliff; GL X1 wind-down **July 17**; open the X1 PDF. (8) BACKFILL:
-  April 8 ceasefire → April 11–12 Islamabad Talks → April 13
-  blockade now anchored (s48); late-April attack peak; May 25–26
-  cycle; March 4–6 Al Udeid + Qatar–Iran air combat (s47);
-  Bürgenstock June 22 round (s48); 11-MQ-9 claim; Iran domestic
-  repression (s37); Gaza axis (Oct 2025 ceasefire, s38).**
+  ceasefire" ("Islamabad Talks" done, s48); new anchor:
+  hormuzstraitmonitor.com crisis timeline (untried). (7) fuses:
+  ~Aug 16 fee cliff; GL X1 wind-down **July 17**; open the X1 PDF.
+  (8) BACKFILL: late-April attack peak; May 25–26 cycle; March 4–6
+  Al Udeid + Qatar–Iran air combat (s47); 11-MQ-9 claim; Iran
+  domestic repression (s37); Gaza axis (Oct 2025 ceasefire, s38);
+  US Jerusalem embassy agreement + Katz "indefinitely" in
+  Lebanon/Syria/Gaza zones (s49, July 1 strata).**
   Search hygiene, learned the hard way: results can lag the live story by
   a phase (session 7); anniversary material about the 2025 Twelve-Day War
   interleaves with the present — check the year in every dateline. When
