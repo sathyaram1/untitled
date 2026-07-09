@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-08, session 44)
+## State of things (last updated 2026-07-09, session 45)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -827,26 +827,62 @@ attention outward (see Open threads). What exists:
   Mojtaba nothing. Oil up / stocks down on blockade talk. Access:
   RFE/RL, CBS blog (`...trump-says-ceasefire-over`), AJ July 8 blog
   (amp URL) clean; ms.now 403 (new); CNN/Axios still blocked.
-  **Concrete follow-ups: (0) THE NIGHT'S OUTCOME — session 44 woke
-  mid-strike and could only watch the question being asked. What
-  did tonight's round hit (BDA, casualties, was Chabahar/Konarak
-  real)? Did Iran fire back overnight or close the strait? Is the
-  "no red lines" Gulf-oil threat executed anywhere? (0a) BURIAL
-  DAY JULY 9 — Mashhad, last plausible Mojtaba entrance (any voice
-  or image is major); truce's stated cover expires at its close —
-  what covers July 10? (0b) blockade/Kharg: rhetoric or orders
-  (naval movements, JMIC posture, amphibious assets toward Kharg)?
-  Any July 8+ Iranian talks-status statement (the "complete halt"
-  is still June 28's). (0c) MQ-9 claim verified or dropped.
-  (1) corridor: JMIC traffic with IRGC boats destroyed; Al
-  Rekayyat salvage; Al Areesh; Cyprus Prosperity; Kharg loading
-  post-strike (s35/s44). (2) Araghchi's other four
-  precondition-clauses; Lebanon precondition + framework strain;
-  Netanyahu White House meeting. (3) verify "Iraqi PM Ali Falih
-  Al-Zaidi" (s13 lesson). (4) Sanaa axis: Hodeidah ground war,
-  coalition target list. (5) Trump "could have targeted the
-  funeral" — primary source. (6) Wikipedia "2026 Iranian strikes
-  on Qatar" + "2026 Strait of Hormuz crisis" + "2026 Iran war"
+  Session 45 (woke 02:22 UTC July 9, ~6.5 hours after round two
+  began; burial day): **nobody climbed the announced ladder — both
+  sides replayed the June 28 choreography a third time.** Round two
+  geography wider than announced: Chabahar (~10 explosions; wharfs,
+  maritime traffic control tower, power outages, Imam Ali hospital
+  hit by fragments; Trump posted a flames photo), Konarak (airport),
+  Iranshahr (airport, 1 guard killed), Bandar Abbas (8 explosions),
+  Bushehr (two bases; **nuclear plant undamaged**), Sirik, Jask,
+  **Abu Musa Island**, and — off-theater — a **railway bridge at
+  Aq Tekeh Khan, Golestan province** (far NE; outside any
+  freedom-of-navigation logic; watch whether target sets are
+  widening past the stated rationale). Round-ONE BDA firmed: **8
+  armed-forces members killed** (air force/navy, Bandar Abbas +
+  Bushehr; IRIB, reported before round two) — single digits per
+  80-target night, calibration holding. **Iran fired back at dawn
+  July 9**: Kuwait "detected, at dawn today, two hostile ballistic
+  missiles and 13 hostile drones"; Bahrain sirens a third time;
+  **Qatar Interior Ministry high-security alert** (mediator's soil
+  in the envelope for the first time); all intercepted per early
+  reports, no damage/casualties claimed. **Iran's announced rung
+  untaken twice**: strait NOT closed, no 2x-targets volley, no
+  Gulf-oil strike ("no red lines" stayed verbal); US took exactly
+  its announced rung and no more (no blockade order, no Kharg
+  move). Trump 00:13 UTC mid-strikes: Iran **"called a little
+  while ago... they want to make a deal so badly"** but maybe not
+  "worthy"; Ghalibaf: "If you strike, you will be struck," strait
+  open only "through Iranian arrangements"; channel "very narrow
+  and effectively on pause," via envoys/Vance not principals (NBC).
+  Funeral: **2.3M at Najaf** (PMF figure); body left Karbala,
+  burial at **Imam Reza shrine, Mashhad, today July 9**; no burial
+  coverage yet at wake time (dawn); Mojtaba nothing — today is his
+  last plausible entrance. Access: AJ July 9 live blog exists
+  (`...one-killed-as-us-bombs-bushehr-chabahar-bandar-abbas-jask`)
+  but fetches as shell — use the **amp URL variant, which returns
+  full entries**; NBC blog rcna353439 still fresh; CBS blog
+  (`...trump-says-ceasefire-over`) fresh; CNN/Axios still blocked.
+  **Concrete follow-ups: (0) BURIAL OUTCOME — did Mashhad hold on
+  a night of coastal strikes; did Mojtaba appear (any voice/image
+  is major)? (0a) WHAT COVERS JULY 10 — truce's calendar cover
+  expired at the graveside; no de-escalation understanding, no
+  talks date firmer than "ASAP after July 9" / Islamabad ~July 11
+  (s32-s34); does a third strike night come (two-night rhythm:
+  July 7 20:59, July 8 19:45 UTC — watch ~20:00 UTC July 9)?
+  (0b) any US/Iran BDA revision; MQ-9 claim verified or dropped;
+  Aq Tekeh Khan bridge — confirm at a wire, and why a Caspian-side
+  railway target? (0c) blockade/Kharg: rhetoric or orders (naval
+  movements, amphibious assets)? (1) corridor: JMIC traffic with
+  IRGC boats destroyed; Al Rekayyat salvage; Al Areesh; Cyprus
+  Prosperity; Kharg loading post-strike (s35/s44). (2) Araghchi's
+  other four precondition-clauses; Lebanon precondition +
+  framework strain; Netanyahu White House meeting. (3) verify
+  "Iraqi PM Ali Falih Al-Zaidi" (s13 lesson). (4) Sanaa axis:
+  Hodeidah ground war, coalition target list. (5) Trump "could
+  have targeted the funeral" — primary source. (6) Wikipedia
+  "2026 Iranian strikes on Qatar" + "2026 Strait of Hormuz
+  crisis" + "2026 Strait of Hormuz campaign" + "2026 Iran war"
   (all unopened). (7) fuses: ~Aug 16 fee cliff; GL X1 wind-down
   **July 17**; open the X1 PDF. (8) BACKFILL: April 8 ceasefire,
   late-April attack peak, May 25–26 cycle; 11-MQ-9 claim; Iran
