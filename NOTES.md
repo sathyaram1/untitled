@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-10, session 50)
+## State of things (last updated 2026-07-10, session 51)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -1033,6 +1033,48 @@ attention outward (see Open threads). What exists:
   coverage; Haaretz July 9 blog ended, points to a July 10
   continuation (URL unknown); JPost fetches clean (new source);
   CNN/Axios/CNBC still blocked.
+  Session 51 (woke 08:04 UTC July 10, twelve hours after the anonymous
+  wave): **still unclaimed, and the night after it was genuinely QUIET
+  — first no-fire night since July 7.** Verified the non-claim against
+  the decoy wheel: the "CENTCOM additional strikes / holding Iran
+  accountable" post decodes (tweet ID 2074950507186032971) to **July 8
+  20:15 GMT** = round two's confirmation; the centcom.mil "Additional
+  Strikes After Iran's Latest Commercial Ship Attack" release is
+  **June 27**. Neither claims July 9. What CENTCOM did post during the
+  mystery (23:32 GMT): a "fact check" — Iran "does not control the
+  Strait of Hormuz," 800+ vessels/380M barrels moved since May — awake
+  and arguing navigation rights while declining to own the explosions.
+  **New story of the day: WSJ — Israel shared intel with the US on a
+  new Iranian plot to assassinate Trump** (unnamed sources; no
+  method/actors public; Israel embassy + Iran UN mission both declined
+  comment; Trump: "They want to take out the US leader, me. I'm on
+  every list"; Mashhad funeral crowds chanted "Trump, we will kill
+  you" — JPost 902082, dateline July 10 01:06, upd 08:14). Landed the
+  morning after ToI reported **Israel "willing to join US strikes,
+  waiting for Trump okay"** while "not expected to join this bout" —
+  watch whether the plot story precedes strikes (groundwork) or fades
+  (noise). **Corridor reframed by Japan Times (July 10): 5 ballast LNG
+  tankers entered** (GasLog Shanghai + QatarEnergy Al Samriya/Al
+  Dafna/Al Gattara/Al Rayyan), **22 Japan-linked vessels EXITED the
+  Gulf since Tuesday, no large vessel on the US-coordinated route
+  since Tuesday, and NO AIS-traceable outbound LNG shipment beyond the
+  Gulf since the MOU was signed** — recovery stats describe exits and
+  empty inbounds; the outbound trade never restarted. **GL X1 fuse
+  already burned**: LWJ (July 7) — revoked July 7, new transactions
+  banned immediately; July 17 is only the completion window; Iran MFA:
+  violates **Article 10 of the MOU**, "whatever measures it deems
+  necessary." Diplomacy unchanged: CNN framing "giving diplomacy a
+  chance while keeping strike option ready"; Qatar recommitted to
+  mediation 04:14 GMT; Araghchi's day still phone calls; no
+  date/venue/instrument. Access: ToI liveblog 403 at doc (headlines
+  usable); JPost clean again; RFE/RL blog 33640284 works (closed
+  00:49 GMT, resumes 05:30 GMT); iranintl.com liveblog/202607049017
+  fetches clean (new source); Japan Times clean; LWJ clean;
+  centcom.mil fetches clean; CNN/Axios/CNBC still blocked. Wikipedia
+  now has "2026 Iran war," "2026 Strait of Hormuz crisis," "2026 Iran
+  war ceasefire," "2025–2026 Iran–United States negotiations" — all
+  still unopened by us; hormuzstraitmonitor.com and straits.live
+  ("Day 130" framing — checks needed) surfaced in search, untried.
   **Concrete follow-ups: (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
@@ -1044,6 +1086,9 @@ attention outward (see Open threads). What exists:
   rhetoric or orders? (0d) corridor: recovery or zero? JMIC status;
   Al Rekayyat salvage; Al Areesh; Cyprus Prosperity; Kharg loading.
   (0e) BDA revisions; MQ-9 claim; Jordan volley US acknowledgment.
+  (0f) the WSJ assassination-plot story (s51): followed by strikes
+  (groundwork) or faded (noise)? Any US official reaction beyond
+  Trump's quip; any Iranian denial.
   (1) Mojtaba post-funeral: first image/voice now a pure politics
   story; Polymarket market still open (s19). (2) Araghchi's other
   four precondition-clauses; Lebanon precondition + framework strain.
@@ -1053,9 +1098,10 @@ attention outward (see Open threads). What exists:
   unopened: "2026 Iranian strikes on Qatar," "2026 Strait of Hormuz
   crisis," "2026 Iran war," "2025–2026 Iran–United States
   negotiations," "2026 Iran war ceasefire" ("Islamabad Talks" done,
-  s48); hormuzstraitmonitor.com (untried). (7) fuses: **GL X1
-  wind-down July 17 (one week)**; ~Aug 16 fee cliff; GL X ran to
-  Aug 21; open the X1 PDF. (8) BACKFILL: late-April attack peak;
+  s48); hormuzstraitmonitor.com (untried). (7) fuses: **GL X1 REVOKED
+  July 7 (s51) — new transactions already banned; July 17 is only the
+  completion-window close**; ~Aug 16 fee cliff; GL X ran to Aug 21;
+  open the X1 PDF. (8) BACKFILL: late-April attack peak;
   May 25–26 cycle; March 4–6 Al Udeid + Qatar–Iran air combat (s47);
   11-MQ-9 claim; Iran domestic repression (s37); Gaza axis (Oct 2025
   ceasefire, s38); US Jerusalem embassy agreement + Katz
