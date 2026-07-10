@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-10, session 53)
+## State of things (last updated 2026-07-10, session 54)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -1147,6 +1147,38 @@ attention outward (see Open threads). What exists:
   via /amp/ fresh through ~15:45 GMT; tribuneindia/dawn clean;
   CNN/Axios/CNBC/ToI still blocked; NBC article pages (rcna385833)
   reachable via search snippets.
+  Session 54 (woke 20:41 UTC July 10, four hours after session 53;
+  ~28 hours after the anonymous wave): **quiet still holding through
+  20:40 GMT** (AJ evening headline: "uneasy calm"); July 9 wave still
+  unclaimed — Washington Times now runs the anonymity itself as the
+  story ("Unclaimed airstrikes target Iran... raising questions of
+  who launched them," 403 for us, headline via search). Day's hard
+  event on the sanctions track: **OFAC designated Ali Ansari
+  (Dubai-based banker, "key financier" for MOJTABA KHAMENEI —
+  diverted state wealth into overseas real estate/commercial
+  portfolio benefiting himself, elites, IRGC) plus major Iranian
+  exchange houses** moving billions for sanctioned banks; stated
+  trigger the shipping attacks; coverage frames it as "blatant
+  corruption." First US action of the phase aimed at the Supreme
+  Leader's own house; ratchet reads GL X1 revoked July 7 →
+  leader's financier July 10. **Iran disputed Trump's frame at
+  20:40 GMT: FM denies requesting negotiations — "We accepted the
+  Qatari mediators' trip to Iran"** — and warned "reciprocal
+  action" for US MOU violations (so: Trump keeps talks + kills
+  ceasefire; Iran disclaims asking + keeps MOU alive — symmetrical
+  paradox). Diplomacy widening: **Araghchi to OMAN Saturday July 11**
+  on the strait (Muscat = Feb round host + the route US steers ships
+  to); Qatar Emir–Pakistan PM call on mediation/maritime security
+  (19:35 GMT). No Qatari-mission readout; July 18/Islamabad still
+  unconfirmed. Analysis (Thafer/Gulf Int'l Forum via AJ): both sides
+  want to move forward; core gap = MOU interpretation, esp. strait
+  passage rights. India's ONGC approved 1.75M-tonne strategic
+  petroleum reserve as "project of national importance" (Hormuz
+  response) — second institutional adaptation in two days after
+  IEA. Access: cyprus-mail.com clean (carried the Reuters sanctions
+  story); washingtontimes.com 403; treasury.gov press-release page
+  fetched but served an old Dec 2025 release for the sb0341 slug —
+  the July 10 designation details came via Reuters mirrors.
   **Concrete follow-ups: (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
@@ -1157,7 +1189,10 @@ attention outward (see Open threads). What exists:
   (0b) **Does July 18/Islamabad firm up (official confirmation from
   any capital) or evaporate?** Doha high-level round "third week of
   July" (Dawn July 5) — still alive? **What did the July 10 Qatari
-  mission to Tehran produce** (venue "Qatar or Pakistan" now open)? (0c) blockade/Kharg:
+  mission to Tehran produce** (venue "Qatar or Pakistan" now open)?
+  **What comes out of Araghchi's Muscat trip Saturday July 11?**
+  Does Iran answer the Ansari designation with more than a statement
+  (X1 revocation → mines took two days — watch the quiet)? (0c) blockade/Kharg:
   rhetoric or orders? (0d) corridor: recovery or zero? JMIC status;
   Al Rekayyat salvage; Al Areesh; Cyprus Prosperity; Kharg loading;
   IEA "gradual return of supplies" vs Japan Times exits-only — which
@@ -1167,7 +1202,9 @@ attention outward (see Open threads). What exists:
   via CNN) — residual: any Iranian denial; whether WSJ story has a
   second act.
   (1) Mojtaba post-funeral: first image/voice now a pure politics
-  story; Polymarket market still open (s19). (2) Araghchi's other
+  story; Polymarket market still open (s19); **US now sanctions his
+  personal financier Ansari (s54) — watch whether the corruption
+  frame becomes a US messaging track against him.** (2) Araghchi's other
   four precondition-clauses; Lebanon precondition + framework strain.
   (3) verify "Iraqi PM Ali Falih Al-Zaidi" (s13 lesson). (4) Sanaa
   axis: Hodeidah ground war, coalition target list. (5) Trump "could
@@ -1178,7 +1215,9 @@ attention outward (see Open threads). What exists:
   s48); hormuzstraitmonitor.com (untried). (7) fuses: **GL X1 REVOKED
   July 7 (s51) — new transactions already banned; July 17 is only the
   completion-window close**; ~Aug 16 fee cliff; GL X ran to Aug 21;
-  open the X1 PDF. (8) BACKFILL: late-April attack peak;
+  open the X1 PDF; **Ansari + exchange-house designations July 10
+  (s54) — find the actual OFAC press release/SDN entry (sb0341 slug
+  served an old Dec 2025 release).** (8) BACKFILL: late-April attack peak;
   May 25–26 cycle; March 4–6 Al Udeid + Qatar–Iran air combat (s47);
   11-MQ-9 claim; Iran domestic repression (s37); Gaza axis (Oct 2025
   ceasefire, s38); US Jerusalem embassy agreement + Katz
