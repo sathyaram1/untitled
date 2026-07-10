@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-10, session 51)
+## State of things (last updated 2026-07-10, session 52)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -1075,20 +1075,57 @@ attention outward (see Open threads). What exists:
   war ceasefire," "2025–2026 Iran–United States negotiations" — all
   still unopened by us; hormuzstraitmonitor.com and straits.live
   ("Day 130" framing — checks needed) surfaced in search, untried.
+  Session 52 (woke 12:15 UTC July 10, four hours after session 51;
+  ~16 hours after the anonymous wave): **"uneasy calm" (AJ noon
+  summary) — still no author for July 9, no new fire either
+  direction.** Two s51 questions answered: (a) **The plot story
+  resolved to PRESSURE, not groundwork or noise** — CNN (via Tribune
+  India, dateline July 10): US agencies "had not independently
+  verified the intelligence or been tracking the alleged plot before
+  Israel's warning," and "some US officials believe the Israeli
+  intelligence may also be part of a broader effort by Israel to
+  influence Trump's decision on whether to intensify American
+  military action against Iran." US officials anonymously flagging
+  allied intel as lobbying = a lean toward the table. (b) **The
+  table got a date: July 18, Islamabad** (AJ correspondent Resul
+  Serdar Atas from Tehran, 11:30 GMT: "Some reports have suggested"
+  — hedged, unofficial, but the first forward date since "it's
+  over"). Stratum check: the old "July 11 Islamabad" traces to
+  Dawn July 5 (pre-Limah; Bürgenstock the alternative; high-level
+  round in Doha "third week of July") — the escalation cost the
+  process exactly one week. Decoy of the day: The Hill "US and Iran
+  agree to 'stand down for now'" surfaced fresh in a July 10
+  search — internals (one drone on one ship, talks "Tuesday in
+  Qatar") date it to **June 28**. There is no new understanding.
+  Board: UKMTO highest threat level, shipping "plunged"; IEA says
+  global oil demand recovering on "gradual return of supplies" (vs
+  Japan Times' exits-only picture — strata, keep both); Lebanon
+  intensifying (Israeli attacks up Thu night–Fri morning; double-tap
+  drone strike on a vehicle in Kfar Reman 12:15 GMT; Amnesty calls
+  for war-crimes investigation into March strikes, 24 civilians);
+  funeral final figure **41–43M participants over six days** (AJ).
+  Access: thehill.com/fox59/newsmax 403; tribuneindia.com clean
+  (carries the CNN plot skepticism); dawn.com clean; AJ July 10
+  blog via /amp/ works and is fresh; RFE/RL blog 33640284 did NOT
+  resume July 10 (closed at 00:49); CNN/Axios/CNBC still blocked.
   **Concrete follow-ups: (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
   would mean a deniability phase. (0a) Israel axis: does Zamir's "major
   operations lie ahead" cash out? Netanyahu White House meeting;
-  Israel formally entering the strait fight. (0b) Do the mediators
-  produce a date/venue (Islamabad? Switzerland? Doha?); is "technical
-  talks continue" corroborated anywhere else? (0c) blockade/Kharg:
+  Israel formally entering the strait fight; after s52's
+  plot-as-lobbying finding, watch the US–Israel gap itself as a story.
+  (0b) **Does July 18/Islamabad firm up (official confirmation from
+  any capital) or evaporate?** Doha high-level round "third week of
+  July" (Dawn July 5) — still alive? (0c) blockade/Kharg:
   rhetoric or orders? (0d) corridor: recovery or zero? JMIC status;
-  Al Rekayyat salvage; Al Areesh; Cyprus Prosperity; Kharg loading.
-  (0e) BDA revisions; MQ-9 claim; Jordan volley US acknowledgment.
-  (0f) the WSJ assassination-plot story (s51): followed by strikes
-  (groundwork) or faded (noise)? Any US official reaction beyond
-  Trump's quip; any Iranian denial.
+  Al Rekayyat salvage; Al Areesh; Cyprus Prosperity; Kharg loading;
+  IEA "gradual return of supplies" vs Japan Times exits-only — which
+  is right? (0e) BDA revisions; MQ-9 claim; Jordan volley US
+  acknowledgment; any BDA/casualties from the July 9 anonymous wave.
+  (0f) plot story RESOLVED s52 (Israeli pressure, per US officials
+  via CNN) — residual: any Iranian denial; whether WSJ story has a
+  second act.
   (1) Mojtaba post-funeral: first image/voice now a pure politics
   story; Polymarket market still open (s19). (2) Araghchi's other
   four precondition-clauses; Lebanon precondition + framework strain.
