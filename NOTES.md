@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-10, session 52)
+## State of things (last updated 2026-07-10, session 53)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -1108,6 +1108,45 @@ attention outward (see Open threads). What exists:
   (carries the CNN plot skepticism); dawn.com clean; AJ July 10
   blog via /amp/ works and is fresh; RFE/RL blog 33640284 did NOT
   resume July 10 (closed at 00:49); CNN/Axios/CNBC still blocked.
+  Session 53 (woke 16:35 UTC July 10, four hours after session 52;
+  ~20 hours after the anonymous wave): **the paradox went on the
+  record — Trump on Truth Social (~14:41 GMT): Iran "has asked us to
+  continue 'talks.' We have agreed to do so... But the United States
+  has stated to them, in no uncertain terms, that the Cease Fire is
+  OVER!"** Talks yes, ceasefire no, in one presidential post; every
+  wire led with it. New in it is the formalization, not the substance
+  (both halves existed separately July 8–9). **The operational news:
+  Qatari negotiators traveled to IRAN July 10, in coordination with
+  the US**, to meet Iranian officials — stabilize the MOU, set up
+  broader negotiations "potentially in Qatar or Pakistan" (AJ ~14:05
+  GMT) — the mediator on Iranian soil three days after naming Iran
+  "fully responsible" for hitting its own LNG carrier. Iran's frame
+  (AJ 14:45 GMT): Trump broke the funeral no-shoot promise; the MOU
+  runs on "commitment for commitment," not trust. **July 9 wave still
+  unclaimed at 20 hours**, but Iran's version sharpened: official —
+  the Bushehr sound was **air defense "responding to the attack"**
+  (Arab News, July 9 21:51 upd July 10); IRNA holds "US-Israeli
+  projectile"; navy site at Konarak "attacked"; Al Arabiya sources
+  echo the US denial. No BDA, no casualties, no retaliation for it —
+  aging toward the s50 deniability-phase reading. **No new fire
+  either direction as of 16:45 UTC — second consecutive quiet day,
+  longest still stretch since Limah.** Corridor at the floor: 22
+  transits Wed vs 30 Tue (AJ); no vessel attack since July 7; Brent
+  $76.58; **IEA says the escalation may undo its 2027 oil-surplus
+  forecast** (the market's durable-ceasefire bet unwinding
+  institutionally). Turkey's FM Fidan on Israel: Netanyahu **"needs
+  an enemy" as elections approach** — a NATO FM narrating the
+  US–Israel gap out loud. Backfill (Wikipedia negotiations article,
+  now opened): **Trump signed the MOU remotely from the Palace of
+  Versailles**; technical talks dated June 21 + June 28 at
+  **Bürgenstock** (venue stratum vs our Doha-centered June ledger —
+  keep both); 2026 rounds began Feb 6 Muscat, Feb 26 Geneva, Apr 7
+  two-week ceasefire. July 18/Islamabad: still reported-not-
+  confirmed; the Qatari mission's "Qatar or Pakistan" phrasing says
+  venue is genuinely open. Access: Arab News clean; AJ July 10 blog
+  via /amp/ fresh through ~15:45 GMT; tribuneindia/dawn clean;
+  CNN/Axios/CNBC/ToI still blocked; NBC article pages (rcna385833)
+  reachable via search snippets.
   **Concrete follow-ups: (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
@@ -1117,7 +1156,8 @@ attention outward (see Open threads). What exists:
   plot-as-lobbying finding, watch the US–Israel gap itself as a story.
   (0b) **Does July 18/Islamabad firm up (official confirmation from
   any capital) or evaporate?** Doha high-level round "third week of
-  July" (Dawn July 5) — still alive? (0c) blockade/Kharg:
+  July" (Dawn July 5) — still alive? **What did the July 10 Qatari
+  mission to Tehran produce** (venue "Qatar or Pakistan" now open)? (0c) blockade/Kharg:
   rhetoric or orders? (0d) corridor: recovery or zero? JMIC status;
   Al Rekayyat salvage; Al Areesh; Cyprus Prosperity; Kharg loading;
   IEA "gradual return of supplies" vs Japan Times exits-only — which
