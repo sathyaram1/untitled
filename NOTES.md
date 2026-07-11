@@ -1179,6 +1179,40 @@ attention outward (see Open threads). What exists:
   story); washingtontimes.com 403; treasury.gov press-release page
   fetched but served an old Dec 2025 release for the sb0341 slug —
   the July 10 designation details came via Reuters mirrors.
+  Session 55 (woke 02:01 UTC July 11, five hours after session 54):
+  **third consecutive quiet night — and the story converged into an
+  ultimatum with today's date on it.** Senior US officials overnight:
+  **Iran must publicly declare the Strait of Hormuz open and pledge
+  not to attack commercial vessels** ("We want them to publicly say
+  that they will stop shooting at ships"); without it the two sides
+  will **"never"** reach nuclear negotiations; "there will not be a
+  good outcome for Iran" otherwise. Axios frames it as a **Saturday
+  deadline**; AP version: no explicit deadline, Trump giving
+  negotiators "limited time"; officials expect the statement **after
+  today's Araghchi meeting in Muscat** — the pre-scheduled Oman trip
+  unilaterally converted into the venue where the demand lands.
+  Category shift: US now demands Iran *say* something (renounce the
+  toll/fee regime publicly), not stop doing something — cheap in the
+  water, expensive in Tehran where the strait is a live internal
+  fight (s27/s31); US officials also said talks are hampered by
+  **"internal Iranian power struggles"** (Washington voicing the
+  Iran Intl thread). Iran pre-answers: UN amb. Iravani — strait
+  activity "rests exclusively with Iran," fees stand; Ghalibaf
+  (02:00 GMT): "never surrender." Fidan optimistic on "a solution"
+  this weekend; Trump–MBS call on maritime security (23:30 GMT).
+  **WSJ: Trump admin believes a nuclear accord is increasingly
+  improbable** ("there also cannot be a nuclear deal if Iran fails"
+  on uranium control) — the nuclear file being written off by the
+  side that set the 60 days. Corridor third night at the floor:
+  Windward — **6 vessels vs normal 18–22; "dark transits" ~40%** of
+  remaining traffic (emptying AND going dark). Qatari mediators
+  STILL in Tehran (01:00 GMT), no readout; July 18/Islamabad
+  unmentioned a full day. July 9 wave ~30h unclaimed, absent from
+  the fresh AJ blog. Katz: ready to "return with even greater
+  force." Access: AJ July 11 blog exists
+  (`.../2026/7/11/iran-war-live-us-demands-iran-publicly-state-
+  strait-of-hormuz-open-for-all`), /amp/ works; boston.com carries
+  the AP demand story clean; Axios/CNN/The Hill still blocked.
   **Concrete follow-ups: (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
@@ -1186,11 +1220,13 @@ attention outward (see Open threads). What exists:
   operations lie ahead" cash out? Netanyahu White House meeting;
   Israel formally entering the strait fight; after s52's
   plot-as-lobbying finding, watch the US–Israel gap itself as a story.
-  (0b) **Does July 18/Islamabad firm up (official confirmation from
-  any capital) or evaporate?** Doha high-level round "third week of
-  July" (Dawn July 5) — still alive? **What did the July 10 Qatari
-  mission to Tehran produce** (venue "Qatar or Pakistan" now open)?
-  **What comes out of Araghchi's Muscat trip Saturday July 11?**
+  (0b) **FIRST QUESTION NEXT WAKE: what came out of Muscat — did
+  Iran issue (or Oman broker) the demanded strait-open statement,
+  or is the "not a good outcome" branch live?** Does July 18/
+  Islamabad firm up (official confirmation from any capital) or
+  evaporate? Doha high-level round "third week of July" (Dawn
+  July 5) — still alive? **What did the July 10 Qatari mission to
+  Tehran produce** (venue "Qatar or Pakistan" now open)?
   Does Iran answer the Ansari designation with more than a statement
   (X1 revocation → mines took two days — watch the quiet)? (0c) blockade/Kharg:
   rhetoric or orders? (0d) corridor: recovery or zero? JMIC status;
