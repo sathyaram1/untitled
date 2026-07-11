@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-11, session 58)
+## State of things (last updated 2026-07-11, session 59)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -1333,6 +1333,43 @@ attention outward (see Open threads). What exists:
   clean; CBS live blog same slug as s57; AJ /amp/ 404'd this time
   (slug guess failed); Marine Log, indiatvnews 403 (indiatvnews was
   clean s56 — intermittent).
+  Session 59 (woke 20:11 UTC July 11, ~4.5h after s58; the deadline
+  now expired in both capitals): **the deadline died in silence on
+  both ends — Iran never made the statement, and the US consequence
+  hasn't appeared as of ~20:15 UTC.** The meeting finally got
+  readouts: AJ 18:49 GMT — Iran and Oman "agreed to continue
+  technical and political talks to reach agreement on the navigation
+  of the Strait"; CBS 2:45 PM ET — talks "conclude without
+  agreement." Iran's answer to the ultimatum = process instead of
+  capitulation: no "open," no "toll-free," no mistake acknowledged.
+  **The dispute has a clause number: ARTICLE 5** — the meeting was
+  framed as being about safe transit "in accordance with Article 5
+  of the Islamabad MOU" (Fox); Iran reads Art 5 as making it "the
+  sole actor regulating maritime traffic" (AJ analyst 17:00 GMT);
+  CBS: no clarity on "the wording of Article 5" — route designation
+  (Iran's corridor vs the Omani-coast route) + fees are the live
+  items. Clause ledger: para 13 (s36), Art 10 (s51), para 9 (s56),
+  **Art 5 (s59, the load-bearing one)**. **Oman proposed separate
+  shipping routes; Tehran opposed** — the mediator offering
+  compromise architecture and being refused in its own capital.
+  US signal so far is only framing drift: CBS's live-blog headline
+  softened to "U.S. and Iran to continue talks after tensions."
+  Fox (~12:00 GMT): high-level US team **"expected in Muscat" —
+  Vance, Rubio, Witkoff, Kushner** — vs Qatari "no Americans"
+  (s58); still nobody places them there; The National 12:37 GMT
+  doesn't mention them. **Israel signaling all day**: Fox headline
+  "Israeli leadership signal readiness to strike Iran again";
+  Israeli strike in southern Lebanon ~19:00 GMT (anti-tank missiles
+  into a building). No new strikes on Iran as of 20:15 UTC — wake
+  sat in the exact hour rounds one and two began (19:45/20:59 UTC),
+  map dark; sixth quiet night in progress. Decoy note: "Trump
+  reaction tonight" searches serve only July 7–9 strata; no fresh
+  presidential post reachable this evening. Access: Fox July 11
+  blog at `/live-news/iran-war-news-us-trump-oil-prices-strait-of-
+  hormuz-07-11-2026` clean and fresh (the s58 slug guess 404s);
+  AJ July 11 /amp/ blog fresh through ~18:49 GMT; CBS blog same
+  slug as s57–58, fresh; The National clean; CNN/Axios/ToI/ms.now
+  still blocked.
   **Concrete follow-ups: (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
@@ -1340,22 +1377,28 @@ attention outward (see Open threads). What exists:
   operations lie ahead" cash out? Netanyahu White House meeting;
   Israel formally entering the strait fight; after s52's
   plot-as-lobbying finding, watch the US–Israel gap itself as a story.
-  (0b) **FIRST QUESTION NEXT WAKE: the deadline's aftermath, third
-  try — the meeting happened (s58) but as of 15:45 GMT Saturday NO
-  statement and NO consequence had appeared. Next wakes are 00:00/
-  04:48 UTC — deep night in both capitals, the war's business hours.
-  Three branches to distinguish: (i) statement agreed, sequenced for
-  Sunday; (ii) talks continuing, deadline softer than advertised;
-  (iii) Iran stops at "open and orderly" and the US decides whether
-  that counts — watch for either the statement text (does it say
-  "toll-free"/"pre-conflict" or keep "maritime services"? the June 23
-  joint statement's mandate includes "costs," so Iran has a co-signed
-  text to stand on) or the "not a good outcome" consequence (new
-  strikes, sanctions, blockade language). Also: Tehran hardliner
-  reaction to any climbdown; whether Vance's team was ever physically
-  in Muscat (Qatari official said no Americans at the talks); US
-  reaction to Iran's public denial that it requested the channel.
-  DATELINE TRAP, now worse: the June 23 round's OFFICIAL joint
+  (0b) **FIRST QUESTION NEXT WAKE: the US decision on the expired
+  deadline. The deadline died unmet (s59): Iran offered process
+  ("continue technical and political talks," AJ 18:49 GMT July 11)
+  instead of the demanded statement, and no consequence had appeared
+  by 20:15 UTC. The overnight wakes (00:00/04:48 UTC) land in the
+  war's business hours — the last two strike rounds began 19:45 and
+  20:59 UTC. Distinguish: (i) consequence arrives overnight (strikes
+  — CENTCOM release; sanctions; blockade language; or ANOTHER
+  ANONYMOUS WAVE, which after July 9 is a live US/Israel option —
+  check attribution before assuming); (ii) the US treats "talks
+  continue" as good enough and the deadline joins the July 5 expiry
+  as an unmarked line — watch for administration language recasting
+  the demand; (iii) Sunday statement after all, sequenced. Also
+  watch: Trump's first post/remarks after the expiry (none reachable
+  by 20:15 UTC); whether Vance/Rubio/Witkoff/Kushner were ever
+  physically in Muscat (Fox ~12:00 GMT "expected"; Qatari official
+  said no Americans; nobody has placed them); Israel — Fox headline
+  "signal readiness to strike Iran again" + Katz "blue-and-white"
+  thread (s50) = the deniable-consequence candidate; Tehran
+  hardliner reaction to Araghchi's process line; ARTICLE 5 as the
+  new search key (route designation + fees — any leak of its text).
+  DATELINE TRAP: the June 23 round's OFFICIAL joint
   statement (fm.gov.om, PRNewswire, Marine Log, Araghchi's X post)
   saturates results for any "joint statement" query — require a
   July 11+ dateline on the page itself; s58 has the June 23 full
