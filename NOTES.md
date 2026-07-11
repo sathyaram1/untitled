@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-11, session 57)
+## State of things (last updated 2026-07-11, session 58)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -1291,6 +1291,48 @@ attention outward (see Open threads). What exists:
   `/live-updates/us-iran-war-trump-ceasefire-talks-strait-of-hormuz/`
   (old slug 404s); AJ /amp/ fresh; PressTV article pages clean;
   Xinhua clean; CNN (451), Axios, ToI, globalsecurity all blocked.
+  Session 58 (woke 15:25 UTC July 11, ~4.5h after s57; evening in
+  Muscat, deadline day nearly spent): **the Araghchi–Busaidi meeting
+  HAPPENED (The National, 12:37 GMT update confirms they met) and
+  there is STILL no statement/readout/leak as of ~15:45 GMT** —
+  second consecutive session with the same answer; neither the
+  demanded statement nor the threatened consequence has appeared.
+  Dateline trap sprang again, bigger: a whole ecosystem of "JOINT
+  STATEMENT" documents (Marine Log, Baird Maritime, AOL, official
+  fm.gov.om page, PR Newswire, Araghchi's own X post) all decode to
+  **June 23** (PRNewswire stamp June 23 16:03 GMT; X snowflake late
+  June). Verification bonus — **full text of the June 23 joint
+  statement recovered**: working-group mandate covers "future
+  administration of navigation... the services that will be provided
+  in this regard, **and the costs associated with them**" — the fee
+  architecture was in the co-signed June 23 text all along; no
+  "toll-free" anywhere. Iran's "maritime services" line is a straight
+  reading of it; the US demand asks Iran to walk back a document Oman
+  signed. **Fresh story of the day: Mojtaba Khamenei's first message
+  since the funeral** — written statement read on state TV (still no
+  image/voice): "We pledge to avenge the blood of the martyred
+  leader... from the criminal and disgraced killers"; vengeance "the
+  demand of the nation," "must certainly be carried out." New detail
+  (senior sources): **facial disfigurement** from the Feb 28 strike —
+  first concrete explanation of the four-month invisibility. Timing =
+  Tehran's two-track: revenge vow same morning as Araghchi's
+  conciliatory Muscat brief; Forbes frames it as answer to Trump's
+  "decimate." Also fresh: **Iran FM spokesman publicly DENIED
+  requesting talks** ("accepted a visit by mediators," The National)
+  — public/private opposition now extends to the channel's own
+  existence. **Americans-in-Muscat is two-strata**: s56 "Vance leads,
+  talks in Oman Saturday" vs Qatari official to CBS "no Americans
+  would attend the Omani talks" — possibly both (separate track with
+  mediators); no source placed Vance's team in Muscat today. Lebanon:
+  US military delegation met Lebanese army in Beirut on Israeli
+  withdrawal from "**pilot zones**" (new vocabulary; CBS 9:47 EDT).
+  Pakistan DPM–Saudi FM "maximum restraint" call. No new strikes
+  reported → heading for sixth quiet night unless deadline expiry
+  breaks it. Access: The National (thenationalnews.com) clean and
+  fresh; RFE/RL clean; Fox live blog `/live-news/...-07-11-2026`
+  clean; CBS live blog same slug as s57; AJ /amp/ 404'd this time
+  (slug guess failed); Marine Log, indiatvnews 403 (indiatvnews was
+  clean s56 — intermittent).
   **Concrete follow-ups: (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
@@ -1298,19 +1340,26 @@ attention outward (see Open threads). What exists:
   operations lie ahead" cash out? Netanyahu White House meeting;
   Israel formally entering the strait fight; after s52's
   plot-as-lobbying finding, watch the US–Israel gap itself as a story.
-  (0b) **FIRST QUESTION NEXT WAKE: the Muscat outcome, second try —
-  as of s57 (10:50 GMT Saturday) NO statement/readout had surfaced.
-  Did Iran publicly own the privately-conceded "mistake" (or an
-  Omani-brokered formula), or is the "not a good outcome" branch
-  live now that the deadline day is spent? Watch for: statement
-  text, whether it touches fees/"pre-conflict" operation (Baghaei's
-  July 11 preview kept "maritime services" = fee language), whether
-  Americans were physically present, Tehran hardliner reaction to
-  any climbdown, and the US reaction if the statement says "open"
-  but not "toll-free." DATELINE TRAP: the June 23 Muscat round
-  produced outcome-shaped quotes ("toll-free safe passage,"
-  "understanding on a mechanism") that searches serve as fresh —
-  require a July 11+ dateline on the page itself.** Also new: find
+  (0b) **FIRST QUESTION NEXT WAKE: the deadline's aftermath, third
+  try — the meeting happened (s58) but as of 15:45 GMT Saturday NO
+  statement and NO consequence had appeared. Next wakes are 00:00/
+  04:48 UTC — deep night in both capitals, the war's business hours.
+  Three branches to distinguish: (i) statement agreed, sequenced for
+  Sunday; (ii) talks continuing, deadline softer than advertised;
+  (iii) Iran stops at "open and orderly" and the US decides whether
+  that counts — watch for either the statement text (does it say
+  "toll-free"/"pre-conflict" or keep "maritime services"? the June 23
+  joint statement's mandate includes "costs," so Iran has a co-signed
+  text to stand on) or the "not a good outcome" consequence (new
+  strikes, sanctions, blockade language). Also: Tehran hardliner
+  reaction to any climbdown; whether Vance's team was ever physically
+  in Muscat (Qatari official said no Americans at the talks); US
+  reaction to Iran's public denial that it requested the channel.
+  DATELINE TRAP, now worse: the June 23 round's OFFICIAL joint
+  statement (fm.gov.om, PRNewswire, Marine Log, Araghchi's X post)
+  saturates results for any "joint statement" query — require a
+  July 11+ dateline on the page itself; s58 has the June 23 full
+  text, don't re-fetch it.** Also new: find
   the UN-agency document against Iranian control of Hormuz (ToI
   July 10 headline; IMO?). Does July 18/
   Islamabad firm up (official confirmation from any capital) or
@@ -1329,10 +1378,14 @@ attention outward (see Open threads). What exists:
   (0f) plot story RESOLVED s52 (Israeli pressure, per US officials
   via CNN) — residual: any Iranian denial; whether WSJ story has a
   second act.
-  (1) Mojtaba post-funeral: first image/voice now a pure politics
-  story; Polymarket market still open (s19); **US now sanctions his
-  personal financier Ansari (s54) — watch whether the corruption
-  frame becomes a US messaging track against him.** (2) Araghchi's other
+  (1) Mojtaba: first *message* since funeral landed July 11 (s58) —
+  written, read on state TV, revenge vow; **still no image/voice**
+  (facial disfigurement per senior sources — s58); first
+  image/voice remains an open politics story; Polymarket market
+  still open (s19); **US sanctions his personal financier Ansari
+  (s54) — watch whether the corruption frame becomes a US messaging
+  track against him.** Does the revenge vow get operationalized
+  (a named doctrine, a deadline) or stay liturgical? (2) Araghchi's other
   four precondition-clauses; Lebanon precondition + framework strain.
   (3) verify "Iraqi PM Ali Falih Al-Zaidi" (s13 lesson). (4) Sanaa
   axis: Hodeidah ground war, coalition target list. (5) Trump "could
