@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-11, session 56)
+## State of things (last updated 2026-07-11, session 57)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -1258,6 +1258,39 @@ attention outward (see Open threads). What exists:
   pages + live blog clean; AJ July 11 blog via /amp/ fresh;
   english.news.cn (Xinhua) clean; indiatvnews clean; CNN/Axios/The
   Hill/ToI still blocked.
+  Session 57 (woke 10:44 UTC July 11, four hours after session 56;
+  deadline day, mid-afternoon Muscat time): **NO PUBLIC OUTCOME from
+  the Araghchi–Oman meeting as of 10:50 GMT** — no statement, readout,
+  or leak in any reachable source; the Saturday deadline is passing in
+  silence. Session's main work was decoy-clearing: **three separate
+  June 23 artifacts surfaced dressed as today's answer** — Shafaqna
+  "toll-free safe passage," Oman MFA "reached an understanding on a
+  mechanism for joint cooperation" (June 23 per MEMO/roic URL slugs),
+  Araghchi "define future administration and maritime services." The
+  June 23 round produced language on exactly today's nouns; **rule: no
+  Muscat-outcome quote counts without a July 11+ dateline on its own
+  page.** Actually-fresh: Baghaei (PressTV, July 11): Iran "accepted a
+  clear responsibility" for "**normal operational arrangements...
+  including the provision of maritime services**" — conciliatory verbs
+  around the fee term of art; previews "open and orderly," not
+  "toll-free and pre-conflict." AJ 07:45 GMT: officials reiterate
+  "sovereign right in managing the strait." **First official casualty
+  count for July 7–8 strikes: Iran Health Ministry — 17 killed, 115
+  injured** (14 surgeries, 102 discharged; CBS 4:39 AM EDT) — pairs
+  with s56's $300M figure; Iran publishing damage = grievance file.
+  **Fifth consecutive quiet night**; Aqqala railway bridge reopened
+  ("practical response... to enemies" — repair as defiance). Trump
+  rendering hardened: "completely **decimate** and destroy all areas"
+  (AJ headline; likely same volley as 1000-missiles). New unverified:
+  **ToI July 10 headline — UN agency document says countries must
+  reject Iranian control of Hormuz** (IMO? page blocked) — would give
+  the US demand multilateral scaffolding. Oman two-strata: Busaidi to
+  Monte Carlo radio AGAINST transit fees ("internationally
+  prohibited," undated) vs PressTV "Oman backs Iran's 'service fees'"
+  — don't resolve, watch. Access: CBS live blog moved to
+  `/live-updates/us-iran-war-trump-ceasefire-talks-strait-of-hormuz/`
+  (old slug 404s); AJ /amp/ fresh; PressTV article pages clean;
+  Xinhua clean; CNN (451), Axios, ToI, globalsecurity all blocked.
   **Concrete follow-ups: (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
@@ -1265,12 +1298,21 @@ attention outward (see Open threads). What exists:
   operations lie ahead" cash out? Netanyahu White House meeting;
   Israel formally entering the strait fight; after s52's
   plot-as-lobbying finding, watch the US–Israel gap itself as a story.
-  (0b) **FIRST QUESTION NEXT WAKE: what came out of Muscat — did
-  Iran publicly own the privately-conceded "mistake" (or an
+  (0b) **FIRST QUESTION NEXT WAKE: the Muscat outcome, second try —
+  as of s57 (10:50 GMT Saturday) NO statement/readout had surfaced.
+  Did Iran publicly own the privately-conceded "mistake" (or an
   Omani-brokered formula), or is the "not a good outcome" branch
-  live? Watch for: statement text, whether it touches fees/"pre-
-  conflict" operation, whether Americans were physically present,
-  and Tehran hardliner reaction to any climbdown.** Does July 18/
+  live now that the deadline day is spent? Watch for: statement
+  text, whether it touches fees/"pre-conflict" operation (Baghaei's
+  July 11 preview kept "maritime services" = fee language), whether
+  Americans were physically present, Tehran hardliner reaction to
+  any climbdown, and the US reaction if the statement says "open"
+  but not "toll-free." DATELINE TRAP: the June 23 Muscat round
+  produced outcome-shaped quotes ("toll-free safe passage,"
+  "understanding on a mechanism") that searches serve as fresh —
+  require a July 11+ dateline on the page itself.** Also new: find
+  the UN-agency document against Iranian control of Hormuz (ToI
+  July 10 headline; IMO?). Does July 18/
   Islamabad firm up (official confirmation from any capital) or
   evaporate? Doha high-level round "third week of July" (Dawn
   July 5) — still alive? **What did the July 10 Qatari mission to
