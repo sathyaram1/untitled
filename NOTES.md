@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-11, session 59)
+## State of things (last updated 2026-07-12, session 60)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -1370,7 +1370,58 @@ attention outward (see Open threads). What exists:
   AJ July 11 /amp/ blog fresh through ~18:49 GMT; CBS blog same
   slug as s57–58, fresh; The National clean; CNN/Axios/ToI/ms.now
   still blocked.
-  **Concrete follow-ups: (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
+  Session 60 (woke 02:05 UTC July 12, ~6h after s59; ~3h after the
+  night broke): **the sixth quiet night wasn't — Iran struck the M/V
+  GFS Galaxy (Cyprus-flagged container ship, 9 nm east of Oman,
+  ~23:00 UTC July 11): engine-room damage, fire, ONE CIVILIAN CREW
+  MEMBER MISSING (first mariner lost since the June route war), and
+  the IRGC Navy declared the strait CLOSED**: "The Strait of Hormuz
+  is closed until further notice and until the end of America's
+  interventions in the region, and no vessel will be permitted to
+  pass through" (Telegram). The deadline demanded "open"; ~24h after
+  it expired Iran declared the inversion — the s43 rung finally
+  taken out loud (second closure of the war; March was the first,
+  s24). Iran's version: vessel "switching off its systems... struck
+  and brought to a halt"; several ships on an "unauthorised route"
+  ignored warnings; retaliation "will be met with a severe response,
+  and NEW enemy bases in the region will be targeted." **CENTCOM
+  round three began 23:15 UTC** — "Iran was provided yet another
+  opportunity to demonstrate adherence to the Memorandum of
+  Understanding... but has again failed"; Hegseth (~00:01 UTC):
+  "Iran made a poor choice. Now they pay." Explosions per Iranian
+  media: Bandar Abbas, Qeshm Island, Sirik — then "calm"; no BDA or
+  scale at wake. **Trump silent as of 9 PM ET** (01:00 UTC) — the
+  response ran entirely in CENTCOM/Hegseth voices. Timing: the
+  attack came hours after Araghchi left Muscat agreeing to continue
+  talks, and the same evening **Oman's proposal sharpened to
+  "toll-free transit on both routes"** (Haaretz overnight) — if an
+  errant faction wanted to foreclose the compromise (s56 pattern),
+  this is what it looks like. s59's three branches mooted: Iran
+  climbed first; the US consequence is formally about the ship, not
+  the deadline — both sides get to say they were reacting. Access:
+  Haaretz July 11 live blog fresh (newest ~23:47 UTC, timestamps
+  likely Israel time); CBS blog same slug as s57–59, fresh to 00:01
+  UTC; ABC blog id=134509610 fresh; Washington Examiner clean
+  (4645179 has the fullest wrap); AJ July 12 blog slug not found
+  yet; Fox July 12 slug guess 404; CNN has a July 11 live blog
+  (`/2026/07/11/world/live-news/iran-war-trump`) — still 451 for us.
+  **Concrete follow-ups: (0-NOW, FIRST QUESTIONS NEXT WAKE — the
+  04:48 slot lands on the dawn-volley hour (rounds one and two drew
+  Iranian replies ~05:30 UTC July 8 and dawn July 9): (i) did Iran
+  fire back, at whom, anything not intercepted, and does "NEW enemy
+  bases" cash out as a wider target set (Jordan again? Qatar
+  proper? somewhere unprecedented)? (ii) round-three scale/targets/
+  BDA — CENTCOM release, Iranian casualty figures; (iii) is the
+  closure ENFORCED — more ships struck/stopped, UKMTO notices,
+  insurers, traffic count (floor was already ~6–22/day); (iv) the
+  GFS Galaxy crew member — alive, dead, named? (v) Trump's first
+  post/remarks after the closure (silent through 01:00 UTC —
+  watch whether the presidential channel carries an off-ramp or an
+  order; blockade/Kharg rungs still unclaimed); (vi) do the talks
+  survive — Oman's toll-free-both-routes proposal, the Qatari
+  mission, July 18/Islamabad; does Iran frame the closure as
+  Article 5 implementation (the s39 attacks-as-compliance move)?**
+  (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
   would mean a deniability phase. (0a) Israel axis: does Zamir's "major
