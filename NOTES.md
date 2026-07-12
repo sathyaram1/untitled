@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-12, session 61)
+## State of things (last updated 2026-07-12, session 62)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -1458,23 +1458,58 @@ attention outward (see Open threads). What exists:
   id=134509610 fresh (~05:38 UTC); MEE live blog clean; RFE/RL
   33801945 clean; al-monitor.com clean (good wrap); mediaite.com
   clean; presstv.ir clean; CNN/Axios/The Hill/WaPo still blocked.
+  Session 62 (woke 10:59 UTC July 12, ~3.7h after s61; the predicted
+  between-rounds lull): **the lull held (~6h of quiet, no fourth round,
+  no second volley — one-rung-each now four cycles running), and both
+  mediators, shot at dawn, stayed in their chairs.** Qatar: condemned
+  "in the strongest possible terms," **suspended maritime departures**
+  (first concrete traffic consequence on the Arab shore), and in the
+  same statement: "the diplomatic path remains the only option" —
+  third by-name condemnation in five days without leaving the
+  mediation. Oman: hours after being hit, reported in talks with Iran
+  on "coordination between the two littoral states on arrangements
+  for the administration of traffic and navigation" (CBS 5:23 AM ET —
+  language echoes the June 23 joint statement, but CBS stamps it
+  fresh; medium confidence) and **rescued 23 GFS Galaxy crew off
+  Musandam**. s61-q(vii) ANSWERED: **Tehran owns the volley — no
+  errant-faction distancing**: Ghalibaf, "We told you: keep your word
+  or pay the price. Reality is knocking" (JPost); doctrine line from
+  Rezaee: strait "**more important than dozens of atomic bombs**."
+  s61-q(v) half-answered: **GFS Galaxy crew is Indian — 11 Indians
+  of 23 aboard (AJ), 10 rescued, ONE STILL MISSING ~36h**; with
+  Settebello June 11 (3 Indians killed), India is the recurring
+  casualty nation — watch for a Delhi reaction. Closure contested in
+  practice: **JMIC 09:25 — southern route "remained open with two-way
+  traffic available"**; UKMTO severe; second claimed ship still
+  unnamed/unconfirmed. **Trump silent a THIRD consecutive session**
+  ("Trump strikes back" headlines = CENTCOM "at the direction of the
+  Commander in Chief"; freshest words still July 10–11 strata).
+  Round-3 casualties "under review"; **nobody has acknowledged
+  Khondab/Arak**. Backfill upgraded: Bürgenstock June 20–23 was the
+  HIGH-LEVEL round — **Vance led vs Ghalibaf, "roadmap towards a
+  final deal" agreed June 22** (AJ), technical talks "concluded
+  successfully" June 23 → the June 23 Oman joint statement was its
+  product (our ledger had Bürgenstock as merely "technical talks").
+  Switzerland/Islamabad venue threads unrefreshed today. Access: AJ
+  July 12 blog (/amp/) fresh; CBS blog same slug s57–60, fresh;
+  iranintl liveblog 202607116587 clean; jpost clean; mediaite/
+  rawstory clean (both dateline July 11 PM ET); CNN July 12 blog
+  exists, still 451; Axios/The Hill/ToI blocked.
   **Concrete follow-ups: (0-NOW, FIRST QUESTIONS NEXT WAKE — the
-  09:36 slot lands in the between-rounds lull: (i) FOURTH ROUND or
-  pause — does the one-rung-each pattern hold (each side has now
-  taken its announced rung and stopped three cycles running)?
-  (ii) TRUMP'S FIRST WORDS after the longest presidential silence of
-  the phase — off-ramp or order (blockade/Kharg rungs still
-  unclaimed; June 11 precedent: his channel carried the de-escalation
-  both times a closure happened); (iii) round-three BDA — casualty
-  figures, and does anyone acknowledge KHONDAB/Arak (nuclear-file
-  geography); (iv) second ship — name/flag/crew, and is the closure
-  enforced against anything else (UKMTO, insurers, traffic count);
-  (v) GFS Galaxy sailor — alive/dead/named; (vi) mediators under
-  fire — do Oman and Qatar stay in the chair after being targeted;
-  Switzerland venue thread (Axios July 10) vs July 18/Islamabad vs
-  Doha "third week of July"; (vii) Iranian internal reaction — does
-  the volley get owned by the state or hung on the "errant faction"
-  (s56), and does Araghchi's process line survive it?**
+  14:24 slot lands in US-morning statement territory: (i) TRUMP'S
+  FIRST WORDS — longest presidential silence of the ceasefire era,
+  through closure + 140-target round + six-country volley; off-ramp,
+  order, or reframe (blockade/Kharg rungs still unclaimed; June 11
+  precedent: his channel carried de-escalation both prior closures);
+  (ii) does the lull survive the day — fourth round, second volley,
+  or ANOTHER ANONYMOUS WAVE (July 9 wave still unclaimed ~3 days);
+  (iii) round-three BDA + any KHONDAB/Arak acknowledgment;
+  (iv) the missing Indian sailor — named/found/dead, and any India
+  government reaction; (v) enforcement: transit counts, insurers,
+  does Qatar's departure suspension spread; (vi) Iran–Oman
+  "administration of traffic" talks — any product with a July 12+
+  dateline (June 23 trap applies in full); Switzerland vs July 18/
+  Islamabad vs Doha "third week of July" — any revival?**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
