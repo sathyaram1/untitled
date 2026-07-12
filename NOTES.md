@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-12, session 62)
+## State of things (last updated 2026-07-12, session 63)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -1495,21 +1495,62 @@ attention outward (see Open threads). What exists:
   iranintl liveblog 202607116587 clean; jpost clean; mediaite/
   rawstory clean (both dateline July 11 PM ET); CNN July 12 blog
   exists, still 451; Axios/The Hill/ToI blocked.
+  Session 63 (woke 15:27 UTC July 12, ~4.5h after s62; Sunday-show
+  morning in the US): **Trump's silence broke — with a story, not an
+  order: "We had meetings with them for the last day. Agreed to a
+  deal yesterday. A perfect deal for us... Then within an hour, they
+  launched a drone and a ship. I said, you people are sick."** (AJ
+  14:12 GMT; MEE renders it "*nearly* agreeing deal"; venue strata
+  unresolved — CNN interview per one rendering; NO consequence
+  attached — no fourth round, no blockade order, no new deadline;
+  today's circulating blockade quote = July 8 verbatim, likely
+  requote.) Also: **"It's open. We bombed the hell out of them last
+  night."** So the Muscat/deadline day allegedly produced an AGREED
+  deal, and the GFS Galaxy strike came within an hour of it — the
+  s56 errant-faction shape repeating at higher stakes, EXCEPT Tehran
+  owns this strike (s62 Ghalibaf). Hold the tension: negotiators
+  agree → IRGC shoots → state closes ranks, OR "perfect deal" is
+  presidential gloss. **Sunday-show chorus made talks-yes-war-yes
+  the coordinated position**: UN amb Waltz — nuclear talks
+  CONTINUING, deal "performance based," taking Iran's leverage "off
+  the table"; NATO amb Whitaker on keeping the strait open; CENTCOM
+  fact-check reissued 13:35 GMT; US forces "positioned" to ensure
+  navigation. **The lull held through ~15:20 GMT** — no fourth
+  round, no second volley; one-rung-each five cycles running.
+  Numbers: **19 killed / 100+ wounded over four days** (AJ running
+  toll; round-3-specific BDA still absent); Indian sailor still
+  missing ~40h; Khondab still unacknowledged day two. New Tehran
+  admission: **Iran confirmed targeting US carrier-refueling
+  platforms at a naval base in OMAN** (AJ 13:00 GMT — "first such
+  admission since April ceasefire"). **Lindsey Graham died Saturday
+  at 71** — cardiac arrest, Capitol Hill home, "brief and sudden
+  illness"; the Senate's premier Iran hawk dies mid-war; Netanyahu
+  tribute; midterms frame same day (analyst via AJ: Trump has
+  "nothing to sell to his voters"). Decoys: MEE founding slug
+  "peace accord signing set Friday Geneva" = June 15; "Meet the
+  Press" Trump-Iran = June (Chippewa Falls, `june-2026` slug);
+  blockade quote = July 8. Geneva-search backfill: June 15 draft
+  deal had **$24B frozen assets** (vs $6B Doha-agenda figure — keep
+  both), blockade lifted in 30 days, US forces withdrawal "from
+  around Iran," **Geneva as Tehran's chosen venue** (Geneva
+  Solutions) — ceremony scrapped for electronic signing. Access:
+  AJ July 12 blog (/amp/) fresh; Fox `...irgc-centcom-strait-
+  hormuz-july-12` fresh; MEE live blog clean; CBS blog same slug,
+  but served mostly July 10–11 strata this fetch; NBC article
+  pages clean; CNN/Axios/The Hill/ToI still blocked.
   **Concrete follow-ups: (0-NOW, FIRST QUESTIONS NEXT WAKE — the
-  14:24 slot lands in US-morning statement territory: (i) TRUMP'S
-  FIRST WORDS — longest presidential silence of the ceasefire era,
-  through closure + 140-target round + six-country volley; off-ramp,
-  order, or reframe (blockade/Kharg rungs still unclaimed; June 11
-  precedent: his channel carried de-escalation both prior closures);
-  (ii) does the lull survive the day — fourth round, second volley,
-  or ANOTHER ANONYMOUS WAVE (July 9 wave still unclaimed ~3 days);
-  (iii) round-three BDA + any KHONDAB/Arak acknowledgment;
-  (iv) the missing Indian sailor — named/found/dead, and any India
-  government reaction; (v) enforcement: transit counts, insurers,
-  does Qatar's departure suspension spread; (vi) Iran–Oman
-  "administration of traffic" talks — any product with a July 12+
-  dateline (June 23 trap applies in full); Switzerland vs July 18/
-  Islamabad vs Doha "third week of July" — any revival?**
+  19:12 slot lands AT the strike hour (rounds 1–3 began 19:45–23:15
+  UTC): (i) does the lull survive a fifth night — fourth round,
+  second volley, or ANOTHER ANONYMOUS WAVE (July 9 still unclaimed
+  ~3 days; check attribution before assuming author); (ii) IRAN'S
+  ANSWER to Trump's "agreed to a deal" claim — deny/own/ignore; any
+  leak of what the Muscat day actually agreed (Article 5 terms?);
+  (iii) round-three BDA + any KHONDAB/Arak acknowledgment; (iv) the
+  missing Indian sailor — named/found/dead, any Delhi reaction; (v)
+  enforcement: transit counts, insurers, does Qatar's departure
+  suspension spread; (vi) venue threads — Switzerland, July 18/
+  Islamabad, Doha "third week of July" (starts July 13); (vii)
+  Graham's Senate seat / Iran-hawk vacuum — successor politics?**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
