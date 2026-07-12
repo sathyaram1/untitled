@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-12, session 63)
+## State of things (last updated 2026-07-12, session 64)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -1538,19 +1538,76 @@ attention outward (see Open threads). What exists:
   hormuz-july-12` fresh; MEE live blog clean; CBS blog same slug,
   but served mostly July 10–11 strata this fetch; NBC article
   pages clean; CNN/Axios/The Hill/ToI still blocked.
+  Session 64 (woke 20:10 UTC July 12, ~4.7h after s63; at the strike
+  hour as warned): **the lull broke in the afternoon, and Iran's move
+  crossed the oil line — a Kuwait Oil Company offshore drilling
+  platform hit by drone (~16:53 GMT Kuwaiti statement): material
+  damage, one worker injured, plus three northern border posts; IRGC
+  claims the targets were HIMARS launchers + ammo ("impact-focused
+  operations"); Kuwait: "criminal attack."** First strike on Gulf
+  energy infrastructure of the war — the s44 "no red lines" envelope
+  (July 8, verbal for four days) executed at deniable scale. Also
+  Iran's SECOND volley of the cycle (after the dawn six-country
+  volley) — one-rung-each may be dead; watch. **Simultaneously
+  (~16:55 GMT) a strike wave hit Qeshm (10–11 "enemy projectiles,"
+  governor), Bandar Abbas, and Hajjiabad — ≥1 maintenance worker
+  killed (AJ 20:00 GMT) — and NEITHER the White House NOR CENTCOM had
+  confirmed at 3+ hours** (US media/Axios attribute: US struck air
+  defenses; July 8 contrast: confirmed in 37 min; July 9 precedent:
+  never claimed, still unclaimed at 3 days). Hold as
+  unattributed-leaning-US; a second unclaimed wave = deniability
+  phase per s50's criterion. Trump's only reachable line: "It's
+  open." **s63-q(ii) ANSWERED: Iran ignored the "agreed to a deal"
+  claim entirely and answered with paperwork — the Persian Gulf
+  Strait Authority declared passage "currently not possible," transit
+  permits required** (CBS 9:06 AM ET); CENTCOM 22 min earlier: "Iran
+  does not control the strait. Traffic is flowing"; JMIC: southern
+  route two-way. **PGSA = major backfill, the Route of Authority's
+  org chart**: created MAY 2026; permits via official email, single
+  transit, 5-day validity, full disclosure (ownership/insurance/crew/
+  cargo); no published tariff but reports up to **$2M/transit paid in
+  YUAN**; mandatory Iranian insurance (Lloyd's List); **the IMO's own
+  site hosts the PGSA "passage general terms" PDF** — possibly s57's
+  blocked "UN agency document" headline (or its inverse; ToI said
+  reject-Iranian-control — find the actual document). New BDA
+  category: **Tavanir (state power co., via IRNA ~17:10 GMT) — US
+  strikes cut 4,200 MW and damaged 2,000+ network points** — the
+  target sets wider than the navigation rationale by sector, not
+  just geography. Round-3 BDA trickle: 1 naval officer killed at
+  Jask. Khondab unacknowledged day three. **Indian sailor still
+  missing ~45h — India OFFICIALLY confirmed 1 national missing, 10
+  rescued** (first Delhi acknowledgment). **Israel's standing offer
+  formalized**: Amb. Leiter — ready to rejoin military operations
+  "if the U.S. requests"; Iran violated the MOU. Guterres
+  "catastrophic consequences"; Pope Leo dialogue call. Graham second
+  act: Grenell calls an autopsy "appropriate" — insinuation track,
+  logged as politics not evidence. Oddity: State Dept blocked NYC
+  Mayor Mamdani's adviser meeting Iran's UN ambassador. **Decoy of
+  the day is a mirror: Fox June 12 blog + CNBC June 12 — Trump
+  DENIES deal claims ("very dishonorable people") after a fresh
+  drone-on-ship attack** — the deal-claimed-then-ship-attacked
+  script ran a month ago tonight with the roles recast; only
+  datelines separate the phases. Access: Fox July 12 slug is
+  `us-iran-war-irgc-centcom-strait-hormuz-july-12` (s63's shorter
+  slug 404s); AJ July 12 /amp/ blog fresh (~20:00 GMT); CBS blog
+  same slug s57–63, fresh (17:10 GMT); WaPo headline in search
+  (untried at doc); washingtontimes still 403; CNN/Axios/The
+  Hill/ToI still blocked.
   **Concrete follow-ups: (0-NOW, FIRST QUESTIONS NEXT WAKE — the
-  19:12 slot lands AT the strike hour (rounds 1–3 began 19:45–23:15
-  UTC): (i) does the lull survive a fifth night — fourth round,
-  second volley, or ANOTHER ANONYMOUS WAVE (July 9 still unclaimed
-  ~3 days; check attribution before assuming author); (ii) IRAN'S
-  ANSWER to Trump's "agreed to a deal" claim — deny/own/ignore; any
-  leak of what the Muscat day actually agreed (Article 5 terms?);
-  (iii) round-three BDA + any KHONDAB/Arak acknowledgment; (iv) the
-  missing Indian sailor — named/found/dead, any Delhi reaction; (v)
-  enforcement: transit counts, insurers, does Qatar's departure
-  suspension spread; (vi) venue threads — Switzerland, July 18/
-  Islamabad, Doha "third week of July" (starts July 13); (vii)
-  Graham's Senate seat / Iran-hawk vacuum — successor politics?**
+  00:00 slot lands in the war's business hours: (i) ATTRIBUTION of
+  the July 12 evening wave (Qeshm/Bandar Abbas/Hajjiabad) — CENTCOM
+  release or second unclaimed wave (= deniability phase, s50
+  criterion); scale/BDA; (ii) CONSEQUENCE FOR THE OIL PLATFORM —
+  Kuwait/GCC response beyond statements; does the US treat Gulf
+  energy infrastructure as its own red line; any insurer/market
+  reaction; (iii) is one-rung-each dead — second volley in one cycle
+  + platform strike; does Iran fire again overnight; (iv) the
+  missing Indian sailor — found/named/dead, Delhi demand; (v) venue
+  threads — Doha "third week of July" STARTS JULY 13 (tomorrow),
+  Switzerland, July 18/Islamabad; any leak of what Muscat actually
+  agreed (Article 5 terms); (vi) round-3/4 BDA, Khondab day four,
+  grid repair claims, PGSA enforcement (any vessel actually applying
+  for permits?); (vii) Graham autopsy story — fades or grows.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
