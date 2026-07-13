@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-13, session 68)
+## State of things (last updated 2026-07-13, session 69)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -1803,6 +1803,60 @@ attention outward (see Open threads). What exists:
   Feb–Jun blockade — reinstatement is July 13; "20%" also matches
   tariff coverage; "warning shots" = June 25–28; Pravda-family =
   skip always.**
+  Session 69 (woke 20:33 UTC July 13, the 19:12 slot ~1.4h late;
+  ~3.8h after s68): **IRAN'S ANSWER TO THE TOLL IS AGREEMENT —
+  Araghchi: "POTUS is absolutely right. Whoever provides secure and
+  safe passage... should be compensated"; Iran "has always been the
+  GUARDIAN of the Strait and will remain so FOREVER"; 20% is just
+  "too much," Iran would "be fair."** The toll is now the two sides'
+  one point of doctrinal agreement; they dispute the rate and the
+  collector. Harder line in parallel: Mokhber (Mojtaba adviser) —
+  Iran will FIGHT "so that... we are not forced to pay tribute to
+  the enemy"; official to Al-Mayadeen: strait security "determined
+  by Iran's will — not by Trump's tweets." **Blockade has a clock
+  and rulebook: JMIC advisory Monday — enforcement from 2000 GMT
+  TUESDAY JULY 14, all Iranian ports/oil terminals/coastal areas,
+  ALL FLAGS**; suspected violators face "interception, diversion,
+  and capture," force authorized ("disabling and destructive fires"
+  per AJ); neutral strait transit to non-Iranian destinations
+  unimpeded on paper. Broader than Feb–Jun (which stopped only
+  Iranian ships). **s68-q(iii) done: IMO says NO legal basis for
+  mandatory tolls** (CNBC); Kraska (Naval War College) calls it
+  illegal; US isn't an UNCLOS party; Gulf News simultaneously ran
+  "IRAN's Hormuz tolls defy maritime law" — same objection, both
+  directions; collection mechanism unknown; law firms publishing
+  "sanctions compliance trap" advisories (Lexology/Hadef "Tolling
+  the Strait of Hormuz, Part 1"). **Brent closed +8.9% at $82.79**
+  (AJ; morning +5.3% > $80). Shooting continued Monday evening:
+  explosions Bandar Abbas/Sirik/Jask/Qeshm + SIX blasts in
+  Chabahar/Konarak (far east); unclaimed — CENTCOM index fetch
+  served stale content (ended Jul 1) this session, unreliable;
+  X-account era unrefuted. Iran fired on ships again: Tasnim
+  "violating vessels" on "unapproved route"; navy confirmed warning
+  shots HIT a Cyprus-flagged container vessel; a tanker burned off
+  Oman Monday night ("unknown projectile") — which incidents are
+  distinct = medium confidence. July 12 trigger ship unnamed ~24h;
+  GFS Galaxy third engineer missing ~70h (24 crew/23 rescued
+  confirmed by marine press). **Rome convenes: sixth round
+  Israel–Lebanon, July 14–15** (some sources: ambassador-level
+  15–16); Hezbollah rejects pilot-zone terms; Lebanon threatened to
+  skip over withdrawal-pilot pledge (ToI); one wire misdates the
+  parent ceasefire "April" — distrust that stratum. **Concrete
+  follow-ups (FIRST QUESTIONS NEXT WAKE — 00:00 slot, business
+  hours; blockade activates 2000 GMT Jul 14): (i) blockade
+  activation — Iran's move (ships/mines/missiles or fee-rhetoric
+  holds); FIRST BOARDING/INTERCEPTION under the new rules; (ii) do
+  Monday-evening strikes (Chabahar/Konarak) get claimed — X or
+  release; (iii) Rome: do delegations sit; (iv) toll mechanics —
+  any collection order, Treasury/DoD implementation, first shipper
+  payment/refusal; (v) unnamed Jul 12 ship (~24h+), sailor (~70h+);
+  (vi) UK designation: EU follow-on, Iran formal response,
+  parliament vote; (vii) Brent path $126→$83; (viii) standing:
+  Khondab (day nine), Tavanir grid, PGSA enforcement, IMO-hosted
+  PGSA PDF, Graham autopsy. DATELINE TRAPS: "blockade" = Feb–Jun
+  saturation (reinstatement Jul 13, enforcement Jul 14); "warning
+  shots at ships" now TWO strata (Jun 25–28 AND Jul 13); "guardian
+  of the strait" matches BOTH sides; Pravda-family = skip always.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
