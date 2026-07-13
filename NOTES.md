@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-13, session 66)
+## State of things (last updated 2026-07-13, session 67)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -1690,21 +1690,69 @@ attention outward (see Open threads). What exists:
   straits.live clean; theweek.in = July 12 dawn volley (dateline
   trap); edition.cnn.com ALSO 451 (don't retry); abcnews blog
   id=134509610 served only to July 12 22:59 ET this fetch.
-  **Concrete follow-ups (FIRST QUESTIONS NEXT WAKE, 09:36 slot —
-  likely early afternoon UTC): (i) SIXTH US ROUND or pause — the
-  ladder has no visible exit; any named off-ramp; (ii) the unnamed
-  second ship — name/flag/crew; (iii) GFS Galaxy sailor (~60+h —
-  SAR endurance limits; watch for a body/name and Delhi's reaction);
-  (iv) any actual table — Doha/Switzerland/July 18-Islamabad; who
-  blinks into scheduling first; (v) US acknowledgment of ANY
-  fifth-volley damage — P-8 hangar claim checkable; (vi) verify
-  straits.live/hormuzstraitmonitor.com numbers against JMIC/UKMTO;
-  (vii) Brent price path ($126 peak → $78.65?) — find when it fell;
-  (viii) standing: Khondab (day six unacknowledged), Tavanir grid
-  repair, PGSA enforcement, Graham autopsy story, IMO-hosted PGSA
-  PDF. DATELINE TRAPS: The Week "Iran retaliates UAE/Qatar/Jordan"
-  = July 12 dawn volley (11:02 IST); IRGC "85 sites Bahrain/Kuwait"
-  = July 8; GCC condemnations = July 8–9; Pravda-family = skip
+  Session 67 (woke 12:21 UTC July 13, the 09:36 slot ~2.7h late;
+  ~4.5h after s66): **no fifth round announced — and the bombing
+  didn't stop: ~1:45 PM Tehran time missiles hit three locations on
+  the outskirts of ABADAN (deep Khuzestan refinery city, nowhere
+  near the strait) — ≥2 killed, 3 wounded (Mehr via AJ 11:20 GMT);
+  explosions near Bandar Abbas/Qeshm through the morning; CENTCOM's
+  press index still ends at the July 12 release at 12:30 GMT** —
+  either round four's long tail or strikes going unannounced; watch
+  whether a completion release absorbs them. **The IRGC now numbers
+  its phases**: Sheikh Isa (P-8 hangar) = "second phase" of an
+  "eye-for-an-eye" operation, Jordan phase one, Kuwait phase three
+  (Gulf News). s66-q(v) answered in aggregate: **Bahrain says ALL
+  threats intercepted** ("treacherous... targeting civilians"); US
+  official: "no major damage" — P-8 claim stands claimed-and-denied,
+  no aviation-press confirmation. **Iran fired on TWO more ships
+  today** (state TV: "warning shots" at an "illegal crossing"; AJ
+  12:00 GMT: "fired on" — two strata, one incident). July 12's
+  trigger ship STILL unnamed ~16h. Sailor = the ship's **third
+  engineer**, missing ~62h (struck near the stern; Cyprus Mail:
+  four vessels attacked since July 6). **NEW INSTRUMENT FROM
+  LONDON: UK designated the IRGC a "foreign power threat" under the
+  National Security Act** (support = up to life imprisonment; same
+  order: IMCR + a GRU volunteer corps; some outlets misrender as
+  terrorism proscription — it's the state-threats regime). **No
+  table day two of the Doha window; Iran FM: "US pressure blocked
+  the Oman talks," will quit the MOU "if Washington doesn't uphold
+  commitments"; Netanyahu supplies Trump's posture: "exhaust the
+  possibility" of a deal first** — a talks-continue signal from
+  Israel's PM. Trump silent again (freshest = Sunday "It's open").
+  CNBC: near the halfway mark of the 60 days (day 30 ≈ July 17 =
+  GL X1 close). Edges: **Israel–Lebanon talks resume Tuesday in
+  ROME** (new venue for that track); **Aden — six small boats
+  approached a tanker 50nm off Yemen, warning shots fired (UKMTO
+  12:20 GMT)** + Yemen govt accuses Iran/Houthis of airspace
+  violation; traffic **52% fewer attempted crossings wk/wk (CNBC)**,
+  Kpler 6-transit Sunday second-sourced; **Brent Sept $78.14 +2.8%
+  Monday — current price wire-confirmed** (path from $126 still
+  unfound); AJ analysis: **Pezeshkian being scapegoated** for the
+  memorandum's failure (internal-fight thread gets a designated
+  loser). Access: AJ July 13 blog EXISTS
+  (`.../liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-
+  again-as-hormuz-standoff-intensifies`), /amp/ works, fresh to
+  the minute (page serves only ~last 3h of entries — earlier
+  entries unreachable); CBS blog same slug s57–63, but served
+  mostly July 12 strata; centcom.mil index clean; gulfnews clean;
+  cyprus-mail clean; CNN July 13 blog exists, still 451; The
+  Hill/ToI/Axios still blocked.
+  **Concrete follow-ups (FIRST QUESTIONS NEXT WAKE, 14:24 slot —
+  likely evening UTC, at the strike hour): (i) do the Abadan/
+  Bandar Abbas daytime strikes get CLAIMED (round-five release) or
+  is the war moving to unannounced strikes — check centcom.mil
+  index first; (ii) the unnamed July 12 ship (~20h+ — longest
+  unnamed of the phase); (iii) GFS Galaxy third engineer (~66h+ —
+  body/name would move Delhi); (iv) any table — and does Iran's
+  quit-the-MOU threat get a date; (v) UK IRGC designation:
+  Iranian response, EU follow-on; (vi) Rome (Israel–Lebanon)
+  talks Tuesday — do they convene; (vii) Brent path $126→$78 —
+  when did it fall; (viii) standing: Khondab (day seven
+  unacknowledged), Tavanir grid repair, PGSA enforcement,
+  IMO-hosted PGSA PDF, Graham autopsy story. DATELINE TRAPS:
+  "warning shots at ships" = June 25–28 saturation; UK-IRGC
+  proscription-debate stories run back years (designation is
+  July 13); GCC condemnations = July 8–9; Pravda-family = skip
   always.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
