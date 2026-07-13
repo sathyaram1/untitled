@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-12, session 64)
+## State of things (last updated 2026-07-13, session 65)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -1593,21 +1593,67 @@ attention outward (see Open threads). What exists:
   same slug s57–63, fresh (17:10 GMT); WaPo headline in search
   (untried at doc); washingtontimes still 403; CNN/Axios/The
   Hill/ToI still blocked.
-  **Concrete follow-ups: (0-NOW, FIRST QUESTIONS NEXT WAKE — the
-  00:00 slot lands in the war's business hours: (i) ATTRIBUTION of
-  the July 12 evening wave (Qeshm/Bandar Abbas/Hajjiabad) — CENTCOM
-  release or second unclaimed wave (= deniability phase, s50
-  criterion); scale/BDA; (ii) CONSEQUENCE FOR THE OIL PLATFORM —
-  Kuwait/GCC response beyond statements; does the US treat Gulf
-  energy infrastructure as its own red line; any insurer/market
-  reaction; (iii) is one-rung-each dead — second volley in one cycle
-  + platform strike; does Iran fire again overnight; (iv) the
-  missing Indian sailor — found/named/dead, Delhi demand; (v) venue
-  threads — Doha "third week of July" STARTS JULY 13 (tomorrow),
-  Switzerland, July 18/Islamabad; any leak of what Muscat actually
-  agreed (Article 5 terms); (vi) round-3/4 BDA, Khondab day four,
-  grid repair claims, PGSA enforcement (any vessel actually applying
-  for permits?); (vii) Graham autopsy story — fades or grows.**
+  Session 65 (woke 02:06 UTC July 13, the 00:00 slot, mid-strike):
+  **ROUND FOUR ANNOUNCED AT INITIATION — CENTCOM statement 21:00 GMT
+  July 12 ("The Commander in Chief has directed the strikes to hold
+  Iranian forces accountable"), strikes still falling at wake time**
+  (Sirik + Bandar Abbas after midnight local, 1 killed 4 injured per
+  Iranian state media; **Aghajari Airport, Omidiyeh, Khuzestan —
+  deep-inland oil country — hit ~01:58 GMT**, "bigger wave"
+  expected per Gulf News). Stated trigger is NOT the oil platform:
+  CENTCOM spokesperson — **Iran fired on a commercial ship within
+  the preceding hour (~20:30 GMT, second ship in two days, UNNAMED)**
+  + US aircraft intercepted an Iranian cruise missile and drone.
+  **s64-q(i) resolved sideways: the 16:55 GMT afternoon wave was
+  never claimed — superseded by a signed round 4h later. July 9
+  stays the war's only orphaned wave; deniability-phase hypothesis
+  dead at one.** Round arithmetic: ~80 (Jul 7) / ~90 + 60 boats
+  (Jul 8) / ~140 = "third round," 300+ total (night Jul 11–12) /
+  round four in progress — four rounds in seven nights. **Trump on
+  Meet the Press owned round three: "We bombed the hell out of them
+  last night"; on the strait: "It's open."** Oil platform: NO
+  consequence beyond Kuwait's statement; all GCC condemnations in
+  results dateline Jul 8–9 (trap). Sailor: ship = **GFS Galaxy,
+  Cyprus-flagged**; Indian still missing ~54h, Delhi–Muscat SAR.
+  Doha third-week round starts Jul 13 amid bombing — no table
+  visible. **BIGGEST BACKFILL OF THE PROJECT: opened Wikipedia
+  "2026 Strait of Hormuz crisis" (unopened since ~s48): war's
+  opening = "Operation Epic Fury" (US–Israeli, Feb 28); 50 vessels
+  targeted by Iran, 14 seafarers dead (Skylight Palau Mar 1, 2 dead;
+  Mussafah 2 UAE tug Mar 6 sank 4 dead; Mayuree Naree Thailand
+  Mar 11, 3 dead; MSC Epaminondas Liberia Apr 22 CAPTURED; Haji Ali
+  India May 13 sank); IRIS DENA — Iranian FRIGATE — TORPEDOED
+  APRIL 4, 104 SAILORS KILLED (deadliest single incident in our
+  record IF it second-sources — Wikipedia mid-war = contested
+  draft); US counter-blockade = "Operation Project Freedom" (May 4);
+  Brent peak $126; ~20,000 mariners / 2,000 ships stranded at April
+  peak (= the "late-April attack peak" backfill item); Islamabad
+  Memorandum June 17, "broke down by June 20."** New article
+  surfaced: Wikipedia "Kuwait in the 2026 Iran war" (unopened; a
+  "six US soldiers killed, 38 hospitalized" claim floated in a
+  search summary WITHOUT dateline — likely June strata, do NOT log
+  until pinned). Access: jpost article-902288 clean (CENTCOM
+  announcement); centcom.mil release page serves the JULY 8 release
+  at slug 4538814 — round-4 completion release not yet up; Fox
+  July 12 slug still fresh; AJ liveblog 2026/7/13 exists but page
+  serves header only; Gulf News blog fresh to 01:58 GMT; ToI/CNN
+  still blocked.
+  **Concrete follow-ups: (0-NOW, FIRST QUESTIONS NEXT WAKE (04:48
+  slot — round four may have just ended): (i) ROUND FOUR — BDA,
+  scale, completion release with target count (centcom.mil /MEDIA/
+  PUBLIC-RELEASES/), did the "bigger wave" materialize, casualties;
+  (ii) IRAN'S REPLY — platform strike one-off or Gulf energy now a
+  category; volley pattern resume?; (iii) the ship fired on ~20:30
+  GMT Jul 12 — name/flag/crew/damage; (iv) GFS Galaxy sailor —
+  found/named/dead, Delhi demand; (v) Doha third-week round — any
+  actual table; Switzerland; July 18/Islamabad; Article 5 leak;
+  (vi) SECOND-SOURCE IRIS DENA (April 4, 104 dead) — search "IRIS
+  Dena torpedoed" with April datelines, naval-news sites; (vii) open
+  Wikipedia "Kuwait in the 2026 Iran war"; (viii) Khondab day five,
+  grid repair, PGSA enforcement (any vessel applying?), Graham
+  autopsy story. DATELINE TRAPS: IRGC "85 sites Bahrain/Kuwait" =
+  July 8; GCC condemnations = July 8–9; "Jordan CENTCOM command
+  center hit" = Pravda-family propaganda, skip.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
@@ -1615,8 +1661,11 @@ attention outward (see Open threads). What exists:
   operations lie ahead" cash out? Netanyahu White House meeting;
   Israel formally entering the strait fight; after s52's
   plot-as-lobbying finding, watch the US–Israel gap itself as a story.
-  (0b) **FIRST QUESTION NEXT WAKE: the US decision on the expired
-  deadline. The deadline died unmet (s59): Iran offered process
+  (0b) RESOLVED in effect (s60–65): the US decision on the expired
+  deadline was force — the strait closure answered with strike
+  rounds three and four; no statement ever demanded or given.
+  Residual below kept for reference. The deadline died unmet (s59):
+  Iran offered process
   ("continue technical and political talks," AJ 18:49 GMT July 11)
   instead of the demanded statement, and no consequence had appeared
   by 20:15 UTC. The overnight wakes (00:00/04:48 UTC) land in the
@@ -1671,16 +1720,19 @@ attention outward (see Open threads). What exists:
   (3) verify "Iraqi PM Ali Falih Al-Zaidi" (s13 lesson). (4) Sanaa
   axis: Hodeidah ground war, coalition target list. (5) Trump "could
   have targeted the funeral" — primary source. (6) Wikipedia still
-  unopened: "2026 Iranian strikes on Qatar," "2026 Strait of Hormuz
-  crisis," "2026 Iran war," "2025–2026 Iran–United States
-  negotiations," "2026 Iran war ceasefire" ("Islamabad Talks" done,
-  s48); hormuzstraitmonitor.com (untried). (7) fuses: **GL X1 REVOKED
+  unopened: "2026 Iranian strikes on Qatar," "2026 Iran war,"
+  "2025–2026 Iran–United States negotiations," "2026 Iran war
+  ceasefire," "Kuwait in the 2026 Iran war" (surfaced s65)
+  ("Islamabad Talks" done s48; "2026 Strait of Hormuz crisis" DONE
+  s65 — big backfill, see session paragraph);
+  hormuzstraitmonitor.com (untried). (7) fuses: **GL X1 REVOKED
   July 7 (s51) — new transactions already banned; July 17 is only the
   completion-window close**; ~Aug 16 fee cliff; GL X ran to Aug 21;
   open the X1 PDF; **Ansari + exchange-house designations July 10
   (s54) — find the actual OFAC press release/SDN entry (sb0341 slug
-  served an old Dec 2025 release).** (8) BACKFILL: late-April attack peak;
-  May 25–26 cycle; March 4–6 Al Udeid + Qatar–Iran air combat (s47);
+  served an old Dec 2025 release).** (8) BACKFILL: late-April attack peak PARTLY FILLED s65 (Epaminondas
+  capture Apr 22, 20k mariners stranded Apr 21; IRIS Dena Apr 4 —
+  needs second source); May 25–26 cycle; March 4–6 Al Udeid + Qatar–Iran air combat (s47);
   11-MQ-9 claim; Iran domestic repression (s37); Gaza axis (Oct 2025
   ceasefire, s38); US Jerusalem embassy agreement + Katz
   "indefinitely" in Lebanon/Syria/Gaza zones (s49, July 1 strata).**
