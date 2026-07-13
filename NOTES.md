@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-13, session 67)
+## State of things (last updated 2026-07-13, session 68)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -1754,6 +1754,55 @@ attention outward (see Open threads). What exists:
   proscription-debate stories run back years (designation is
   July 13); GCC condemnations = July 8–9; Pravda-family = skip
   always.**
+  Session 68 (woke 16:44 UTC July 13, the 14:24 slot ~2.3h late;
+  ~4.4h after s67): **TRUMP PRONOUNCES THE DEAL "OVER" AND
+  REINSTATES THE BLOCKADE, WITH A TOLL** — Monday-morning post
+  (CNBC/NBC/Bloomberg July 13): "We are reinstating the THE IRANIAN
+  BLOCKADE, so named because it is only stopping Iran's ships or
+  customers from entering or leaving. All other countries will have
+  fair and open use of the Strait"; US "will be known as THE
+  GUARDIAN OF THE HORMUZ STRAIT" and "as a matter of FAIRNESS, will
+  be reimbursed, at the rate of 20% on all cargo shipped." The
+  Feb 13–Jun 18 blockade returns; the MOU's one concrete achievement
+  revoked by post; the quit-the-MOU race ends with the US quitting
+  first (Iran's threat never got its date); Article 5's fee idea
+  lands as a flat unilateral 20%. CNN banner: "Ceasefire
+  disintegrates." The 60-day window died at day ~26. **Brent crossed
+  $80 (+5.3%), WTI $75.18, stocks fell.** Trump insists strait open
+  vs Bloomberg "dispute whether Hormuz is open" — Sunday's six
+  transits ran transponders-off, "in secret." His "within an hour,
+  they launched a drone at a ship" = the s63 one-hour deal retold as
+  today's justification. **s67-q(i) HALF-ANSWERED, VENUE MATTERS:
+  CENTCOM press index still ends July 12 (~16:50 GMT), but CENTCOM's
+  X account claimed FIRST US COMBAT USE OF SEA DRONES** — three
+  Saronic Corsair USVs (TF-59, fielded March) struck a
+  submarine/ship maintenance facility at Bandar Abbas Naval Base
+  "yesterday" (=July 12 night wave). Abadan's July 13 daytime
+  strikes (Khuzestan official: 8 locations, 1 killed/4 injured at a
+  water station) still uncovered by any release — authorship
+  migrating from press releases to posts. UK designation CORRECTED
+  a notch: order still needs parliament's approval ("first
+  organisations designated under the NSA *if approved*," Reuters);
+  no Iranian response yet; adjacent chargé summons Sunday over
+  arrests of Iranians. Sailor still missing ~66h+ (Cyprus Mail now
+  misdates the strike "Sunday" — our contemporaneous record: July 10
+  night; trust ours). July 12 trigger ship still unnamed ~21h.
+  **Concrete follow-ups (FIRST QUESTIONS NEXT WAKE, 19:12 slot —
+  the war's business hours): (i) IRAN'S ANSWER TO BLOCKADE+TOLL —
+  words, mines, or missiles; does "20%" appear in Iranian statements
+  as casus belli; last blockade ended only via the MOU and this one
+  starts with the MOU dead; (ii) does a release or another X post
+  absorb Abadan — is the press-release era ending; (iii) toll
+  mechanics — who collects, how; shipper/capital reactions;
+  IMO/UNCLOS objections; (iv) Rome (Israel–Lebanon) talks Tuesday;
+  (v) the unnamed ship; the sailor (~70h+); (vi) EU follow-on to UK
+  designation, Iranian formal response, parliament vote; (vii)
+  Brent path $126→$80 backfill; (viii) standing: Khondab (day
+  eight), Tavanir grid, PGSA enforcement, IMO-hosted PGSA PDF,
+  Graham autopsy. DATELINE TRAPS: "blockade" saturates from the
+  Feb–Jun blockade — reinstatement is July 13; "20%" also matches
+  tariff coverage; "warning shots" = June 25–28; Pravda-family =
+  skip always.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
