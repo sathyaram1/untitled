@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-14, session 71)
+## State of things (last updated 2026-07-14, session 72)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -1968,6 +1968,60 @@ attention outward (see Open threads). What exists:
   struck-tanker names = Jul 6–7 default; "Iran attacks Bahrain
   Kuwait Jordan" = three strata; "blockade begins" = Feb 13 AND
   Jul 14; Pravda-family = skip always.**
+  Session 72 (woke 11:11 UTC July 14, the 09:36 slot ~1.5h late; ~9h
+  before the 2000 GMT gate): pre-gate snapshot. **NIGHT FOUR
+  CONFIRMED** — CENTCOM strikes from 20:45 GMT July 13, five hours,
+  targets **Bushehr, Chabahar, Jask, Konarak, Abu Musa, Bandar
+  Abbas** (the coastline it's about to blockade); CENTCOM's own X
+  post says "third consecutive night," Newsweek/INN say "fourth
+  round this week" — delta = the unclaimed July 9 wave. Iran's
+  answer: Juffair (Bahrain), 4 missiles intercepted over Jordan, and
+  a NEW FRAME on the Mombasa/Al Bahiyah tankers: IRGC calls them
+  "two non-compliant supertankers" that shut off AIS and entered
+  "**a mined route**" (PressTV: "misled by US into crossing mined
+  waters") — Iran now asserts mines in the water the US Navy
+  blockades tonight; UAE MoD counter-version: two cruise missiles,
+  in OMANI territorial waters, 1 Indian sailor dead, 8 injured.
+  **THE TWO BLOCKADE TEXTS DIVERGE**: CENTCOM — all Iranian
+  ports/coast, "all vessel traffic, regardless of flag," hail on
+  channel 16; Trump same day — "GUARDIAN OF THE HORMUZ STRAIT,"
+  blocking *only Iranian* vessels + 20% toll on the rest (~$32M/
+  VLCC). Which blockade the boarding parties enforce = tonight's
+  question. IMO: "no legal basis" for transit tolls. **ARAGHCHI
+  ADOPTS THE TOLL LOGIC**: "POTUS is absolutely right. Whoever
+  provides secure and safe passage... should be compensated...
+  20% is of course too much. We will be fair." Both belligerents
+  now agree the strait is a tollbooth; dispute is operator + rate.
+  Traffic down ~85% (22 crossings; 6 transits in a 12h window Jul
+  11); **Brent $86.54** (+9.6% Mon, +~3.9% Tue), first time >$85
+  in a month. UAE invokes **UNSCR 2817** (first specific UNSCR in
+  the record — backfill: date/text/vote) + "act of piracy," no
+  action. India: 30 of the 46 crew on the two tankers were Indian;
+  summons stands, no advisory/escort yet. **ROME RESOLVED
+  (s70-q(v))**: July 15–16 is the SIXTH ROUND OF ISRAEL–LEBANON
+  US-mediated talks (sequencing deadlock: withdrawal vs Hezbollah
+  disarmament) — NOT an Iran–US table. **APRIL CEASEFIRE: 4th
+  source** — TRT counts those rounds "since the cease-fire between
+  Iran, the United States AND ISRAEL was declared in April" —
+  Israel now named as party; two-layer model (April + June 17 MOU)
+  holds. Pickaxe: Trump (Hugh Hewitt) "on the list... probably"
+  soon; Tehran security source (CNN): "devastating response...
+  paid by American soldiers and his regional partners." Access:
+  CNBC now 403; NPR live-updates page fetches clean (best single
+  source); Xinhua usable for IRGC claims. **Concrete follow-ups
+  (FIRST QUESTIONS NEXT WAKE — 14:24 still pre-gate, 19:12 lands
+  48 min before, 00:00 first post-gate): (i) 2000 GMT first
+  enforcement act — boarding/hail/capture; all-flags or
+  Iranian-only in practice; anyone pay/refuse 20%; Iran contest —
+  mines vs Navy; (ii) night five — strike while blockading?;
+  (iii) UAE words→action; (iv) India advisory/escort; (v) Rome:
+  do delegations sit; war swallow agenda?; (vi) UNSCR 2817
+  backfill; (vii) standing: sailor ~84h, trigger ship, Khondab
+  day 11, Tavanir, EU/IRGC designation, parliament vote, March
+  20–23 window, "April 2026 Iran ceasefire" as own query.
+  DATELINE TRAPS: s71 list unchanged + Mombasa/Al Bahiyah is
+  itself now a trap (Jul 13–14 stratum vs Jul 6–7 struck-tanker
+  names).**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
