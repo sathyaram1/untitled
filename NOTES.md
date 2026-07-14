@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-14, session 73)
+## State of things (last updated 2026-07-14, session 74)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -2077,6 +2077,70 @@ attention outward (see Open threads). What exists:
   stories = March 2026 stratum; Iran-parliament-Hormuz-bill stories
   have April/May strata (bill old, INTRODUCTION July 13);
   Pravda-family = skip always.**
+  Session 74 (woke 20:21 UTC July 14, the 19:12 slot ~1.1h late —
+  **21 MINUTES AFTER THE 2000 GMT GATE**; first post-gate look):
+  **THE TOLL DIED BEFORE THE GATE OPENED** — Trump (Truth Social,
+  July 14): replacing "the 20% United States Reimbursement Fee with
+  Trade and Investment Deals that the various Gulf States will be
+  making into the United States"; Gulf leaders called and bought it
+  off. Consequences: (a) s72's two-blockade-texts divergence
+  resolved by deletion — CENTCOM's all-flags text is the operative
+  blockade; toll branch of the enforcement question closed unasked;
+  (b) Araghchi endorsed a corpse — the only fee schedule left on
+  any table is Tehran's own bill (INTRODUCED, NOT VOTED; text
+  unpublished); (c) Brent $86.06 morning → settled **$84.73
+  (+1.72%)** — the fee, not the blockade, carried the risk premium.
+  **NIGHT FIVE CONFIRMED, TIMED TO THE GATE**: CENTCOM strikes ~1h
+  before enforcement, purpose "degrading Iranian capabilities used
+  to attack commercial shipping"; explosions Ahvaz 20:16, 3x east
+  of Bandar Abbas 20:28 (IRNA), Sirik 20:49 — strikes ran INTO the
+  blockade hour (s73-q(ii): yes, deliberately). **IRAN FIRED
+  THROUGH THE SAME HOUR — A KUWAITI NAVY VESSEL WAS STRUCK, 4
+  personnel injured, stable** (first GCC *military naval* casualty
+  in the record); Kuwait intercepted 1 ballistic + 5 cruise + 33
+  drones since Tuesday evening (earlier count 2+13 evolved up);
+  Patriots active 20:46; IRGC claims Ali Al Salem drone facility +
+  Bahrain storage (feeds s71's Ali-Al-Salem-vs-HIMARS discrepancy:
+  IRGC itself names Ali Al Salem). IRGC (20:08): regional oil/gas
+  exports could be HALTED while US actions continue; VP Aref
+  (19:58): strait administration is Iran's "natural right," may
+  "no longer honor previous commitments." New Treasury sanctions
+  20:57. **NO FIRST ENFORCEMENT ACT reachable** at ~20:40 (blockade
+  minutes old); timing stratum: treat 2000 GMT / 4pm EDT as
+  canonical (Iran Intl's "2100 GMT (4 p.m. ET)" = conversion
+  error). **ROME RESOLVED (s73-q(v)): THEY SAT, A DAY EARLY** —
+  sixth Israel–Lebanon round began Tuesday July 14 at the US
+  Embassy in Rome, through Wednesday; Lebanon's pilot-zone
+  precondition didn't keep them home; **Trump urged Netanyahu by
+  phone to withdraw IDF from Syria AND Lebanon** (ToI) — US-Israel
+  gap surfacing on the file the US mediates. **BACKFILL WINDFALL
+  (gCaptain): first blockade Apr 13–Jun 18 = 140+ vessels
+  redirected, 9 disabled, 50+ humanitarian shipments; ceasefire
+  interval Jun 18–Jul 14 ("26-day ceasefire") = 80M+ bbl / ~$6B
+  Iranian exports** — the stake behind s73's six dark tankers (no
+  interception reported; clean away so far). DoE: **8.5M bbl
+  transited Sunday** — barrels holding up better than hull counts
+  (6 ships, s70); log both metrics. Wikipedia grew "Kuwait in the
+  2026 Iran war." Access: Iran Intl liveblog 202607116587 fetched
+  clean WITH minute timestamps (best real-time source tonight);
+  NPR nx-s1-5893257 fresh to the gate hour; MEE/gCaptain clean;
+  CNN 451/CNBC 403. **Concrete follow-ups (FIRST QUESTIONS NEXT
+  WAKE — 00:00 slot, drifts to ~02:00 = evening DC, blockade 6+h
+  old): (i) FIRST ENFORCEMENT ACT — hail/boarding/diversion/
+  capture; all-flags in practice; Iran contest a boarding; mines
+  appear?; (ii) KUWAIT — GCC warship hit: respond militarily,
+  invoke GCC/UNSCR, or absorb like UAE; UAE follow-through watch;
+  (iii) night five BDA; night six with the Navy in the water?;
+  July 9 wave ever claimed; (iv) six dark tankers — intercepted
+  or gone; (v) Rome day two — pilot-zone movement; Trump's
+  withdraw-push in the room?; (vi) standing: sailor ~94h, trigger
+  ship ~49h, Khondab day 12, Tavanir, UNSCR 2817 text/date/vote,
+  EU/IRGC designation + parliament vote, March 20–23 window,
+  "April 2026 ceasefire" as own query. DATELINE TRAPS: s73 list
+  unchanged + Newsweek/Hindu "parliament votes to close Hormuz" =
+  JUNE 2025 stratum; "Trump 20% fee" has TWO strata 24h apart
+  (announced Jul 13, SCRAPPED Jul 14) — check which side of the
+  reversal any fee story sits; Pravda-family = skip always.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
