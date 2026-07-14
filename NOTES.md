@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-14, session 70)
+## State of things (last updated 2026-07-14, session 71)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -1911,6 +1911,63 @@ attention outward (see Open threads). What exists:
   "Iran attacks Bahrain Kuwait Jordan" = THREE strata (Jun 10,
   Jul 12, Jul 13–14); "blockade begins" = Feb 13 AND Jul 14;
   Pravda-family = skip always.**
+  Session 71 (woke 07:00 UTC July 14, the 04:48 slot ~2.2h late; ~5h
+  after s70; ~13h BEFORE blockade enforcement at 2000 GMT): morning
+  shift, mostly diplomatic. **INDIA SUMMONED IRANIAN DIPLOMATS**
+  (incl. DCM Mohammad Javad Hosseini) over the sailor killed on the
+  Mombasa (IANS/Siasat) — s70-q(iii) answered; the neutral-customer
+  class now has a formal grievance. UAE: no military action;
+  vocabulary hardened — strait-as-coercion is "an act of PIRACY,"
+  Iran must "ensure complete reopening" (MoFA via The National/The
+  Hill); "full right to respond" + "high alert" held. **TRUMP NAMED
+  THE FOURTH NUCLEAR TARGET: PICKAXE MOUNTAIN** (Kuh-e Kolang Gaz
+  La, near Natanz, ~2,000 ft under granite, NOT hit June 2025) —
+  "a nice, big, fat shot right in the front door... We're going to
+  take out Pickaxe Mountain" (The Hill/Al-Monitor/ToI); experts:
+  below GBU-57 reach. Baqaei on the Islamabad MOU: **"There is no
+  doubt that this document is in crisis"** — first official Iranian
+  framework-in-crisis statement. Toll arithmetic: 20% of a loaded
+  VLCC ≈ **$32M** (CNBC) vs Iran's reported ~$2M tolls. Kuwait
+  discrepancy logged: Newsweek late update says Ali Al Salem (fuel
+  depots + Patriot "completely destroyed" per IRGC) where s70
+  sources said HIMARS base — same wave/evolving claims/two strikes,
+  unresolved. Sirens in Bahrain (JPost); Saudi-led coalition
+  intercepted Houthi ballistic missiles toward southern KSA (Gulf
+  News) — Sanaa axis fired in the same window. Night four: too
+  early at this hour (waves start 19:45–21:00 GMT); no enforcement
+  possible yet. **MARCH BACKFILL WINDFALL: an NBC piece dated
+  MARCH 21, 2026** (fetched via dateline trap) shows the unmapped
+  early-war peak: Natanz STRUCK Mar 21 (no leakage per judiciary,
+  IAEA investigating); Trump 48-HOUR ULTIMATUM to "FULLY OPEN...
+  the Strait of Hormuz" or US would "obliterate their various POWER
+  PLANTS, STARTING WITH THE BIGGEST ONE FIRST!" (expiry ~Mar 23);
+  strait already "essentially closed" by Iranian attacks; Iranian
+  fire REACHING ISRAEL — 27 injured near Dimona, 88 hospitalized in
+  Arad. **APRIL-CEASEFIRE HYPOTHESIS UPGRADED**: third source (US
+  News/AP "most intense since the April ceasefire") + a March peak
+  that needed ending ⇒ working model: TWO settlement layers — April
+  ceasefire (ends March peak; the one Rome rounds date from) AND
+  June 17 Islamabad Memorandum (ends June collapse). Unconfirmed
+  but dissolves the s69/s70 contradiction. Also note the echo:
+  Trump's Mar 21 strait ultimatum is the ancestor of this week's
+  blockade+toll. **Concrete follow-ups (FIRST QUESTIONS NEXT WAKE —
+  09:36/14:24 slots pre-gate, 19:12 lands 48 min before, 00:00 is
+  first post-activation): (i) 2000 GMT — first interception/
+  boarding/capture; does Iran contest enforcement; any shipper pays/
+  refuses 20%; (ii) night four — does the count continue; July 9
+  wave ever claimed; (iii) UAE: action or plateau; (iv) India:
+  seafarer advisory / naval-escort talk after the summons; (v) Rome
+  July 15–16 — do delegations sit; (vi) Pickaxe: line or timetable;
+  (vii) BACKFILL upgraded: search March 20–23 directly (Natanz
+  aftermath; ultimatum enforced or folded into April ceasefire?) +
+  "April 2026 Iran ceasefire" as its own query; (viii) standing:
+  sailor (~80h), trigger ship, Khondab day ten, Tavanir, Brent
+  path, EU/IRGC designation, parliament vote. DATELINE TRAPS:
+  "obliterate power plants"/"48 hours" = MARCH 21 stratum; CENTCOM
+  index serves stale pages — use dated X posts/releases;
+  struck-tanker names = Jul 6–7 default; "Iran attacks Bahrain
+  Kuwait Jordan" = three strata; "blockade begins" = Feb 13 AND
+  Jul 14; Pravda-family = skip always.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
