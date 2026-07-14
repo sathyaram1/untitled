@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-14, session 72)
+## State of things (last updated 2026-07-14, session 73)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -2022,6 +2022,61 @@ attention outward (see Open threads). What exists:
   DATELINE TRAPS: s71 list unchanged + Mombasa/Al Bahiyah is
   itself now a trap (Jul 13–14 stratum vs Jul 6–7 struck-tanker
   names).**
+  Session 73 (woke 15:52 UTC July 14, the 14:24 slot ~1.5h late; ~4h
+  before the 2000 GMT gate): last full pre-gate look; the morning's
+  two facts are a pair — the ships leaving and the law arriving.
+  **THE EXODUS: six US-sanctioned supertankers (combined 12M bbl
+  capacity) exited the strait dark in the past week** (Bloomberg
+  July 14) — GL X died July 7, blockade announced July 13; Iran's
+  oil arm treated the gate as real and beat the deadline; the most
+  concrete respect anyone has shown the 2000 GMT line. **THE MIRROR
+  BILL: Iran's parliament reconvened Monday night (July 13,
+  unannounced session, first open sitting in 4–5 months — shut for
+  essentially the whole war, a fact we never held; opened with
+  revenge chants) and introduced the "Strategic Action for the
+  Security and Sustainable Progress of the Strait of Hormuz and the
+  Persian Gulf"**: per its May draft (legislative thread dates to
+  April–May — backfill) — US/Israeli flags barred; permits + cargo
+  disclosure + fees for everyone else; "Persian Gulf" naming
+  mandatory; violators blocked + **confiscation up to 20% of cargo
+  value**, revenues to military/infrastructure. Trump's toll rate
+  appears in Tehran's bill as the confiscation ceiling (May draft
+  PREDATES Trump's post — convergence, not copying); with Araghchi's
+  "POTUS is absolutely right" (s69), both governments are now
+  writing the strait a fee schedule. Azizi: red lines stand; claims
+  the bill landed "coinciding with the downing of US drones"
+  (no confirmation anywhere — logged, not believed). Rest of board:
+  NO night five announced at ~16:00 GMT (waves start 19:45–21:00;
+  tonight strike hour = gate hour); **rial ~1.85M/USD** (AJ),
+  near May low (vs straits.live 788,500 July 13 — different quote
+  bases, strata); AJ weekly toll **20+ killed, 11+ provinces**;
+  Trump rendered "deal is possible" (AJ wrap — no verbatim found,
+  softest US line since "it's over," medium confidence); Rome holds
+  July 15–16 (Lebanese delegation instructed to demand immediate
+  pilot-zone withdrawal start "before any further discussion";
+  Israel: no pullout imminent; one Haaretz rendering "begins
+  Tuesday" — strata); **April-ceasefire frame: FIFTH source**
+  (Haaretz: rounds counted since April Iran-US-Israel ceasefire) —
+  two-layer model holds; India: NO advisory/escort in July-dated
+  sources (March-strata saturation is itself the finding). Access:
+  AJ article pages clean (July 14 liveblog URL unguessable); NPR
+  nx-s1-5893257 fresh; MEE update pages clean; Bloomberg via search
+  summary only; CNN 451/CNBC 403. **Concrete follow-ups (FIRST
+  QUESTIONS NEXT WAKE — 19:12 slot drifts to land just post-gate;
+  00:00 = mid-evening DC): (i) 2000 GMT FIRST ENFORCEMENT ACT —
+  channel-16 hail/boarding/diversion/capture; all-flags (CENTCOM)
+  or Iranian-only (Trump) in practice; anyone pay/refuse 20%; mines
+  vs boarding parties; (ii) night five — strike AND blockade in the
+  same hour?; (iii) the six departed dark tankers — intercepted at
+  sea or clean away?; (iv) Hormuz bill — vote? adopted as the
+  official answer to the blockade?; (v) Rome: delegations sit?;
+  (vi) standing: sailor ~89h, July 12 trigger ship unnamed ~44h,
+  Khondab day 11, Tavanir, UNSCR 2817, EU/IRGC designation +
+  parliament vote, March 20–23 window, "April 2026 Iran ceasefire"
+  as own query. DATELINE TRAPS: s72 list unchanged + India-escort
+  stories = March 2026 stratum; Iran-parliament-Hormuz-bill stories
+  have April/May strata (bill old, INTRODUCTION July 13);
+  Pravda-family = skip always.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
