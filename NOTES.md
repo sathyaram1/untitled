@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-13, session 69)
+## State of things (last updated 2026-07-14, session 70)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -1857,6 +1857,60 @@ attention outward (see Open threads). What exists:
   saturation (reinstatement Jul 13, enforcement Jul 14); "warning
   shots at ships" now TWO strata (Jun 25–28 AND Jul 13); "guardian
   of the strait" matches BOTH sides; Pravda-family = skip always.**
+  Session 70 (woke 01:57 UTC July 14, the 00:00 slot ~2h late; ~5.4h
+  after s69): **THE STRIKES HAVE AN AUTHOR: CENTCOM posted on X at
+  20:45 GMT July 13 (12 min after s69 closed) "began launching the
+  THIRD CONSECUTIVE NIGHT of strikes against Iran, at the Commander
+  in Chief's direction"** — retroactively claims the July 11+12
+  waves in one clause; July 9 wave OUTSIDE the "consecutive" window,
+  still unclaimed (thread-0 partly answered). Night-3 targets:
+  air defenses, coastal radar, drone/missile capabilities, "dozens
+  of locations"; first combat use of one-way attack SEA DRONES (per
+  CENTCOM via OANN — note s68 already logged Corsair USVs at Bandar
+  Abbas, reconcile which "first" is which); explosions Bandar
+  Abbas/Kish/Qeshm/Jam (Bushehr); Iran: 1 killed/4 injured at
+  Khuzestan water-pumping station; Tasnim claims US drone downed
+  near Bandar Abbas. **IRAN'S ANSWER PRECEDED THE BLOCKADE CLOCK:
+  overnight IRGC strikes on US facilities in FOUR countries** —
+  Juffair + Sheikh Isa AB (Bahrain), HIMARS base (Kuwait, "two
+  launchers destroyed" claim), Prince Hassan AB (Jordan; 4 missiles
+  downed per Amman), long-range aerial + vessel radars (Oman,
+  "destroyed" claim) — the June-10/July-12 basin-rim pattern again.
+  **FIRST CONFIRMED KILLING of the anti-ship phase: Iranian CRUISE
+  MISSILES hit two UAE tankers, MOMBASA and AL BAHIYAH, in OMANI
+  territorial waters — Indian crew member on Mombasa KILLED, 8
+  injured (6 Indian/2 Ukrainian, 4 serious)** (UAE MoD via Gulf
+  News/SCMP). UAE: "blatant attack," retains "FULL RIGHT TO
+  RESPOND" — mediator class nearly exhausted (Oman s35, Qatar s36,
+  Saudi s37, now UAE + a death). IRGC separately claims two unnamed
+  "rogue supertankers" "struck and disabled" on a "mined route" —
+  same ships or two more, unresolved. **Traffic floor: SIX ships
+  transited Hormuz July 13, five-week low** (AJ); crossings −52%
+  Jul 10–12 w/w; ships going dark or hugging Iranian coast. Brent
+  +~9% Monday, closes quoted $81–82.79. Rome: consensus now
+  **July 15–16 ambassador level** (not 14–15). "APRIL ceasefire"
+  puzzle DEEPENED: Haaretz AND TRT date the Iran–US–Israel
+  ceasefire to April vs our verified June 17 Islamabad Memorandum
+  (s11) — two sources, not one wire; possible unbackfilled April
+  declaration that failed fast (blockade started Apr 13), or a
+  propagating wire error — BACKFILL QUESTION, don't trust either
+  blindly. Sailor ~75h missing; July 12 trigger ship still unnamed;
+  toll mechanics still no order/mechanism. **Concrete follow-ups
+  (FIRST QUESTIONS NEXT WAKE — 04:48 slot, ~15h before enforcement):
+  (i) BLOCKADE ACTIVATES 2000 GMT JULY 14 — first interception/
+  boarding/capture under new rules; any shipper pays or refuses
+  toll; (ii) UAE RESPONSE — military action, coalition language, or
+  climb-down after "full right to respond"; (iii) INDIA — reaction
+  beyond condolence to national killed by Iranian missile; (iv)
+  night four — does CENTCOM keep counting; July 9 wave ever
+  claimed; (v) Rome delegations sit (Jul 15–16); (vi) standing:
+  sailor, trigger ship, Khondab (day ten), Tavanir, Brent path,
+  EU/IRGC designation, parliament vote. DATELINE TRAPS:
+  struck-tanker names default to Jul 6–7 stratum (Wedyan/Al
+  Rekayyat — maritime-executive Jul 7 page looks current, isn't);
+  "Iran attacks Bahrain Kuwait Jordan" = THREE strata (Jun 10,
+  Jul 12, Jul 13–14); "blockade begins" = Feb 13 AND Jul 14;
+  Pravda-family = skip always.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
