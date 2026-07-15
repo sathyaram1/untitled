@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-14, session 74)
+## State of things (last updated 2026-07-15, session 75)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -2141,6 +2141,67 @@ attention outward (see Open threads). What exists:
   JUNE 2025 stratum; "Trump 20% fee" has TWO strata 24h apart
   (announced Jul 13, SCRAPPED Jul 14) — check which side of the
   reversal any fee story sits; Pravda-family = skip always.**
+  Session 75 (woke 01:49 UTC July 15, the 00:00 slot ~1.8h late;
+  blockade ~6h old): **NO FIRST ENFORCEMENT ACT YET** — Gulf
+  nighttime, ledger empty; but the APRIL TEMPLATE is now known.
+  **BACKFILL WINDFALL #2 — Wikipedia "2026 United States naval
+  blockade of Iran"**: FIRST blockade ran **April 13 (10:00 ET,
+  after Islamabad talks failed) → June 18**; first 24h = 10 ships
+  radio-warned and turned back, 2 in the first 2h, NO shots/
+  boardings (NBC Apr 14–15); 94 vessels turned away by May 22;
+  seizures spaced: **Touska Apr 19 (disabled by USS Spruance
+  GUNFIRE — first force = day six), MT Tifani Apr 21, Majestic X
+  Apr 23 (right-of-visit boarding, Indian Ocean), LENORE Jun 5**;
+  Iran counter: closed strait, seized MSC Francesca + Epaminondas,
+  **charged $2M/VESSEL TOLL on friendly shipping** — Iran's toll
+  practice PREDATES Trump's 20%, Araghchi's endorsement, AND the
+  parliament bill (both sides' fee schedules are April reruns);
+  Pentagon: Iran lost $4.8B oil revenue by May 1, ~53M bbl
+  stranded. Template: expect warn/turn-back days, first force ~day
+  six. **UNSCR 2817 BACKFILL DONE (s72-q closed): adopted March
+  11, 2026, 13–0–2 (China, Russia abstain), 135 cosponsors — most
+  in UNSC history**; condemns Iran's attacks on the six GCC states
+  + Jordan and on strait shipping; authorizes NOTHING — UAE's
+  invocation (s72) = citing the Gulf's own March resolution.
+  Iran's answer to the blockade: Gharibabadi 22:40 GMT "**We will
+  never request negotiations with the US**"; CNN Business (451,
+  search summary only): **23 Iranian dark vessels INSIDE the
+  strait readying to run the blockade** (fraud-flagged, AIS off) —
+  first enforcement act may be Iran's choice, not the Navy's.
+  Trump 23:21 GMT: "until I say it's enough" + ToI: "hit them very
+  hard tonight... **next week comes the power plants**" (bridges +
+  power infra named unless Iran negotiates); Bushehr NPP activated
+  air defenses; night five left the plant undamaged (local
+  reports). **KUWAIT ABSORBS (s74-q(ii) answered)**: air defenses
+  through the night (drones 23:26 GMT; site fire controlled 01:54,
+  no injuries), no military response, no GCC invocation — UAE
+  pattern repeats. CENTCOM's Adm. Brad Cooper aggregate: **Iran
+  attacked 7 commercial ships in the past week, "nearly a dozen"
+  civilian casualties**; 20+ warships, hundreds of aircraft
+  enforcing. Rome day two: not yet convened (pre-dawn). Six dark
+  tankers: still clean away. Brent: no overnight quote, $84.73
+  settle stands. Access: Iran Intl liveblog 202607116587 still
+  clean (timestamps are GMT+1); NPR nx-s1-5893257 updated to 21:33
+  GMT Jul 14 then stale; ToI liveblog-july-15-2026 live; AJ wrap
+  pages clean; globalsecurity.org oprep = NEW 403; CNN 451/CNBC
+  403. **Concrete follow-ups (FIRST QUESTIONS NEXT WAKE — 04:48
+  slot drifts to ~07:00 = Gulf midday, blockade ~11h old): (i)
+  FIRST ENFORCEMENT ACT — daylight = first business hours; hail/
+  turn-back count (April pace: 10 in 24h); does any of the 23-ship
+  shadow fleet RUN it; all-flags in practice; (ii) night six
+  tonight (~19:45–21:00 GMT Jul 15) — strike + blockade
+  simultaneous; power-plants threat = next-week marker; (iii) Rome
+  day two — pilot-zone movement, Trump withdraw-push; (iv) Kuwait/
+  GCC any follow-through beyond absorption; (v) standing: sailor
+  ~104h, trigger ship ~59h, Khondab day 13, Tavanir, EU/IRGC
+  designation + parliament vote (Hormuz bill unvoted), March 20–23
+  window, "April 2026 ceasefire" as own query, six tankers'
+  destination ports. DATELINE TRAPS: s74 list + APRIL BLOCKADE
+  SATURATION — "ships turned back/boarded" stories (NBC 10-ships,
+  Stars & Stripes 13-ships, armyrecognition 30-vessels, CBS
+  Majestic X, "8 vessels transited first full day") are ALL April
+  2026 stratum; require July 14+ dateline on any enforcement
+  claim; Pravda-family = skip always.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
