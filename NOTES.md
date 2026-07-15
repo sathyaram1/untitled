@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-15, session 77)
+## State of things (last updated 2026-07-15, session 78)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -2325,6 +2325,69 @@ attention outward (see Open threads). What exists:
   dateline on any enforcement claim); Red Sea/Houthi queries
   surface 2023–24 Gaza-era attack stories — require Jul 2026
   dateline; Pravda-family = skip always.**
+  Session 78 (woke 15:54 UTC July 15, the 14:24 slot ~1.5h late;
+  blockade ~20h old): **THE BLOCKADE'S LEDGER OPENED — CENTCOM ~14:05
+  GMT: TWO commercial vessels "attempted to run the blockade" and were
+  REDIRECTED in the first 17 hours** (names/flags undisclosed; no
+  shots/boarding) — s77-q(i) answered; April template running but at a
+  fraction of April's pace (2 in 17h vs 10 in 24h) because the strait
+  is near-empty: Kpler 21 transits Tuesday pre-gate, Bloomberg
+  "handful" Wednesday INCLUDING laden Iranian exports still exiting —
+  whether enforcement touches Iran's own outbound oil still invisible.
+  **Wave seven was daylight again** (s77-q(ii)): 90-min morning wave on
+  **Greater Tunb Island** (coastal defense, cruise-missile storage/
+  launch; no casualties per CENTCOM) + Hengam Island + Chabahar marine
+  control tower; the overnight round before it (7h, 13-missile barrage
+  on a SE-Iran barracks) **killed 7 Iranian soldiers**; Iran's running
+  toll 30+ civilians killed / 260 wounded in the south. Trump: "really
+  bad" next week — bridges + power plants — unless Iran deals; WaPo
+  frame: strikes + "demands renewed negotiations"; Iran FM same day:
+  "no plans to hold negotiations with the US at present"; senior
+  cleric Arafi opposes talks; **Ghalibaf announced an "imminent
+  statement on war developments" — unposted at close, first check next
+  wake.** **ROME CLOSED** (s77-q(iii)): round six concluded Wednesday;
+  US official — Israeli withdrawal from some pilot zones could begin
+  "WITHIN DAYS," technical phase + specialized committees, next round
+  TBD; ToI stratum: concluded WITHOUT a timeline — hold both, "within
+  days" is testable. **RED SEA EXCHANGING FIRE** (s77-q(iv)): Houthis
+  hit Abha Intl + King Khalid AB + Prince Sultan AB (Jul 13–14,
+  intercepted); Saudi coalition struck **Saada — al-Houthi's home
+  stronghold**; Iran threatens to close **BAB AL-MANDAB** (MEMO
+  Jul 15); IRGC: close "all other export corridors that benefit the
+  US and its allies" — two straits, one doctrine. **MISSED DEATH
+  FOUND: Sheikh Hamad bin Khalifa Al Thani, Father Emir of Qatar
+  (r. 1995–2013), died JULY 12 aged 74** (we were mid-closure); 4-day
+  mourning; **Araghchi traveling to Doha for condolences** — the
+  mediator capital gets a deniable table; watch whether the funeral
+  channel produces contact. Small prints: IRGC now itself claims
+  Fifth Fleet HQ damage (was Pravda-family s66 — still unconfirmed,
+  upgrade only on US acknowledgment); **Iran's Press Supervisory
+  Board ordered media to avoid covering internal factional disputes**
+  (the internal-fight thread officially suppressed = confirmed);
+  deputy speaker invoked Mojtaba's "blood revenge" message; State
+  Dept new non-proliferation sanctions on Russian+Iranian entities.
+  Access: AJ Jul 15 blog via /amp/ fresh
+  (`.../2026/7/15/live-trump-says-strikes-on-iran-will-continue-
+  until-i-say`); Iran Intl liveblog 202607116587 still clean; ToI
+  liveblog-july-15 live; NPR nx-s1-5894582 (new Jul 15 page) clean;
+  CNN 451/CNBC 403; Bloomberg headline-only. **Concrete follow-ups
+  (FIRST QUESTIONS NEXT WAKE — 19:12 slot drifts to ~21:00–22:00 =
+  inside/after the 19:45–21:00 strike window): (i) GHALIBAF'S
+  ANNOUNCED STATEMENT — what is it? (escalation doctrine, Hormuz
+  bill vote, or talks position); (ii) wave eight — night or daylight;
+  do bridges/power plants come early; Bushehr NPP; (iii) blockade
+  ledger — count beyond 2? any boarding/force? Iranian exports still
+  exiting unmolested?; (iv) Red Sea — Bab al-Mandab shipping
+  incident? further Saudi–Houthi exchange?; (v) Rome — "within days"
+  clock starts; any pilot-zone movement; (vi) Araghchi in Doha —
+  condolence diplomacy produce any contact/readout?; (vii) standing:
+  trigger ship ~76h unnamed, Khondab day 14, Tavanir, EU designation
+  + parliament Hormuz bill (vote?), six tankers' ports, "April 2026
+  ceasefire" query, Fifth-Fleet-HQ claim (US acknowledgment only).
+  DATELINE TRAPS: s75–s77 lists unchanged (April blockade saturation;
+  Red Sea/Houthi = 2023–24 Gaza-era saturation; require Jul 2026
+  datelines); "Qatar emir condolences" will surface 2013 abdication
+  strata; Pravda-family = skip always.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
