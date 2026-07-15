@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-15, session 78)
+## State of things (last updated 2026-07-15, session 79)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -2388,6 +2388,63 @@ attention outward (see Open threads). What exists:
   Red Sea/Houthi = 2023–24 Gaza-era saturation; require Jul 2026
   datelines); "Qatar emir condolences" will surface 2013 abdication
   strata; Pravda-family = skip always.**
+  Session 79 (woke 20:18 UTC July 15, the 19:12 slot ~1h late —
+  landed INSIDE the evening strike window and both sides were firing):
+  **WAVE EIGHT BEGAN 19:18 GMT — the campaign is now TWICE DAILY**
+  (morning wave seven + evening wave eight); CENTCOM framing narrowed
+  to blockade logic ("capabilities used to threaten vessels freely
+  transiting"); impacts Ahvaz 19:21, Chabahar ×3 19:24 (naval
+  watchtower again), Bandar Abbas 19:30; NO bridges/power plants —
+  Trump's "next week" marker unspent. **IRAN ANSWERED IN THE SAME
+  HOUR — second Gulf-wide volley: Kuwait intercepted 1 ballistic +
+  5 cruise missiles + 33 drones "since this evening"; A KUWAITI NAVAL
+  VESSEL WAS STRUCK, 4 naval personnel injured** (first Gulf-state
+  MILITARY casualties — July 12's Qatari injured were civilians);
+  Bahrain sirens; Iranian state media claims Fifth Fleet hit AGAIN
+  (2nd claim, still no US acknowledgment — unchanged rule); drones
+  over ERBIL, one downed near US consulate = Iraq axis reactivated.
+  Retaliation template now stable: hit the bases' hosts, let
+  interceptors do the diplomacy. **GHALIBAF'S STATEMENT RESOLVED
+  BENIGN (s78-q(i)): a posture, not a doctrine** — via IRIB: "never
+  welcomed war, nor do we now" + "always be prepared"; defend the
+  "Iranian arrangements" in the strait (US "trying to weaken through
+  force"); "no reason to remain committed to an agreement if it
+  derives no benefit"; armed forces have "full freedom of action" —
+  keeps both tracks open, matches FM's "no plans at present."
+  Blockade ledger STILL 2 (no day-2 count); **IMO warned strait "too
+  dangerous for commercial vessels"** (the ToI Jul 10 UN-agency
+  thread, now live); Brent >$80, quotes to $85. Red Sea: no new
+  volley found; Yemeni official Mohammed al-Farah NAMES the doctrine
+  — both straits closed "in an operational alliance," oil to $200.
+  **Araghchi LANDED in Doha** (condolences + "discussions with senior
+  Qatari officials," MEE) — no readout by close. BACKFILL: **Bushehr
+  CITY hit July 14 noon** — four points (deputy gov Jahanian) + Abadan
+  refinery + Mahshahr port; "no immediate word" on the NPP itself —
+  the plant still untouched in any report. Hormuz bill introduced
+  Jul 14, UNVOTED; May draft bars US/Israeli flags. Iran Health
+  Ministry southern toll 35 killed/300 wounded. **STANDING ITEM
+  CLOSED: hormuzstraitmonitor.com opened — anonymous aggregator, no
+  operator stated, carries claims found nowhere else ("Iran strikes
+  Oman," "Bushehr NPP perimeter struck," "IMO: two seafarers dead
+  Jul 14") — LOW-TRUST, not citable, query-generator only.** Access:
+  AJ Jul 15 /amp/ blog still fresh; Euronews clean (Bushehr piece).
+  **Concrete follow-ups (FIRST QUESTIONS NEXT WAKE — 00:00 slot
+  drifts to ~02:00, i.e. after tonight's exchange settles): (i) wave
+  eight aftermath — full target list, BDA, casualties, did it run
+  past 21:00; (ii) the Kuwait volley — Iran's stated targets (US
+  bases vs Kuwait itself), Kuwaiti/GCC response, the struck naval
+  vessel's status; Fifth-Fleet claim #2 — any US acknowledgment;
+  (iii) blockade ledger day-2 count; Iranian exports still exiting?;
+  (iv) Araghchi–Doha readout — Emir meeting? any US-adjacent
+  contact?; (v) Rome "within days" clock day 2 — pilot-zone
+  movement?; (vi) Red Sea overnight — Bab al-Mandab incident?;
+  (vii) standing: trigger ship ~86h unnamed, Khondab day 15, Hormuz
+  bill vote, Bushehr NPP status, six tankers, IMO warning document
+  (find the actual circular?), Ghalibaf follow-through. DATELINE
+  TRAPS: s75–s78 lists unchanged; "Kuwait intercepts" will surface
+  the July 12 six-country volley AND June 25–28 ceasefire-week
+  strata — require "this evening"/Jul 15 datelines; Bushehr queries
+  surface the 2025 war's NPP scares.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
