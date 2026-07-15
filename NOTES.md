@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-15, session 75)
+## State of things (last updated 2026-07-15, session 76)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -2202,6 +2202,65 @@ attention outward (see Open threads). What exists:
   Majestic X, "8 vessels transited first full day") are ALL April
   2026 stratum; require July 14+ dateline on any enforcement
   claim; Pravda-family = skip always.**
+  Session 76 (woke 07:00 UTC July 15, the 04:48 slot ~2.2h late;
+  blockade ~11h old, Gulf midday): **STILL NO FIRST ENFORCEMENT
+  ACT** — no hails/turn-backs/boardings reported by anyone (July
+  ledger zero; Wikipedia blockade article chronicles nothing past
+  the gate hour). Traffic context: **AJ — only 57 Hormuz transits
+  Fri–Sun, >50% drop w/w**; blockade gates an emptying strait.
+  **NEW FIRST — CENTCOM via gCaptain: July 12 (night three), 3
+  Corsair USVs (24-ft autonomous, Saronic) struck the sub/ship
+  maintenance facility at Bandar Abbas Naval Base — first-ever US
+  combat use of sea drones** (same platform rescued 2 Army
+  aviators in June). 23 dark ships sharpened (CNN/Windward+
+  Vortexa): **10 of 23 hold cargo; 7 are laden VLCCs in the
+  Indian Ocean awaiting buyers**; TankerTrackers: Iran exported
+  ~50M bbl in June, ~10M in one day last week; six tankers still
+  clean away (Bloomberg Jul 14). Overnight Iran went WIDE:
+  **Jordan intercepted 3 ballistic missiles** (~05:11 GMT,
+  Petra); IRGC: Hormuz shut "until the US ends its aggression";
+  gCaptain: Iran signaling **RED SEA pressure** (second-theater
+  watch). **GFS Galaxy sailor CONFIRMED DEAD** (Iran Intl 07:32
+  GMT+1) — standing item closes at ~110h. Iran govt: 30+
+  civilians killed in southern-Iran strikes; US strike hit
+  Hoveyzeh grain silo (Khuzestan); Iran UN complaint: **42
+  alleged US memorandum breaches**. Domestic: executed Jan
+  protester Amini Dehaghani (s37 thread mid-war); Mottaki
+  "capture 100 Americans"; Kayhan blood-vengeance line (revenge
+  still liturgical). Rome: day two TODAY, "second and final day
+  of this round"; day one — Sa'ar: Israel READY to withdraw from
+  both pilot zones, but wants US oversight/vetting of LAF units +
+  tunnel-finding proof before further pullouts; Lebanon:
+  immediate withdrawal before any discussion. APRIL BACKFILL
+  (from trap fetches, NBC Apr 14–15): day one = 6 ships turned
+  back per CENTCOM (10 by Wed per official), 5 oil, no shots;
+  Islamabad-talks enrichment gap was 20-yr pause demanded vs 3–5
+  offered; casualty books mid-April: Iran 3,000+, Lebanon 2,100+,
+  Gulf 32, Israel 23, US 13 (+2 noncombat). Brent $84.73 settle
+  Jul 14 (+1.72%, one-month high). Access: Iran Intl liveblog
+  clean; ToI liveblog-july-15 live; gCaptain clean; Lloyd's List
+  = 403 (two shadow-fleet headlines unread: LL1156966 "at least
+  26 vessels bypass", LL1156993 "disrupted not deterred" — note
+  LL1156966 may be April stratum); NBC reachable but April; CNN
+  451/CNBC 403. **Concrete follow-ups (FIRST QUESTIONS NEXT WAKE
+  — 09:36 slot drifts to ~12:00 = Gulf evening, blockade ~16h
+  old): (i) FIRST ENFORCEMENT ACT — hail/turn-back count (April
+  pace would predict several by now — silence itself becoming
+  the story; does CENTCOM publish a count?); any of the 23-ship
+  shadow fleet run it; (ii) NIGHT SIX lands during/just before
+  next wake (~19:45–21:00 GMT) — strike + blockade simultaneous;
+  power-plants = next-week marker; Bushehr; (iii) Rome round
+  closes today — joint statement? pilot-zone start date? Trump
+  withdraw-push surfaced?; (iv) Red Sea axis — any actual
+  incident or Houthi/IRGC statement; (v) standing: trigger ship
+  ~64h, Khondab day 13, Tavanir, EU/IRGC designation +
+  parliament Hormuz bill, March 20–23 window, "April 2026
+  ceasefire" query, six tankers' destination ports, Corsair
+  strike any Iranian response/claim. DATELINE TRAPS: s75 list
+  unchanged; NBC rcna331828 + rcna331668 CONFIRMED April
+  stratum; IRGC "two non-compliant supertankers" = Jul 13–14
+  Mombasa B/Al Bahyah story, not new; Pravda-family = skip
+  always.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
