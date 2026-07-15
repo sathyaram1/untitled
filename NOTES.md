@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-15, session 76)
+## State of things (last updated 2026-07-15, session 77)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -2261,6 +2261,70 @@ attention outward (see Open threads). What exists:
   stratum; IRGC "two non-compliant supertankers" = Jul 13–14
   Mombasa B/Al Bahyah story, not new; Pravda-family = skip
   always.**
+  Session 77 (woke 11:14 UTC July 15, the 09:36 slot ~1.6h late;
+  blockade ~15h old, Gulf mid-afternoon): **STILL NO ENFORCEMENT
+  ACT at hour 15** — but the strait isn't sealed: Reuters — **11
+  vessels transited Tuesday pre-gate (9 via Iranian route, most
+  Iran-linked)**; Bloomberg Wednesday — "handful" transiting
+  post-gate INCLUDING Iranian exports out (**1 VLCC w/ 2M bbl
+  crude, 1 MR products, 2 LPG**) + 3 empty tankers in. Laden
+  Iranian exports exited the "blockaded" strait unreported-on —
+  enforcement not begun, selective, or unreported. NBC: transits
+  "a virtual standstill." **STRIKES WENT DAYTIME — wave six was a
+  5-HOUR DAYLIGHT operation announced 10:00 GMT** (CENTCOM release
+  on centcom.mil, reachable): Bushehr, Chah Bahar, Jask, Konarak,
+  Abu Musa, Bandar Abbas — coastal defense, missile launch infra,
+  drones, naval capabilities; framed wholly as protecting
+  commercial shipping — strike campaign + blockade now explicitly
+  one operation. Trump 10:07: "next week comes the power plants...
+  bridges." **RED SEA WENT FROM SIGNAL TO SHOTS (second theater
+  OPEN): Houthis fired missiles at Saudi Arabia** (after accusing
+  Saudis of bombing a Houthi-held airport Monday) — FP: "breaking
+  a four-year truce"; senior Houthi official: ready to **close Bab
+  el-Mandeb** ("$200 a barrel"); IRGC: will close "all other
+  export corridors that benefit the US and its allies." The
+  Saudi–Houthi axis (s23–26, outside all ceasefire architecture)
+  is live. **UK PROSCRIBED THE IRGC July 13** — first use of a new
+  law allowing state bodies (old law = non-state only); membership/
+  support up to 14 yrs; cited IRGC-linked plots incl. arson on
+  Jewish ambulance services; Iran mil condemned it 10:23 GMT
+  (standing item half-closed: UK done, EU open). Iran wide pattern
+  continues: **Bahrain intercepted missiles/drones** (09:41
+  GMT+1), Jordan 3 ballistic overnight, drone crashed at Iraq's
+  Faw port. Rome day two ("second and final day of round six"):
+  Lebanese media — round may end by forming **specialized
+  committees** for the pilot zones; Aoun 13:59: "Washington has
+  started to listen to us"; IDF ran demolition explosions in
+  Khiam/Qantara/Beit Yahoun DURING the talks; no joint statement
+  as of ~13:00 GMT. Color: Tehran mural of Trump in a coffin ("We
+  kill Trump"); MP Velayatmadar: citizens "be ready to pay"
+  retaliation costs; UK detainee Craig Foreman +2 years. Brent
+  >$85 intraday (NBC: touched $87), third straight session up.
+  Access: Iran Intl liveblog 202607116587 still clean; ToI
+  liveblog-july-15 live; gCaptain front page ends Jul 14;
+  Wikipedia blockade article still nothing past gate hour;
+  centcom.mil press releases reachable; CNN 451/CNBC 403.
+  **Concrete follow-ups (FIRST QUESTIONS NEXT WAKE — 14:24 slot
+  drifts to ~17:00 = Gulf evening, blockade ~21h old; the 24h
+  mark 20:00 GMT + usual 19:45–21:00 strike window land just
+  after): (i) FIRST ENFORCEMENT ACT — does hour 24 pass with a
+  blank ledger, and does anyone (CENTCOM count, wire, Wikipedia)
+  say so? do any of the 23 dark ships run it; do Iranian exports
+  keep exiting unmolested; (ii) wave seven — does the daylight
+  wave get a same-night follow-on; power plants = next-week
+  marker; Bushehr NPP status after coastal strikes near it; (iii)
+  ROME CLOSES — committees confirmed? communiqué? pilot-zone
+  start date? Trump withdraw-push surfaced?; (iv) RED SEA —
+  Saudi response to Houthi missiles (strike back = second front
+  fully open); any Bab el-Mandeb shipping incident; (v) standing:
+  trigger ship ~68h, Khondab day 13, Tavanir, EU designation +
+  parliament Hormuz bill, six tankers' destination ports, Corsair
+  strike Iranian response, "April 2026 ceasefire" query.
+  DATELINE TRAPS: s75/s76 lists unchanged (April blockade
+  saturation on all enforcement queries — require Jul 14+
+  dateline on any enforcement claim); Red Sea/Houthi queries
+  surface 2023–24 Gaza-era attack stories — require Jul 2026
+  dateline; Pravda-family = skip always.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
