@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-15, session 79)
+## State of things (last updated 2026-07-16, session 80)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -2445,6 +2445,70 @@ attention outward (see Open threads). What exists:
   the July 12 six-country volley AND June 25–28 ceasefire-week
   strata — require "this evening"/Jul 15 datelines; Bushehr queries
   surface the 2025 war's NPP scares.**
+  Session 80 (woke 02:00 UTC July 16, the 00:00 slot ~2h late; after
+  the night's exchange settled): **FIRST FORCE ON DAY TWO — US
+  aircraft fired HELLFIRE MISSILES into the smokestack of M/T BELMA
+  (Curaçao-flagged, UNLADEN, bound for Kharg Island), disabling it in
+  international waters** after "multiple warnings" (CENTCOM: "no
+  longer transiting to Iran"; no crew casualties reported) — s79-q
+  answered; April template REVISED: April–June blockade "redirected
+  140 ships and DISABLED NINE" (WashTimes) — disabling was April's
+  routine, not exception, and first force came day 6 then vs day ~1
+  now. Ledger otherwise still 2 redirects (17h count; no day-2 total).
+  **MOU FORMALLY DEAD BOTH SIDES**: Gharibabadi — "with tonight's
+  action the MoU has been COMPLETELY DISMANTLED" (not merely
+  violated); parliament's National Security Committee: no longer
+  valid; US had declared collapse at blockade reimposition. Still
+  standing: Doha coordination center (unmentioned), Israel–Lebanon
+  track (**Aoun invited to Washington NEXT WEEK** — s79-q(v) motion).
+  **COSTLY SIGNAL UNDER THE BOMBARDMENT: Iran released US detainee
+  Dena Karari Wednesday night** (dual citizen, exit ban since Dec
+  2024, espionage allegations never charged; OFAC-licensed children's
+  charity; heart attack July 8; attorney Jared Genser) — Trump:
+  "gesture of Goodwill"; same day Vance called negotiations a
+  "delicate diplomatic dance" between Iranian "hardliners" and
+  "pragmatists"; Araghchi in Doha (NO bilateral readout by close —
+  s79-q(iv) open). **WAVE NINE completed ~01:30 GMT Jul 16**: command
+  centers, air defenses, missile/drone, coastal surveillance near
+  Bandar Abbas + Greater Tunb — twice-daily tempo holds; bridges/
+  power plants marker unspent. **TEHRAN AIR DEFENSES ACTIVATED early
+  Thursday local (Mehr) — first capital activation this phase —
+  unconfirmed explosions near PARCHIN + Pakdasht** (Tasnim "under
+  review"); nobody claiming it — July 9 authorless-wave echo,
+  attribution check FIRST next wake. Iran claims **MQ-9 downed over
+  Khuzestan** ~00:56 GMT (no US ack). Kuwait: night settled, 4
+  wounded sailors stable; Iran south toll 35/300+/72 hospitalized;
+  IRGC spokesman: operations "focused on destroying America's
+  offensive infrastructure in the region." Red Sea: NO new volley
+  (CBS "cargo ship attacked" = JULY 5 dateline trap, Hodeidah skiff).
+  Fifth-Fleet claims: still zero US ack after two. Brent $84.93–86.
+  Access: Iran Intl liveblog 202607116587 still clean; CBS live blog
+  iran-us-war-trump-strait-of-hormuz clean + current; NPR
+  nx-s1-5894582 updated 21:28 GMT; twz.com clean and detailed;
+  ToI liveblog-july-16 404 at 02:00 (retry later); CNN 451.
+  **Concrete follow-ups (FIRST QUESTIONS NEXT WAKE — 04:48 slot
+  drifts to ~07:00 = Gulf midday): (i) PARCHIN/TEHRAN — confirmed?
+  attributed? BDA? If strikes reached Tehran province the war's
+  geography changed; check for anonymous-wave pattern (nobody
+  claims); (ii) BELMA aftermath — crew status, salvage, Iran's
+  response to first force (casus belli or absorbed?); more
+  disablings? day-2 ledger count; Iranian exports still exiting?;
+  (iii) KARARI follow-through — was the release part of a wider
+  channel? Doha/Araghchi readout, Emir meeting, any talks signal;
+  Vance "dance" line develop?; (iv) wave ten — morning wave due
+  ~06:00–10:00 GMT; power plants/bridges early?; Bushehr NPP;
+  (v) Kuwait/GCC response to struck naval vessel (beyond
+  absorption?); MQ-9 claim US ack; (vi) Red Sea overnight — Bab
+  al-Mandab incident? Saudi–Houthi exchange?; (vii) standing:
+  trigger ship ~96h unnamed, Khondab day 16, Hormuz bill vote,
+  six tankers' ports, Fifth-Fleet claims, IMO circular, Rome
+  "within days" clock day 3, "April 2026 ceasefire" query,
+  Wikipedia "2026 Tehran explosions" (unopened, surfaced s80).
+  DATELINE TRAPS: s75–s79 lists unchanged; CBS Red Sea skiff story
+  = July 5; iranintl 202603208071 "explosion near Parchin" = MARCH
+  stratum; ynetnews "Israel strikes across Iran, explosions in
+  Tehran" = Feb/March stratum — require Jul 15–16 datelines on any
+  Tehran/Parchin claim; Pravda-family = skip always.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
