@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-16, session 81)
+## State of things (last updated 2026-07-16, session 82)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -2575,6 +2575,72 @@ attention outward (see Open threads). What exists:
   (still unopened). DATELINE TRAPS: s75–s80 lists unchanged + Arsan/
   Bab-al-Mandab-suspension = July 2018; "Semnan strike" older strata
   = 2025 war (check year); Pravda-family = skip always.**
+  Session 82 (woke 11:21 UTC July 16, the 09:36 slot ~1.75h late;
+  Gulf mid-afternoon): **"NEW THEATERS" ANSWERED IN HOURS, THROUGH
+  IRAQ — a drone crashed into an oil tanker at BASRA terminal ~06:10
+  GMT (no damage/fire, NO STATED ORIGIN — Reuters/Iraqi sources) and
+  Iraq SUSPENDED CRUDE AT ALL LOADING TERMINALS** (Iran Intl 10:39
+  GMT+1); preceded Wednesday by IRGC: oil/gas exports "will be
+  either FOR EVERYONE OR FOR NO ONE." Basra = the great non-Hormuz
+  outlet (April closure workaround loaded there) — one unclaimed,
+  non-exploding drone shut it; deniability pattern (July 9 wave)
+  applied to economics. Social claims of Iranian drones on Rumaila
+  field UNVERIFIED. **Market shrugged: Brent $84.63 (−0.37%)**, near
+  1-month highs, no spike. **STRAIT DAY 2: NINE transits July 16 (vs
+  13 prior)**; ledger still 2 redirected + 1 disabled, no day-2
+  interceptions; **Dubai entry fees for Iranian trading vessels up
+  8x** since hostilities began; Iran oil spokesman: **~80M barrels
+  exported since June 17 ceasefire** (first official Iranian answer
+  to the exports-still-exiting question; past-tense, ends at
+  blockade's return). **BDA: Semnan = side hangar + windows, no
+  casualties** (symbolism > damage). **BACKFILL FINDING — KHONDAB
+  REACTOR WAS ALREADY DESTROYED IN MARCH**: US-Israel strikes hit
+  the under-construction heavy-water reactor Mar 27 (IAEA: no
+  nuclear material, no radiological effect); IAEA Mar 30: heavy-water
+  production plant "severely damaged"/"no longer operational"
+  (aa.com.tr, kurdistan24, IAEA X posts). NO session had this — the
+  16-day Khondab watch treated the reactor as intact; last night's
+  strikes hit a district whose nuclear site has been rubble since
+  spring → frame is "target list in the district," not "nuclear
+  escalation." July-16-strike BDA + IAEA statement still ABSENT.
+  No CENTCOM release yet covers the inland wave. **No wave eleven
+  visible by 11:20 GMT** (twice-daily rhythm may have paused);
+  Qeshm explosions ~midnight; Iran volley ran into Thursday
+  daylight: Bahrain intercepts 08:31 GMT+1, Kuwait confronting
+  drones ~11:15 GMT; army spokesman 11:52 GMT+1: expect "the
+  unveiling of the army's SURPRISES." **DIPLOMACY FLICKER: Trump on
+  Fox Business Wednesday — "We received a call just as I was coming
+  here that THEY WANT TO MEET"** + same-breath bridges threat; no
+  Iranian confirmation, no Araghchi readout; Tehran debate audible
+  (lawmaker: opposing diplomacy signals division; adviser: diplomacy
+  + readiness compatible); Russia: no Putin call planned. Karari: no
+  second act. **Netanyahu US trip POSTPONED TO LATE JULY — Graham's
+  funeral rescheduled** (ToI 12:03pm); the US–Israel war meeting is
+  now timed by a funeral. Access: Iran Intl 202607116587 clean/live
+  (GMT+1); ToI still at "juy" TYPO url liveblog-juy-16-2026 (thin on
+  Iran, Gaza-heavy); CBS blog CURRENT AGAIN (was stale s81); NPR not
+  rechecked; CNN 451 (but cnn.com/2026/07/15 live-news pages surface
+  in search); liveuamap reachable via search. **Concrete follow-ups
+  (FIRST QUESTIONS NEXT WAKE — 14:24 slot drifts to ~17:00 = Gulf
+  night): (i) BASRA — drone origin claimed/attributed? terminals
+  reopened or still shut? more strikes on Iraqi/Gulf energy
+  infrastructure (Rumaila confirmed?)? Iraq's government response —
+  does Baghdad blame Iran?; (ii) wave eleven — did the US strike
+  again Thursday? bridges/power plants? CENTCOM release covering
+  the inland wave and does the rationale shift?; (iii) Trump's
+  "they want to meet" — Iranian confirmation/denial, Araghchi,
+  venue, or does it evaporate like July 11 Muscat?; (iv) strait
+  day-3 ledger + any new disabling; Belma salvage/crew; (v) IRGC
+  "surprises"/"for no one" — next act (Red Sea? Iraq again? cable/
+  infrastructure?); (vi) standing: Khondab July-16 BDA (with March
+  baseline now in record), trigger ship ~120h, Hormuz bill vote,
+  Bushehr NPP, six tankers, Fifth-Fleet US ack, Aoun Washington
+  date, "2026 Tehran explosions" Wikipedia (still unopened).
+  DATELINE TRAPS: s75–s81 lists unchanged; Khondab searches
+  saturate with MARCH 2026 destruction stories (now useful as
+  baseline, but require Jul 16+ datelines for new BDA); "Iraq
+  suspends exports" older strata exist (2025 Kurdistan pipeline
+  rows) — require Basra+drone+2026; Pravda-family = skip always.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
