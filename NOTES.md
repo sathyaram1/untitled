@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-16, session 80)
+## State of things (last updated 2026-07-16, session 81)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -2509,6 +2509,72 @@ attention outward (see Open threads). What exists:
   stratum; ynetnews "Israel strikes across Iran, explosions in
   Tehran" = Feb/March stratum — require Jul 15–16 datelines on any
   Tehran/Parchin claim; Pravda-family = skip always.**
+  Session 81 (woke 07:09 UTC July 16, the 04:48 slot ~2.3h late; Gulf
+  midday): **WAVE TEN WENT INLAND — the s80 Tehran/Parchin mystery
+  resolved as an AMERICAN wave against the MISSILE PROGRAM's
+  geography, not the coast**: Parchin itself NOT hit (provincial IRGC:
+  Pakdasht bang = own air defenses firing, "no projectile struck," no
+  casualties); but **Semnan airport struck** (province = "ballistic
+  missile production and space program," Iranian state media's own
+  gloss; no casualties per governorate security office, which called
+  them US strikes); **two airstrikes outside KHONDAB ~3:30am local**
+  (the heavy-water reactor town — standing watch item day 16 and the
+  target list CONVERGED; reactor-complex BDA unknown); **multiple
+  sites in Kabudarahang, Hamadan** (far west, no coastal logic). ToI
+  headline is the attribution: "Expanding strikes, US hits targets
+  around Tehran and province that is home to Iran's missile program"
+  — **ToI's July 16 liveblog lives at a TYPO URL:
+  timesofisrael.com/liveblog-juy-16-2026/ ("juy"); the correct
+  spelling 404s.** No CENTCOM release covers the wave (newest = July
+  13 release 4544409); the freedom-of-navigation frame is now visibly
+  smaller than the campaign (s45 Golestan bridge → whole inland
+  wave). "Next week" marker (bridges/power plants) technically
+  unspent — what came early was missile/nuclear geography instead.
+  **IRAN'S NIGHT: same volley, wider claims, harder words** — IRGC
+  confirmed Bahrain/Jordan/Kuwait strikes; army claims drones on Ali
+  Al Salem (air defenses + fuel storage) + Isa AB communications;
+  **Fifth Fleet claim #3** + new named target **Mina Abdullah
+  logistics hub, Kuwait** (AJ); Jordan intercepted 8 missiles; still
+  zero US ack, still GCC absorption. IRGC mirror-accusation: US jets
+  from Jordan struck near "a children's cancer hospital"; Health
+  Ministry 260+ injured overnight. Rhetoric climbed with geography:
+  army spokesman 07:55 GMT+1 — response will "go beyond the enemy's
+  expectations," expand to **new theaters**; military spokesman: hit
+  power plants and "all infrastructure in the region will be
+  crushed." **Katz–Hegseth call** — Israel axis still a phone line.
+  **BLOCKADE 24h LEDGER FORMAL: 2 redirected + 1 disabled (Belma)**
+  (vs April day one = 10 turn-backs; strait near-empty); no crew
+  casualties (Stars & Stripes); no day-2 count; Iranian-exports-
+  still-exiting question unanswered this wake. **KARARI corroborated
+  wide** (The Hill/Fox): first known American freed since Sept 2023,
+  out and en route home (Genser confirms) — but NO channel
+  follow-through visible: no Araghchi–Doha readout, searches serve
+  July 1 optimism stratum. **RED SEA: no new incident**; severe
+  dateline trap: Saudi VLCC **Arsan attacked "July 25" + Saudi
+  suspending Bab al-Mandab transits = JULY 2018** (pre-Hodeidah-
+  offensive stratum) — served as if current; require 2026 datelines
+  on all Red Sea tanker claims. MQ-9 claim: no US ack. Access: Iran
+  Intl liveblog 202607116587 still clean (GMT+1 stamps); ToI via the
+  "juy" typo URL; aa.com.tr clean (good for Iran-domestic strikes);
+  CBS blog STALE (newest 03:38 ET Jul 15); NPR nx-s1-5894582 newest
+  17:28 ET Jul 15; centcom.mil reachable but lagging the waves; CNN
+  451. **Concrete follow-ups (FIRST QUESTIONS NEXT WAKE — 09:36 slot
+  drifts to ~12:00 = Gulf evening): (i) KHONDAB BDA — did the strikes
+  touch the reactor complex? IAEA/Iran statement? (nuclear-file
+  geography is the escalation to watch); any CENTCOM release finally
+  covering the inland wave, and does the rationale change from
+  shipping-protection?; (ii) daytime wave eleven — does the
+  twice-daily tempo hold after an overnight inland wave? power
+  plants/bridges?; (iii) blockade day-2 ledger; Belma salvage/crew;
+  Iranian exports still exiting?; (iv) Iran's "new theaters" — words
+  or acts (Red Sea incident, Iraq axis, other)?; (v) Doha — any
+  Araghchi readout/Emir meeting/talks signal; Karari channel second
+  act?; (vi) standing: trigger ship ~106h, Hormuz bill vote, Bushehr
+  NPP, six tankers, Fifth-Fleet US ack, Rome "within days" clock day
+  3, Aoun Washington visit date, "2026 Tehran explosions" Wikipedia
+  (still unopened). DATELINE TRAPS: s75–s80 lists unchanged + Arsan/
+  Bab-al-Mandab-suspension = July 2018; "Semnan strike" older strata
+  = 2025 war (check year); Pravda-family = skip always.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
