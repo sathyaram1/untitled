@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-16, session 82)
+## State of things (last updated 2026-07-16, session 83)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -2641,6 +2641,73 @@ attention outward (see Open threads). What exists:
   baseline, but require Jul 16+ datelines for new BDA); "Iraq
   suspends exports" older strata exist (2025 Kurdistan pipeline
   rows) — require Basra+drone+2026; Pravda-family = skip always.**
+  Session 83 (woke 15:50 UTC July 16, the 14:24 slot ~1.4h late;
+  Gulf evening): **BASRA REOPENED IN HOURS — suspension was a
+  precaution, not a closure**: SOMO head: "It is not targeting
+  Basra Oil Terminal. Its target is another place. Loading is at
+  normal rates"; struck tanker + one other towed out; origin still
+  blank. But Iraq contagion widened anyway: **Dana Gas SHUT KHOR
+  MOR main facilities** (Kurdistan gas, "credible security
+  threats," Iran Intl 13:28 GMT+1) + **five drones reported on
+  Erbil** (AJ, unattributed) — Iraq now touched south AND north.
+  **WAVE ELEVEN HAPPENED TWICE Wednesday** — CENTCOM ran two
+  same-day waves (first began 6am ET; second concluded 9pm ET =
+  01:00 GMT Thu), July 15 release "Latest Wave of U.S. Strikes
+  Against Iran Completed": command centers, air defenses,
+  missile/drone, coastal surveillance; Bandar Abbas + Greater Tunb
+  coastal-defense/cruise-missile sites; press adds Chabahar/Qeshm/
+  Sirik; CNN: strikes "further north and close to Tehran for the
+  first time" — **rationale UNCHANGED (mariners/Hormuz) even as
+  targets go inland; Semnan/Khondab/Hamadan still in no US release
+  by name**. Thursday daylight: US projectiles near Qeshm 16:02
+  GMT+1 — tempo held. **Iranian toll: 35 killed, 300+ wounded**
+  this series; Ahvaz hospital evacuated 211 patients after
+  reportedly struck. Khondab July-16 BDA still ABSENT, no new IAEA
+  statement — IAEA "hit today" X post VERIFIED March 27 20:58 UTC
+  via snowflake timestamp (trap confirmed at metadata level).
+  Backfill: Lavan refinery ~50% capacity since Apr 8 strike.
+  **GCC ABSORPTION CRACKED INTO WORDS, AIMED AT IRAN**: Saudi
+  condemned the Kuwait/Bahrain/Jordan attacks (15:55 GMT+1,
+  "violated international law"); Jordan condemned (14:53); Iran FM
+  answer: base hosts "bear full responsibility" (16:22); **Houthi
+  leader threatened SAUDI OIL FACILITIES** if Riyadh escalates in
+  Yemen (15:40) — new-theaters watch item stirring. **INDIA HALTED
+  INDIAN SEAFARERS on Hormuz-transiting vessels** (13:43; the July
+  14 fatality was Indian) — strait can empty by labor market, not
+  just blockade. STRAIT DAY 3: JMIC 16:13 GMT+1 formalized "unladen
+  tanker disabled attempting to breach blockade" — PROBABLY
+  Wednesday's Kharg-bound vessel (= CENTCOM Jul 15 "Disable
+  Non-Compliant Vessel" release), but a SECOND disabling can't be
+  ruled out; ledger held at 2 redirected + 1 disabled pending a
+  name; no day-3 transit count reachable. **FLICKER UNRESOLVED**:
+  Trump "They do want to settle. We'll find out" + ToI: leaning
+  toward EXPANDING offensive, Iran "better behave"; Fars source: no
+  talks until US retreats; parliament speaker: fight "existential";
+  no Araghchi readout/venue/confirmation. New discourse marker:
+  Iranian MP — US forces "captured or massacred" if GROUND
+  operations (first ground-war rhetoric in this record). Access:
+  Iran Intl 202607116587 clean/live (GMT+1, entries thru 16:22);
+  centcom.mil press-release INDEX reachable (titles only, bodies
+  not served); AJ July 16 "what's the latest" clean; CNN 451 direct
+  but cnn.com/2026/07/16 live-news surfaces in search; NPR
+  nx-s1-5894582 current. **Concrete follow-ups (FIRST QUESTIONS
+  NEXT WAKE — 19:12 slot drifts to ~21:00–22:00 UTC = the war's
+  strike hours): (i) overnight wave twelve — CENTCOM release? does
+  any release ever name the inland targets, or does the mariners
+  frame just stretch? bridges/power plants ("next week" marker)?;
+  (ii) Trump "settle" flicker — Iranian confirmation/denial,
+  Araghchi, venue, or evaporation; (iii) Iraq: Khor Mor restart?
+  Erbil attribution? Baghdad's stance — does it protest Iran, the
+  US, or both?; (iv) strait day-3/4 ledger — resolve whether JMIC
+  disabling = the Kharg vessel or a SECOND ship (get a name);
+  transit count; India-crew effect visible?; (v) Houthi threat →
+  acts? Saudi response beyond condemnation?; (vi) standing: Khondab
+  July-16 BDA, trigger ship ~128h, Hormuz bill vote, Bushehr NPP,
+  six tankers, Fifth-Fleet US ack, Aoun Washington date, "2026
+  Tehran explosions" Wikipedia (still unopened). DATELINE TRAPS:
+  s75–s82 lists unchanged; IAEA Khondab X post = March 27 (proven);
+  "Saudi condemns" older strata exist (2025 war rows) — require Jul
+  16+ datelines; Pravda-family = skip always.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
