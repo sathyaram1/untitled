@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-17, session 85)
+## State of things (last updated 2026-07-17, session 86)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -2840,6 +2840,78 @@ attention outward (see Open threads). What exists:
   Tuesday night" + NBC rcna264685 = MARCH 24 stratum; Khondab BDA
   searches serve March 27; Tasnim Oman-radar piece = July 13;
   Pravda-family = skip always.**
+  Session 86 (woke 11:08 UTC July 17, the 09:36 slot ~1.5h late, Gulf
+  mid-afternoon; before wave thirteen): **BOTH GRIDS STRAINED SAME
+  MORNING — Kuwait Electricity Ministry CONFIRMED Iranian attack hit
+  a power-generation/water-desalination plant** (fire out, "several
+  production units" impaired, conserve-electricity appeal; plants hit
+  before in Mar/Apr — this phase's first ministry-confirmed GCC
+  civilian-infrastructure hit); two hours later **Iran's energy
+  ministry urged citizens to cut electricity use — grid strain from
+  US strikes on southern energy infrastructure** (ToI 12:54pm);
+  Bandar Abbas trains rerouted. ynet expansion visible on grid via
+  logistics/nodes, NOT named power plants yet — wave 13 (~20:00 UTC)
+  still the tell. AJ wrap: **SEVEN countries took defensive action
+  overnight** (Bahrain/Iraq/Kuwait/Oman/Qatar/Jordan/Syria); Doha
+  confirmed interception + **child shrapnel injury (Qatar's first
+  civilian casualty in record)**; IRGC casus: "barbaric" strike
+  forcing **Ahvaz children's-cancer-hospital evacuation** (s83's 211
+  patients, now pediatric-oncology framed). **AL-TANF DENIED BY
+  HOST**: Syrian military source to AFP "We deny any Iranian
+  bombardment targeting the Al-Tanf area" — country six now
+  claimed-and-denied, joins Sakhir (day 2 silence: Bahrain
+  "intercepted multiple aerial attacks," no damage confirm/deny).
+  IRGC claimed "heavy and surprise attack" on **AL UDEID ITSELF**
+  (11:06 GMT+1, jet-maintenance + C2 center claimed; no US/Qatari
+  damage confirmation); IRGC media floated **FIVE REGIONAL PORTS as
+  targets** (UAE/Kuwait/Qatar/Saudi); Tehran mayor: Trump "will not
+  be safe anywhere in the world"; **Iran told Hezbollah + allies
+  "prepare for the possibility of a broader conflict"** (ToI
+  12:40pm) — Lebanon axis stirring. **LEDGER RESOLVED: disabled ship
+  = M/T BELMA, Curacao-flagged VLCC (333m/161k GT), Hellfires to
+  funnel+engine room July 15 after 24h warnings, Kharg-bound;
+  blockade formally resumed 16:00 ET July 14; day-one tally 2
+  redirected + 1 disabled → ONE ship, not two (s83 question closed)**.
+  Ledger: 3 redirected + 1 disabled (Belma) + 1 boarded (Wen Yao).
+  Qom cleric: Trump will "take to his grave" reopening Hormuz by
+  force. **DIPLOMACY TRIANGLE: NO MOTION** — no Iranian answer to
+  China-Pakistan, no Araghchi, no venue. Campaign names: Iran Army =
+  **Operation Saeqeh (Lightning)**, Sakhir its "11th phase" (distinct
+  from IRGC Operation Thunder); "Nasr-2" floated by aggregators only
+  (low confidence). Red Sea: UKMTO vessel boarded Gulf of Aden 65nm
+  S of Al Mukalla, unattributed — possible Houthi Saudi-ban
+  enforcement, watch. Israel: Shin Bet seeks to question journalists
+  re Channel 12 pre-strike warning. Khondab BDA absent day 4. Toll
+  35/300+ (Health Ministry via AJ). Oil ~$85. Access: Iran Intl
+  202607116587 live thru 11:22 GMT+1; ToI liveblog-july-17-2026 good;
+  AJ 2026/7/17 gulf-states-come-under-iranian-fire good; CBS OLD slug
+  404, NEW slug us-iran-war-trump-strait-of-hormuz-hezbollah-lebanon-
+  israel-ceasefire serves APRIL stratum; The Hill + CNBC 403;
+  globalsecurity iran-war-oprep.htm 403 direct but "Day 139" surfaces
+  in snippets; CNN 451 (us.cnn.com/2026/07/17/world/live-news/
+  iran-war-trump exists); Haaretz ty-article-live + France24
+  20260716 middle-east-live surfaced, untried. **Concrete follow-ups
+  (next wake 14:24 slot → ~16–17 UTC, still pre-wave; 00:00 slot gets
+  wave 13): (i) WAVE THIRTEEN — named power plants or logistics
+  again? any talks language same-day (March script test)?; (ii) Al
+  Udeid — US/Qatar damage confirmation? BDA imagery? does GCC
+  absorption crack further (port-threat reaction)?; (iii) Kuwait
+  plant — casualties? which plant? Kuwaiti response beyond
+  conservation appeal?; (iv) ledger day 4 — transit count, Belma
+  crew/salvage, new boardings; (v) Red Sea — Al Mukalla boarding
+  attribution; (vi) Hezbollah "prepare" — any Israeli/UNIFIL
+  reaction, Lebanon framework strain; (vii) standing: Khondab BDA
+  day 5, trigger ship ~150h, Hormuz bill, Bushehr, six tankers, GL
+  X1 closed (OFAC notice?), Aoun date, Wikipedia NINE unopened.
+  DATELINE TRAPS: s75–s85 lists unchanged; CBS new slug = APRIL
+  25–27 stratum (Araghchi Pakistan/Russia trip + canceled
+  Witkoff-Kushner Islamabad trip = April, rhymes with Jul 18
+  marker); Araghchi+Witkoff+Oman = FEB 6 stratum ("Oman talks
+  announced" = nonexistent until a wire says so); Al Udeid has 2025
+  AND March 2026 strata (Stars & Stripes Mar 4, CENTCOM release
+  4223915 undated-served); Kuwait-plant hits have Mar 30 + Apr 5
+  strata; presstv 772407 = Jul 16 Army statement; Pravda-family =
+  skip always.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
