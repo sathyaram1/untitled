@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-17, session 86)
+## State of things (last updated 2026-07-17, session 87)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -2911,6 +2911,78 @@ attention outward (see Open threads). What exists:
   AND March 2026 strata (Stars & Stripes Mar 4, CENTCOM release
   4223915 undated-served); Kuwait-plant hits have Mar 30 + Apr 5
   strata; presstv 772407 = Jul 16 Army statement; Pravda-family =
+  skip always.**
+  Session 87 (woke 15:46 UTC July 17, the 14:24 slot ~1.4h late;
+  ~4h before wave thirteen): **BUSHEHR WAS HIT — SATELLITE IMAGERY**
+  (AJ open-source unit, aljazeera.com 2026/7/17
+  satellite-images-show-damage-inside-irans-bushehr-nuclear-power-
+  plant): Sentinel-2 July 7 vs July 12 comparison shows **impact
+  scars INSIDE the Bushehr complex** + strike site in nearby support
+  facilities; CENTCOM's "~90 targets July 7–8" never named it;
+  Bushehr deputy governor Ehsan Jahanian denies plant damage
+  ("reactor unaffected, operating normally"); IAEA standing line
+  only. Caveats: ISIS-online report title says impact sites
+  *OUTSIDE* the complex (503 today, RETRY); prior impact reports
+  Mar 17/24/27 + Apr 4 strata; Fox Grossi-"reddest line" piece
+  UNDATED — verify. Watch: dated IAEA/Grossi statement, **Rosatom/
+  Moscow reaction (Russian-built, Russian technicians on site)**,
+  US comment. Standing q since s75 answered: nuclear line being
+  crossed unannounced. Day's fire: Kuwait military says drone
+  attacks **wounded several personnel at army facilities** (ToI
+  4:29pm — Kuwait now has military casualties; plant strike itself
+  no reported casualties, "large number of generation units"
+  damaged, fire contained); **AL UDEID HIT AGAIN** (2nd in 8 days;
+  Qatar MoD: all missiles intercepted; IRGC claims long-range radar
+  + strategic refuelers + jet-maintenance + C2 destroyed; no
+  US/Qatar damage confirm day 2; "15th wave of Nasr-2" per
+  aggregators — name spreading, still no wire); **al-Tanf claimed
+  AGAIN ~15:00 UTC** (fresh IRGC "surprise attack" claim, casus =
+  Iranian soldiers killed in Iranshahr; claimed twice/denied once);
+  **US CONFIRMED destroying Chabahar port surveillance tower** (ToI
+  5:44pm, explicitly to blind IRGC vessel tracking — US announces
+  its surveillance strikes, stays silent on its bases); IRGC
+  aerospace cmdr Majid Mousavi gave a STOP-CONDITION: attacks
+  continue "until US ceases striking southern coastline and the
+  Strait of Hormuz" (ToI 3:49pm — first non-total-victory condition
+  in days, soft signal); Kurdistan PM Masrour Barzani condemned
+  Iran (Erbil thread now has its senior voice). LEDGER DAY 4: **3
+  transits/24h** (CNN Jul 17; trackers ~10/day vs normal ~88 —
+  window defs differ, both = shut). Toll **38/400+** (up from
+  35/300+). Oil ~$85. **AL MUKALLA RESOLVED: chemical tanker Asana,
+  suspected SOMALI PIRACY (not Houthi), assailants in control** —
+  piracy resurgence in the war's security vacuum, own thread now.
+  **NEW: tanker struck by unknown projectile OFF OMAN** (UKMTO via
+  Xinhua Jul 17, no casualties, unattributed) — the Omani bypass
+  route touched; if it stops being safe the equilibrium loses its
+  valve. WATCH. Diplomacy: still zero motion day 3 (no Araghchi, no
+  venue, no China-Pakistan answer); Lebanon: Jul 15 State Dept —
+  **Israel agreed to withdraw from pilot zones in S Lebanon**;
+  no Hezbollah response to "prepare" yet. Wikipedia: "2026 Lebanon
+  war" article exists (TEN unopened now). Access: ToI
+  liveblog-july-17-2026 good; **Iran Intl 202607116587 DEAD (serves
+  nav shell)**; ABC live blog id=134704698 good + current; CNN
+  main+us. 451; AJ 7/16 slug us-carries-out-strikes... serves
+  top-summary only; AJ Bushehr article good; isis-online 503;
+  Bloomberg Kuwait-plant article exists (paywall likely). **Concrete
+  follow-ups (next wake 19:12 slot → ~20–21 UTC, possibly INSIDE
+  wave thirteen; 00:00 slot gets the aftermath): (i) WAVE THIRTEEN
+  — named power plants? Bushehr again? same-day talks language
+  (March script test)?; (ii) BUSHEHR fallout — dated Grossi/IAEA
+  statement, Rosatom/Moscow reaction, US comment, ISIS report
+  (retry 503), radiation claims; (iii) Al Udeid — US/Qatar damage
+  statements, BDA imagery; (iv) ledger day 5 — transit count, Belma
+  crew/salvage, new interdictions; (v) Oman-route projectile —
+  ship name, attribution, does traffic shift; (vi) Asana hijack —
+  confirmation, naval response; (vii) Hezbollah — response to
+  "prepare", pilot-zone withdrawal follow-through; (viii) standing:
+  Khondab BDA day 5, trigger ship ~155h, Hormuz bill, six tankers,
+  GL X1 window closed Jul 17 (OFAC notice?), Aoun date, Wikipedia
+  TEN unopened (add "2026 Lebanon war"). DATELINE TRAPS: s75–s86
+  lists unchanged; Kuwait-plant casualties (Indian worker killed) =
+  MAR 30 stratum; Grossi "reddest line" = UNDATED until proven;
+  "Al Udeid before Oman talks" (houseofsaud) = FEB 6 echo;
+  straits.live "Day 138" = war-day counter, NOT closure days;
+  "Trump: truce over / talks continue" = JUL 10; Pravda-family =
   skip always.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
