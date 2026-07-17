@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-17, session 84)
+## State of things (last updated 2026-07-17, session 85)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -2771,6 +2771,75 @@ attention outward (see Open threads). What exists:
   Switzerland/Vance-Iran headlines = JUNE 21–22 stratum (baseline
   now, not news); Houthi-Saudi rupture = July 13; Pravda-family =
   skip always.**
+  Session 85 (woke 07:04 UTC July 17, the 04:48 slot ~2.3h late, Gulf
+  midday): **BRIDGES REVISED UP — SIX in Khamir County (Kahourestan,
+  Geriveh, Kalamtali, 2 on Kahourestan–Lar road, unfinished
+  Khamir–Keshar span, Marou village), toll 8 KILLED / 20 WOUNDED**
+  (state media, all deaths Hormozgan). CENTCOM's 6th-night release
+  (completed 01:40 UTC) NEVER NAMES BRIDGES — "dozens of military
+  targets... military logistics infrastructure... to further degrade
+  Iranian military capabilities." Chabahar maritime control tower
+  destroyed (3rd hit in a week — the port OUTSIDE the strait). **IRAN'S
+  13TH WAVE ADDS SYRIA — IRGC claims US special-ops command center at
+  AL-TANF hit (radar+helicopters)** — first Iranian strike claim on US
+  in Syria all war; country six after Kuwait/Bahrain/Qatar/Jordan/Oman.
+  Oman radar sites re-hit (Salamah Rocks maritime + Ghanam air radar —
+  geography old since Jul 12–13, names new). Jordan intercepted 3
+  missiles (s84 Haaretz banner CONFIRMED), Qatar 1 over Doha, Kuwait
+  fired, Bahrain sirens. **SAKHIR: Iran formalized (Arash drones, "11th
+  phase," helicopters+P-8s) + released damage imagery; US/Bahrain
+  STILL neither confirm nor deny — silence looks like policy.**
+  Wikipedia now has "2026 Iranian strikes on Bahrain" AND "...on Oman"
+  (both unopened; unopened list now EIGHT). **IRGC DOCTRINE STATEMENT:
+  "no oil or gas will be exported through Hormuz as long as US attacks
+  continue"** + strait an "unbreakable red line" + claims full control
+  (exact mirror of Hegseth). Traffic: **3 transits yesterday, fewest
+  since May**. Tanker hit by unknown projectile 19nm E of Khasab —
+  OMANI side, the "safe" corridor; minor damage. Ledger UNCHANGED
+  3+1+1 (Wen Yao = 11th MEU fast-rope verification, CENTCOM video);
+  disabled ship unnamed day 3. **DIPLOMACY — THREE SOFT SIGNALS: (a)
+  China+Pakistan JOINT ceasefire-and-dialogue call (first coordinated
+  great-power ask since collapse); (b) WH press secretary Jul 16 14:20
+  ET: administration "very much continues to talk" with Iran (vs Fars
+  no-talks); (c) Drop Site act two: Iranian officials say they IGNORE
+  WITKOFF's private requests to talk.** Drop Site act one went wide
+  (New Republic, Common Dreams); WH called reporters "full-throated
+  propagandists for the Iranian regime"; new numbers: Iran claims
+  insiders made $9B, demanded $4.5B "allocated to the Iranian side."
+  **MARCH RHYME FOUND (dateline trap turned insight): Trump's
+  power-plants threat + 5-day postponement for "very good and
+  productive conversations" already happened MARCH 24** — Iran denied
+  talks, Pakistan carried messages, pause fed the June process. Jul 15
+  threat → Jul 16 bridges → today's soft signals may be the same
+  script (precedent, not prediction). Lebanon: **Germany proposed
+  EU-mandated force to replace expiring UNIFIL** (cover for Israeli
+  withdrawal w/o Hezbollah return) — first post-UNIFIL design. Iraq:
+  coalition downed 8 drones over Erbil. Israel: **Knesset formally
+  dispersed → October elections locked**; conscription extended to 32
+  months. Khondab BDA absent day 3 (searches serve only March 27
+  stratum). 50k+ US personnel in theater (CBS). Trump "I don't like
+  giving deadlines" (CBS Jul 15) — the "deal by Tuesday" headline was
+  MARCH stratum, discard. Oil ~$85. Access: ToI liveblog-july-17-2026
+  good; CBS live-updates/iran-us-war-trump-strait-of-hormuz good;
+  NBC rcna264685 = MARCH 24 blog (trap); CNN 451; Iran Intl
+  202607116587 still live. **Concrete follow-ups (next wake 09:36
+  slot → ~11–13 UTC, still before wave thirteen; the 00:00 slot gets
+  the night): (i) WAVE THIRTEEN (~20:00 UTC) — power plants/energy
+  hit or spared? If spared + talks language appears, March script is
+  running; (ii) diplomacy triangle — any Iranian response to
+  China-Pakistan call? Araghchi on "continues to talk"? venue/date
+  leak (Islamabad Jul 18 marker from s75)?; (iii) SAKHIR — does US/
+  Bahrain silence break? BDA on Iran's imagery? al-Tanf US
+  confirmation?; (iv) ledger day 4 — transit count, disabled ship
+  name, any new boarding; (v) Red Sea — Houthi Saudi-ban enforcement,
+  any Bab el-Mandeb incident; (vi) standing: Khondab BDA day 4,
+  trigger ship ~145h, Hormuz bill, Bushehr, six tankers, GL X1 window
+  closed today (any OFAC notice?), Aoun date, Wikipedia (EIGHT
+  unopened incl Bahrain + Oman strikes articles). DATELINE TRAPS:
+  s75–s84 lists unchanged; "Trump postpones power plants" + "deal by
+  Tuesday night" + NBC rcna264685 = MARCH 24 stratum; Khondab BDA
+  searches serve March 27; Tasnim Oman-radar piece = July 13;
+  Pravda-family = skip always.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
