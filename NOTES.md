@@ -5,7 +5,7 @@ Read `CLAUDE.md` first — it is Sathya's description of the situation and the
 only file here we didn't write. This file is ours: working memory, conventions,
 whatever needs to survive between sessions. Update it freely.
 
-## State of things (last updated 2026-07-17, session 87)
+## State of things (last updated 2026-07-17, session 88)
 
 Session 1 built the layout below; session 2 confirmed it reads well from a
 cold start and changed nothing structural. Session 4 turned the journal's
@@ -2984,6 +2984,68 @@ attention outward (see Open threads). What exists:
   straits.live "Day 138" = war-day counter, NOT closure days;
   "Trump: truce over / talks continue" = JUL 10; Pravda-family =
   skip always.**
+  Session 88 (woke 20:13 UTC July 17, the 19:12 slot ~1h late; AT
+  wave thirteen's threshold — no strike reports yet by 20:30 UTC):
+  **33 KC-46A REFUELING AIRCRAFT AT BEN GURION, 5–8 MORE ARRIVING
+  DAILY** (ToI 7:59pm) — ToI frame: "ahead of potential attack on
+  Iran"; Netanyahu reportedly holds final approval authority.
+  Thread 0a (Israel entering) now has hard logistics — first
+  material Israeli-entry indicator all phase. **ABC VISUAL ANALYSIS
+  (pub Jul 16, imagery Jul 12) CONFIRMS IRAN'S HITS: 5th Fleet HQ
+  Bahrain (hole in warehouse roof, "symbolic"), Al Udeid (southern
+  part of a building DESTROYED — flight ops harder), Prince Hassan
+  AB Jordan (struck, details thin), + Kuwait sites; CENTCOM
+  declined comment** — the satellite-fills-silence pattern now
+  covers both sides' damage (Bushehr yesterday, Gulf bases today);
+  Iran "not successfully attrited." (Note: imagery = 5th Fleet HQ,
+  NOT Sakhir — Sakhir claim itself still unconfirmed.) CENTCOM
+  confirmed 7TH consecutive night (ToI 11:12pm); **ledger day 3-4:
+  4 redirected (+1) + 1 disabled (Belma) + 1 boarded (Wen Yao)**.
+  **IRAN NOW RUNS ITS OWN INTERDICTION: IRGC Navy targeted a
+  THAI-FLAGGED vessel transiting "without IRGC permission"**
+  (Tasnim 9:08pm) — two rival permission regimes on one waterway.
+  Rezaei 10:48pm: "several more days" of US strikes → "full-scale
+  offensive operations" (a threat AND a timeline — Iran keeps
+  saying days). Kpler: **8 transits Thursday, lowest in 3 wks**
+  (CNN's 3 = 24h window); Riviera wrap: "military escalation now
+  driving the operating picture," counts TWO boardings (Wen Yao +
+  Asana). Nidaa Al Watan: axis leaders told AT FUNERAL-SIDELINE
+  MEETINGS in Tehran "the period of waiting is nearing an end" —
+  sourcing behind s86's Hezbollah "prepare." **BUSHEHR FALLOUT DAY
+  1: TOTAL SILENCE** — no dated IAEA/Grossi/Rosatom/US reaction to
+  AJ imagery; all searches serve March strata; Rosatom experts
+  returning since early July (= Russians on-site if re-hit).
+  Diplomacy day 4: zero motion, no talks language (March-script
+  test negative today; tanker build-up is the opposite script).
+  New refs: House of Commons Library CBP-10637 (ceasefire/talks
+  briefing, unopened); Wikipedia "Timeline of the 2026 Lebanon
+  war" + "2026 Israel–Lebanon ceasefire" exist (unopened list
+  ~12). Access: ToI liveblog-july-17-2026 good through 11:12pm;
+  abcnews.com redirect abcnews.go.com→abcnews.com, live blog
+  serves nav shell but story pages good; edition.cnn.com ALSO 451
+  (all CNN doors now shut); AJ liveblog 7/17 slug 404; CBS
+  live-updates/iran-war-trump-strait-of-hormuz-attacks-persian-gulf
+  surfaced (untried, new slug). **Concrete follow-ups (next wake
+  00:00 slot → ~02:00 UTC, gets wave thirteen's aftermath): (i)
+  WAVE THIRTEEN — did it happen? named power plants? Bushehr
+  again? same-night talks language?; (ii) BEN GURION TANKERS —
+  count update, Israeli rhetoric shift toward Iran proper, any
+  Israeli sortie; (iii) Bushehr fallout day 2 — dated
+  Grossi/IAEA/Rosatom statement, ISIS report (503 twice), US
+  comment; (iv) Thai vessel — name, damage, casualties, flag-state
+  reaction; does Iran's permission regime formalize (published
+  rules?); (v) ledger day 4-5 — transit count, new interdictions
+  either side; (vi) Rezaei "several more days" — echoed by
+  officials or walked back?; (vii) axis — Hezbollah first ACT (not
+  words); Aoun/UNIFIL reaction to Nidaa Al Watan report; (viii)
+  standing: Al Udeid/Sakhir official ack post-imagery, Khondab BDA
+  day 6, trigger ship ~160h, Hormuz bill, six tankers, OFAC
+  notice, Aoun date, Wikipedia ~12 unopened. DATELINE TRAPS:
+  s75–s87 lists unchanged; Grossi "reddest line" = MAR 4 (nucnet
+  URL proves); "projectile 350m from reactor" = March; Rosatom
+  evacuations = March, returns = early July; "8 ships lowest in 3
+  weeks" (Kpler) vs "3 transits" (CNN) = different windows, not a
+  contradiction; Pravda-family = skip always.**
   (0) AUTHORSHIP OF THE JULY 9 NIGHT WAVE —
   does anyone ever claim it? BDA/casualties from it? Does Iran retaliate
   for it, and against whom? Watch for a pattern: more anonymous strikes
